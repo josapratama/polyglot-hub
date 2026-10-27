@@ -221,20 +221,28 @@ class PolyglotDatabase {
     fs.writeFileSync(DB_FILE, JSON.stringify(this.data, null, 2), "utf-8");
   }
 
+  public reload(): void {
+    this.data = this.loadData();
+  }
+
   // Projects
   public getProjects(): Project[] {
+    this.reload();
     return this.data.projects;
   }
 
   public getProjectBySlug(slug: string): Project | undefined {
+    this.reload();
     return this.data.projects.find((p) => p.slug === slug);
   }
 
   public getProjectById(id: string): Project | undefined {
+    this.reload();
     return this.data.projects.find((p) => p.id === id);
   }
 
   public createProject(name: string, slug: string, description: string, icon?: string): Project {
+    this.reload();
     const newProj: Project = {
       id: "proj_" + crypto.randomUUID().slice(0, 8),
       name,
@@ -260,10 +268,12 @@ class PolyglotDatabase {
 
   // Languages
   public getLanguages(): Language[] {
+    this.reload();
     return this.data.languages;
   }
 
   public addLanguage(code: string, name: string): Language {
+    this.reload();
     const existing = this.data.languages.find((l) => l.code === code);
     if (existing) return existing;
     const newLang: Language = { code: code.toLowerCase(), name };
@@ -274,6 +284,7 @@ class PolyglotDatabase {
 
   // Translations
   public getTranslations(projectId?: string): TranslationItem[] {
+    this.reload();
     if (projectId) {
       return this.data.translations.filter((t) => t.projectId === projectId);
     }

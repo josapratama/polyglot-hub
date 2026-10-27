@@ -35,6 +35,33 @@
       "icon": "⚡",
       "createdAt": "2026-10-27T02:36:03.053Z",
       "updatedAt": "2026-10-27T02:36:03.053Z"
+    },
+    {
+      "id": "proj_352f0dea",
+      "name": "WA Bridge Gateway",
+      "slug": "wabridge",
+      "description": "WhatsApp API bridge & broadcasts",
+      "icon": "📱",
+      "createdAt": "2026-10-27T02:54:13.791Z",
+      "updatedAt": "2026-10-27T02:54:13.791Z"
+    },
+    {
+      "id": "proj_81ef53ec",
+      "name": "Arsip Digital",
+      "slug": "arsip-digital",
+      "description": "Document indexation & archives",
+      "icon": "📑",
+      "createdAt": "2026-10-27T02:54:13.793Z",
+      "updatedAt": "2026-10-27T02:54:13.793Z"
+    },
+    {
+      "id": "proj_8cfc89d0",
+      "name": "Portfolio Web",
+      "slug": "portfolio",
+      "description": "Personal showcase, skills & contact",
+      "icon": "🚀",
+      "createdAt": "2026-10-27T02:54:13.794Z",
+      "updatedAt": "2026-10-27T02:54:13.794Z"
     }
   ],
   "languages": [
@@ -66,7 +93,7 @@
         "ja": "保存"
       },
       "createdAt": "2026-10-27T02:36:03.053Z",
-      "updatedAt": "2026-10-27T02:36:03.053Z"
+      "updatedAt": "2026-10-27T02:54:13.795Z"
     },
     {
       "id": "t_com_2",
@@ -79,7 +106,7 @@
         "ja": "キャンセル"
       },
       "createdAt": "2026-10-27T02:36:03.053Z",
-      "updatedAt": "2026-10-27T02:36:03.053Z"
+      "updatedAt": "2026-10-27T02:54:13.795Z"
     },
     {
       "id": "t_com_3",
@@ -92,7 +119,7 @@
         "ja": "削除"
       },
       "createdAt": "2026-10-27T02:36:03.053Z",
-      "updatedAt": "2026-10-27T02:36:03.053Z"
+      "updatedAt": "2026-10-27T02:54:13.821Z"
     },
     {
       "id": "t_com_4",
@@ -105,7 +132,7 @@
         "ja": "確認"
       },
       "createdAt": "2026-10-27T02:36:03.053Z",
-      "updatedAt": "2026-10-27T02:36:03.053Z"
+      "updatedAt": "2026-10-27T02:54:13.837Z"
     },
     {
       "id": "t_com_5",
@@ -118,7 +145,7 @@
         "ja": "ログイン"
       },
       "createdAt": "2026-10-27T02:36:03.053Z",
-      "updatedAt": "2026-10-27T02:36:03.053Z"
+      "updatedAt": "2026-10-27T02:54:13.961Z"
     },
     {
       "id": "t_com_6",
@@ -127,11 +154,11 @@
       "namespace": "auth",
       "translations": {
         "en": "Create Account",
-        "id": "Buat Akun",
+        "id": "Daftar Akun",
         "ja": "アカウント作成"
       },
       "createdAt": "2026-10-27T02:36:03.053Z",
-      "updatedAt": "2026-10-27T02:36:03.053Z"
+      "updatedAt": "2026-10-27T02:54:13.962Z"
     },
     {
       "id": "t_com_7",
@@ -144,7 +171,7 @@
         "ja": "読み込み中..."
       },
       "createdAt": "2026-10-27T02:36:03.053Z",
-      "updatedAt": "2026-10-27T02:36:03.053Z"
+      "updatedAt": "2026-10-27T02:54:14.042Z"
     },
     {
       "id": "t_ub_1",
@@ -156,7 +183,7 @@
         "id": "Infrastruktur File Modern & Pengiriman CDN Cerdas"
       },
       "createdAt": "2026-10-27T02:36:03.053Z",
-      "updatedAt": "2026-10-27T02:36:03.053Z"
+      "updatedAt": "2026-10-27T02:54:14.200Z"
     },
     {
       "id": "t_ub_2",
@@ -168,7 +195,7 @@
         "id": "Tarik & lepas file di sini, atau klik untuk memilih"
       },
       "createdAt": "2026-10-27T02:36:03.053Z",
-      "updatedAt": "2026-10-27T02:36:03.053Z"
+      "updatedAt": "2026-10-27T02:54:14.202Z"
     },
     {
       "id": "t_ub_3",
@@ -180,7 +207,1409 @@
         "id": "Studio Editor Gambar"
       },
       "createdAt": "2026-10-27T02:36:03.053Z",
-      "updatedAt": "2026-10-27T02:36:03.053Z"
+      "updatedAt": "2026-10-27T02:54:14.362Z"
+    },
+    {
+      "id": "t_787b231d",
+      "projectId": "proj_common",
+      "key": "actions.edit",
+      "namespace": "actions",
+      "translations": {
+        "en": "Edit",
+        "id": "Ubah",
+        "ja": "編集"
+      },
+      "createdAt": "2026-10-27T02:54:13.822Z",
+      "updatedAt": "2026-10-27T02:54:13.822Z"
+    },
+    {
+      "id": "t_411305ec",
+      "projectId": "proj_common",
+      "key": "actions.create",
+      "namespace": "actions",
+      "translations": {
+        "en": "Create",
+        "id": "Buat",
+        "ja": "作成"
+      },
+      "createdAt": "2026-10-27T02:54:13.823Z",
+      "updatedAt": "2026-10-27T02:54:13.823Z"
+    },
+    {
+      "id": "t_111532ab",
+      "projectId": "proj_common",
+      "key": "actions.back",
+      "namespace": "actions",
+      "translations": {
+        "en": "Back",
+        "id": "Kembali",
+        "ja": "戻る"
+      },
+      "createdAt": "2026-10-27T02:54:13.838Z",
+      "updatedAt": "2026-10-27T02:54:13.838Z"
+    },
+    {
+      "id": "t_354ece1a",
+      "projectId": "proj_common",
+      "key": "actions.next",
+      "namespace": "actions",
+      "translations": {
+        "en": "Next",
+        "id": "Lanjut",
+        "ja": "次へ"
+      },
+      "createdAt": "2026-10-27T02:54:13.839Z",
+      "updatedAt": "2026-10-27T02:54:13.839Z"
+    },
+    {
+      "id": "t_35bd77be",
+      "projectId": "proj_common",
+      "key": "actions.submit",
+      "namespace": "actions",
+      "translations": {
+        "en": "Submit",
+        "id": "Kirim",
+        "ja": "送信"
+      },
+      "createdAt": "2026-10-27T02:54:13.856Z",
+      "updatedAt": "2026-10-27T02:54:13.856Z"
+    },
+    {
+      "id": "t_4da5b340",
+      "projectId": "proj_common",
+      "key": "actions.refresh",
+      "namespace": "actions",
+      "translations": {
+        "en": "Refresh",
+        "id": "Segarkan",
+        "ja": "更新"
+      },
+      "createdAt": "2026-10-27T02:54:13.857Z",
+      "updatedAt": "2026-10-27T02:54:13.857Z"
+    },
+    {
+      "id": "t_653462df",
+      "projectId": "proj_common",
+      "key": "actions.close",
+      "namespace": "actions",
+      "translations": {
+        "en": "Close",
+        "id": "Tutup",
+        "ja": "閉じる"
+      },
+      "createdAt": "2026-10-27T02:54:13.857Z",
+      "updatedAt": "2026-10-27T02:54:13.857Z"
+    },
+    {
+      "id": "t_0c4501a5",
+      "projectId": "proj_common",
+      "key": "actions.search",
+      "namespace": "actions",
+      "translations": {
+        "en": "Search",
+        "id": "Cari",
+        "ja": "検索"
+      },
+      "createdAt": "2026-10-27T02:54:13.872Z",
+      "updatedAt": "2026-10-27T02:54:13.872Z"
+    },
+    {
+      "id": "t_04ce1a78",
+      "projectId": "proj_common",
+      "key": "actions.filter",
+      "namespace": "actions",
+      "translations": {
+        "en": "Filter",
+        "id": "Saring",
+        "ja": "フィルター"
+      },
+      "createdAt": "2026-10-27T02:54:13.873Z",
+      "updatedAt": "2026-10-27T02:54:13.873Z"
+    },
+    {
+      "id": "t_fa57d0a2",
+      "projectId": "proj_common",
+      "key": "actions.download",
+      "namespace": "actions",
+      "translations": {
+        "en": "Download",
+        "id": "Unduh",
+        "ja": "ダウンロード"
+      },
+      "createdAt": "2026-10-27T02:54:13.873Z",
+      "updatedAt": "2026-10-27T02:54:13.873Z"
+    },
+    {
+      "id": "t_ae98217d",
+      "projectId": "proj_common",
+      "key": "actions.upload",
+      "namespace": "actions",
+      "translations": {
+        "en": "Upload",
+        "id": "Unggah",
+        "ja": "アップロード"
+      },
+      "createdAt": "2026-10-27T02:54:13.887Z",
+      "updatedAt": "2026-10-27T02:54:13.887Z"
+    },
+    {
+      "id": "t_6f9bda05",
+      "projectId": "proj_common",
+      "key": "actions.copy",
+      "namespace": "actions",
+      "translations": {
+        "en": "Copy",
+        "id": "Salin",
+        "ja": "コピー"
+      },
+      "createdAt": "2026-10-27T02:54:13.888Z",
+      "updatedAt": "2026-10-27T02:54:13.888Z"
+    },
+    {
+      "id": "t_cd0a4bf1",
+      "projectId": "proj_common",
+      "key": "actions.copied",
+      "namespace": "actions",
+      "translations": {
+        "en": "Copied!",
+        "id": "Tersalin!",
+        "ja": "コピーしました！"
+      },
+      "createdAt": "2026-10-27T02:54:13.889Z",
+      "updatedAt": "2026-10-27T02:54:13.889Z"
+    },
+    {
+      "id": "t_e5d382b5",
+      "projectId": "proj_common",
+      "key": "actions.open",
+      "namespace": "actions",
+      "translations": {
+        "en": "Open",
+        "id": "Buka",
+        "ja": "開く"
+      },
+      "createdAt": "2026-10-27T02:54:13.902Z",
+      "updatedAt": "2026-10-27T02:54:13.902Z"
+    },
+    {
+      "id": "t_b63b16c3",
+      "projectId": "proj_common",
+      "key": "actions.view",
+      "namespace": "actions",
+      "translations": {
+        "en": "View",
+        "id": "Lihat",
+        "ja": "表示"
+      },
+      "createdAt": "2026-10-27T02:54:13.903Z",
+      "updatedAt": "2026-10-27T02:54:13.903Z"
+    },
+    {
+      "id": "t_932766b8",
+      "projectId": "proj_common",
+      "key": "actions.export",
+      "namespace": "actions",
+      "translations": {
+        "en": "Export",
+        "id": "Ekspor",
+        "ja": "エクスポート"
+      },
+      "createdAt": "2026-10-27T02:54:13.903Z",
+      "updatedAt": "2026-10-27T02:54:13.903Z"
+    },
+    {
+      "id": "t_8140836d",
+      "projectId": "proj_common",
+      "key": "actions.import",
+      "namespace": "actions",
+      "translations": {
+        "en": "Import",
+        "id": "Impor",
+        "ja": "インポート"
+      },
+      "createdAt": "2026-10-27T02:54:13.925Z",
+      "updatedAt": "2026-10-27T02:54:13.925Z"
+    },
+    {
+      "id": "t_e784ec73",
+      "projectId": "proj_common",
+      "key": "actions.retry",
+      "namespace": "actions",
+      "translations": {
+        "en": "Retry",
+        "id": "Coba Lagi",
+        "ja": "再試行"
+      },
+      "createdAt": "2026-10-27T02:54:13.927Z",
+      "updatedAt": "2026-10-27T02:54:13.927Z"
+    },
+    {
+      "id": "t_691b7fb6",
+      "projectId": "proj_common",
+      "key": "actions.reset",
+      "namespace": "actions",
+      "translations": {
+        "en": "Reset",
+        "id": "Reset",
+        "ja": "リセット"
+      },
+      "createdAt": "2026-10-27T02:54:13.939Z",
+      "updatedAt": "2026-10-27T02:54:13.939Z"
+    },
+    {
+      "id": "t_5a901962",
+      "projectId": "proj_common",
+      "key": "actions.clear",
+      "namespace": "actions",
+      "translations": {
+        "en": "Clear",
+        "id": "Bersihkan",
+        "ja": "クリア"
+      },
+      "createdAt": "2026-10-27T02:54:13.961Z",
+      "updatedAt": "2026-10-27T02:54:13.961Z"
+    },
+    {
+      "id": "t_dc155e9e",
+      "projectId": "proj_common",
+      "key": "auth.logout",
+      "namespace": "auth",
+      "translations": {
+        "en": "Sign Out",
+        "id": "Keluar",
+        "ja": "ログアウト"
+      },
+      "createdAt": "2026-10-27T02:54:13.976Z",
+      "updatedAt": "2026-10-27T02:54:13.976Z"
+    },
+    {
+      "id": "t_b855ec2f",
+      "projectId": "proj_common",
+      "key": "auth.email",
+      "namespace": "auth",
+      "translations": {
+        "en": "Email Address",
+        "id": "Alamat Email",
+        "ja": "メールアドレス"
+      },
+      "createdAt": "2026-10-27T02:54:13.977Z",
+      "updatedAt": "2026-10-27T02:54:13.977Z"
+    },
+    {
+      "id": "t_af7d7cd7",
+      "projectId": "proj_common",
+      "key": "auth.password",
+      "namespace": "auth",
+      "translations": {
+        "en": "Password",
+        "id": "Kata Sandi",
+        "ja": "パスワード"
+      },
+      "createdAt": "2026-10-27T02:54:13.977Z",
+      "updatedAt": "2026-10-27T02:54:13.977Z"
+    },
+    {
+      "id": "t_2ce5c492",
+      "projectId": "proj_common",
+      "key": "auth.confirm_password",
+      "namespace": "auth",
+      "translations": {
+        "en": "Confirm Password",
+        "id": "Konfirmasi Kata Sandi",
+        "ja": "パスワード再入力"
+      },
+      "createdAt": "2026-10-27T02:54:13.978Z",
+      "updatedAt": "2026-10-27T02:54:13.978Z"
+    },
+    {
+      "id": "t_4f086ab3",
+      "projectId": "proj_common",
+      "key": "auth.forgot_password",
+      "namespace": "auth",
+      "translations": {
+        "en": "Forgot Password?",
+        "id": "Lupa Kata Sandi?",
+        "ja": "パスワードをお忘れですか？"
+      },
+      "createdAt": "2026-10-27T02:54:13.999Z",
+      "updatedAt": "2026-10-27T02:54:13.999Z"
+    },
+    {
+      "id": "t_2bc75ec7",
+      "projectId": "proj_common",
+      "key": "auth.remember_me",
+      "namespace": "auth",
+      "translations": {
+        "en": "Remember Me",
+        "id": "Ingat Saya",
+        "ja": "ログイン状態を保持"
+      },
+      "createdAt": "2026-10-27T02:54:13.999Z",
+      "updatedAt": "2026-10-27T02:54:13.999Z"
+    },
+    {
+      "id": "t_ed742584",
+      "projectId": "proj_common",
+      "key": "auth.full_name",
+      "namespace": "auth",
+      "translations": {
+        "en": "Full Name",
+        "id": "Nama Lengkap",
+        "ja": "氏名"
+      },
+      "createdAt": "2026-10-27T02:54:14.021Z",
+      "updatedAt": "2026-10-27T02:54:14.021Z"
+    },
+    {
+      "id": "t_f713173a",
+      "projectId": "proj_common",
+      "key": "auth.welcome_back",
+      "namespace": "auth",
+      "translations": {
+        "en": "Welcome Back",
+        "id": "Selamat Datang Kembali",
+        "ja": "おかえりなさい"
+      },
+      "createdAt": "2026-10-27T02:54:14.022Z",
+      "updatedAt": "2026-10-27T02:54:14.022Z"
+    },
+    {
+      "id": "t_389bea2b",
+      "projectId": "proj_common",
+      "key": "status.saving",
+      "namespace": "status",
+      "translations": {
+        "en": "Saving...",
+        "id": "Menyimpan...",
+        "ja": "保存中..."
+      },
+      "createdAt": "2026-10-27T02:54:14.043Z",
+      "updatedAt": "2026-10-27T02:54:14.043Z"
+    },
+    {
+      "id": "t_d8abf1e2",
+      "projectId": "proj_common",
+      "key": "status.success",
+      "namespace": "status",
+      "translations": {
+        "en": "Success",
+        "id": "Berhasil",
+        "ja": "成功"
+      },
+      "createdAt": "2026-10-27T02:54:14.067Z",
+      "updatedAt": "2026-10-27T02:54:14.067Z"
+    },
+    {
+      "id": "t_a00e365e",
+      "projectId": "proj_common",
+      "key": "status.failed",
+      "namespace": "status",
+      "translations": {
+        "en": "Failed",
+        "id": "Gagal",
+        "ja": "失敗"
+      },
+      "createdAt": "2026-10-27T02:54:14.068Z",
+      "updatedAt": "2026-10-27T02:54:14.068Z"
+    },
+    {
+      "id": "t_0e465081",
+      "projectId": "proj_common",
+      "key": "status.error",
+      "namespace": "status",
+      "translations": {
+        "en": "Error Occurred",
+        "id": "Terjadi Kesalahan",
+        "ja": "エラーが発生しました"
+      },
+      "createdAt": "2026-10-27T02:54:14.088Z",
+      "updatedAt": "2026-10-27T02:54:14.088Z"
+    },
+    {
+      "id": "t_9b5ee27e",
+      "projectId": "proj_common",
+      "key": "status.active",
+      "namespace": "status",
+      "translations": {
+        "en": "Active",
+        "id": "Aktif",
+        "ja": "有効"
+      },
+      "createdAt": "2026-10-27T02:54:14.089Z",
+      "updatedAt": "2026-10-27T02:54:14.089Z"
+    },
+    {
+      "id": "t_3edd16e5",
+      "projectId": "proj_common",
+      "key": "status.inactive",
+      "namespace": "status",
+      "translations": {
+        "en": "Inactive",
+        "id": "Tidak Aktif",
+        "ja": "無効"
+      },
+      "createdAt": "2026-10-27T02:54:14.089Z",
+      "updatedAt": "2026-10-27T02:54:14.089Z"
+    },
+    {
+      "id": "t_b5c7e47b",
+      "projectId": "proj_common",
+      "key": "status.online",
+      "namespace": "status",
+      "translations": {
+        "en": "Online",
+        "id": "Online",
+        "ja": "オンライン"
+      },
+      "createdAt": "2026-10-27T02:54:14.090Z",
+      "updatedAt": "2026-10-27T02:54:14.090Z"
+    },
+    {
+      "id": "t_dd92862b",
+      "projectId": "proj_common",
+      "key": "status.offline",
+      "namespace": "status",
+      "translations": {
+        "en": "Offline",
+        "id": "Offline",
+        "ja": "オフライン"
+      },
+      "createdAt": "2026-10-27T02:54:14.091Z",
+      "updatedAt": "2026-10-27T02:54:14.091Z"
+    },
+    {
+      "id": "t_ecd48d0b",
+      "projectId": "proj_common",
+      "key": "nav.dashboard",
+      "namespace": "nav",
+      "translations": {
+        "en": "Dashboard",
+        "id": "Dashboard",
+        "ja": "ダッシュボード"
+      },
+      "createdAt": "2026-10-27T02:54:14.112Z",
+      "updatedAt": "2026-10-27T02:54:14.112Z"
+    },
+    {
+      "id": "t_2397cf5d",
+      "projectId": "proj_common",
+      "key": "nav.settings",
+      "namespace": "nav",
+      "translations": {
+        "en": "Settings",
+        "id": "Pengaturan",
+        "ja": "設定"
+      },
+      "createdAt": "2026-10-27T02:54:14.113Z",
+      "updatedAt": "2026-10-27T02:54:14.113Z"
+    },
+    {
+      "id": "t_3b566d2a",
+      "projectId": "proj_common",
+      "key": "nav.analytics",
+      "namespace": "nav",
+      "translations": {
+        "en": "Analytics",
+        "id": "Analitik",
+        "ja": "分析"
+      },
+      "createdAt": "2026-10-27T02:54:14.113Z",
+      "updatedAt": "2026-10-27T02:54:14.114Z"
+    },
+    {
+      "id": "t_d9181bc0",
+      "projectId": "proj_common",
+      "key": "nav.profile",
+      "namespace": "nav",
+      "translations": {
+        "en": "Profile",
+        "id": "Profil",
+        "ja": "プロフィール"
+      },
+      "createdAt": "2026-10-27T02:54:14.133Z",
+      "updatedAt": "2026-10-27T02:54:14.133Z"
+    },
+    {
+      "id": "t_288c651d",
+      "projectId": "proj_common",
+      "key": "nav.help",
+      "namespace": "nav",
+      "translations": {
+        "en": "Help & Docs",
+        "id": "Bantuan & Panduan",
+        "ja": "ヘルプとドキュメント"
+      },
+      "createdAt": "2026-10-27T02:54:14.134Z",
+      "updatedAt": "2026-10-27T02:54:14.134Z"
+    },
+    {
+      "id": "t_51e918a5",
+      "projectId": "proj_common",
+      "key": "confirm.delete_title",
+      "namespace": "confirm",
+      "translations": {
+        "en": "Are you sure you want to delete this?",
+        "id": "Apakah Anda yakin ingin menghapus ini?",
+        "ja": "本当に削除しますか？"
+      },
+      "createdAt": "2026-10-27T02:54:14.156Z",
+      "updatedAt": "2026-10-27T02:54:14.156Z"
+    },
+    {
+      "id": "t_a66800bc",
+      "projectId": "proj_common",
+      "key": "confirm.delete_desc",
+      "namespace": "confirm",
+      "translations": {
+        "en": "This action cannot be undone.",
+        "id": "Tindakan ini tidak dapat dibatalkan.",
+        "ja": "この操作は取り消せません。"
+      },
+      "createdAt": "2026-10-27T02:54:14.157Z",
+      "updatedAt": "2026-10-27T02:54:14.157Z"
+    },
+    {
+      "id": "t_0af4dd49",
+      "projectId": "proj_common",
+      "key": "confirm.yes_delete",
+      "namespace": "confirm",
+      "translations": {
+        "en": "Yes, Delete",
+        "id": "Ya, Hapus",
+        "ja": "はい、削除します"
+      },
+      "createdAt": "2026-10-27T02:54:14.158Z",
+      "updatedAt": "2026-10-27T02:54:14.158Z"
+    },
+    {
+      "id": "t_3cc2e6b9",
+      "projectId": "proj_common",
+      "key": "table.no_data",
+      "namespace": "table",
+      "translations": {
+        "en": "No records found",
+        "id": "Tidak ada data ditemukan",
+        "ja": "データが見つかりません"
+      },
+      "createdAt": "2026-10-27T02:54:14.177Z",
+      "updatedAt": "2026-10-27T02:54:14.177Z"
+    },
+    {
+      "id": "t_b1650f30",
+      "projectId": "proj_common",
+      "key": "table.search_placeholder",
+      "namespace": "table",
+      "translations": {
+        "en": "Search items...",
+        "id": "Cari data...",
+        "ja": "検索..."
+      },
+      "createdAt": "2026-10-27T02:54:14.178Z",
+      "updatedAt": "2026-10-27T02:54:14.178Z"
+    },
+    {
+      "id": "t_887cc7d9",
+      "projectId": "proj_uploadbox",
+      "key": "hero.subtitle",
+      "namespace": "hero",
+      "translations": {
+        "en": "Upload, transform, optimize, and deliver media globally with microsecond latency.",
+        "id": "Unggah, transformasi, optimalkan, dan distribusikan media secara global dengan latensi mikrodetik."
+      },
+      "createdAt": "2026-10-27T02:54:14.201Z",
+      "updatedAt": "2026-10-27T02:54:14.201Z"
+    },
+    {
+      "id": "t_7251d576",
+      "projectId": "proj_uploadbox",
+      "key": "upload.clipboard_hint",
+      "namespace": "upload",
+      "translations": {
+        "en": "Press Ctrl+V anywhere to paste screenshot from clipboard",
+        "id": "Tekan Ctrl+V di mana saja untuk menempelkan screenshot dari clipboard"
+      },
+      "createdAt": "2026-10-27T02:54:14.215Z",
+      "updatedAt": "2026-10-27T02:54:14.215Z"
+    },
+    {
+      "id": "t_258d255c",
+      "projectId": "proj_uploadbox",
+      "key": "upload.target_folder",
+      "namespace": "upload",
+      "translations": {
+        "en": "Target Folder",
+        "id": "Folder Tujuan"
+      },
+      "createdAt": "2026-10-27T02:54:14.216Z",
+      "updatedAt": "2026-10-27T02:54:14.216Z"
+    },
+    {
+      "id": "t_2b11b378",
+      "projectId": "proj_uploadbox",
+      "key": "upload.url_title",
+      "namespace": "upload",
+      "translations": {
+        "en": "Upload from Remote URL",
+        "id": "Unggah dari URL Eksternal"
+      },
+      "createdAt": "2026-10-27T02:54:14.239Z",
+      "updatedAt": "2026-10-27T02:54:14.239Z"
+    },
+    {
+      "id": "t_a34598ba",
+      "projectId": "proj_uploadbox",
+      "key": "upload.queue_title",
+      "namespace": "upload",
+      "translations": {
+        "en": "Upload Queue",
+        "id": "Antrean Unggahan"
+      },
+      "createdAt": "2026-10-27T02:54:14.260Z",
+      "updatedAt": "2026-10-27T02:54:14.260Z"
+    },
+    {
+      "id": "t_64145b76",
+      "projectId": "proj_uploadbox",
+      "key": "files.title",
+      "namespace": "files",
+      "translations": {
+        "en": "All Asset Library",
+        "id": "Pustaka Semua Aset"
+      },
+      "createdAt": "2026-10-27T02:54:14.261Z",
+      "updatedAt": "2026-10-27T02:54:14.261Z"
+    },
+    {
+      "id": "t_02bbf63b",
+      "projectId": "proj_uploadbox",
+      "key": "files.filter_all",
+      "namespace": "files",
+      "translations": {
+        "en": "All Assets",
+        "id": "Semua Aset"
+      },
+      "createdAt": "2026-10-27T02:54:14.285Z",
+      "updatedAt": "2026-10-27T02:54:14.285Z"
+    },
+    {
+      "id": "t_2c636d2d",
+      "projectId": "proj_uploadbox",
+      "key": "files.filter_images",
+      "namespace": "files",
+      "translations": {
+        "en": "Images",
+        "id": "Gambar"
+      },
+      "createdAt": "2026-10-27T02:54:14.286Z",
+      "updatedAt": "2026-10-27T02:54:14.286Z"
+    },
+    {
+      "id": "t_18d4163d",
+      "projectId": "proj_uploadbox",
+      "key": "files.filter_videos",
+      "namespace": "files",
+      "translations": {
+        "en": "Videos",
+        "id": "Video"
+      },
+      "createdAt": "2026-10-27T02:54:14.309Z",
+      "updatedAt": "2026-10-27T02:54:14.309Z"
+    },
+    {
+      "id": "t_c9f7f742",
+      "projectId": "proj_uploadbox",
+      "key": "files.filter_docs",
+      "namespace": "files",
+      "translations": {
+        "en": "Documents",
+        "id": "Dokumen"
+      },
+      "createdAt": "2026-10-27T02:54:14.310Z",
+      "updatedAt": "2026-10-27T02:54:14.310Z"
+    },
+    {
+      "id": "t_a2a14b1a",
+      "projectId": "proj_uploadbox",
+      "key": "files.new_folder",
+      "namespace": "files",
+      "translations": {
+        "en": "+ New Folder",
+        "id": "+ Folder Baru"
+      },
+      "createdAt": "2026-10-27T02:54:14.334Z",
+      "updatedAt": "2026-10-27T02:54:14.334Z"
+    },
+    {
+      "id": "t_f27716ae",
+      "projectId": "proj_uploadbox",
+      "key": "files.batch_selected",
+      "namespace": "files",
+      "translations": {
+        "en": "{count} assets selected",
+        "id": "{count} aset dipilih"
+      },
+      "createdAt": "2026-10-27T02:54:14.335Z",
+      "updatedAt": "2026-10-27T02:54:14.335Z"
+    },
+    {
+      "id": "t_14e04a00",
+      "projectId": "proj_uploadbox",
+      "key": "editor.rotate_left",
+      "namespace": "editor",
+      "translations": {
+        "en": "Rotate 90° Left",
+        "id": "Putar 90° ke Kiri"
+      },
+      "createdAt": "2026-10-27T02:54:14.364Z",
+      "updatedAt": "2026-10-27T02:54:14.364Z"
+    },
+    {
+      "id": "t_f77d8d2a",
+      "projectId": "proj_uploadbox",
+      "key": "editor.rotate_right",
+      "namespace": "editor",
+      "translations": {
+        "en": "Rotate 90° Right",
+        "id": "Putar 90° ke Kanan"
+      },
+      "createdAt": "2026-10-27T02:54:14.396Z",
+      "updatedAt": "2026-10-27T02:54:14.396Z"
+    },
+    {
+      "id": "t_27948899",
+      "projectId": "proj_uploadbox",
+      "key": "editor.crop",
+      "namespace": "editor",
+      "translations": {
+        "en": "Crop Image",
+        "id": "Potong Gambar"
+      },
+      "createdAt": "2026-10-27T02:54:14.397Z",
+      "updatedAt": "2026-10-27T02:54:14.397Z"
+    },
+    {
+      "id": "t_c395c314",
+      "projectId": "proj_uploadbox",
+      "key": "editor.apply_crop",
+      "namespace": "editor",
+      "translations": {
+        "en": "Apply Crop Area",
+        "id": "Terapkan Pemotongan"
+      },
+      "createdAt": "2026-10-27T02:54:14.423Z",
+      "updatedAt": "2026-10-27T02:54:14.423Z"
+    },
+    {
+      "id": "t_e8044672",
+      "projectId": "proj_uploadbox",
+      "key": "editor.save_as_new",
+      "namespace": "editor",
+      "translations": {
+        "en": "Save as New Asset",
+        "id": "Simpan sebagai Aset Baru"
+      },
+      "createdAt": "2026-10-27T02:54:14.424Z",
+      "updatedAt": "2026-10-27T02:54:14.424Z"
+    },
+    {
+      "id": "t_d91b6f06",
+      "projectId": "proj_uploadbox",
+      "key": "cdn.direct_url",
+      "namespace": "cdn",
+      "translations": {
+        "en": "Direct CDN URL",
+        "id": "URL CDN Langsung"
+      },
+      "createdAt": "2026-10-27T02:54:14.450Z",
+      "updatedAt": "2026-10-27T02:54:14.450Z"
+    },
+    {
+      "id": "t_5930e3bf",
+      "projectId": "proj_uploadbox",
+      "key": "cdn.markdown_embed",
+      "namespace": "cdn",
+      "translations": {
+        "en": "Markdown Embed",
+        "id": "Sintaks Markdown"
+      },
+      "createdAt": "2026-10-27T02:54:14.451Z",
+      "updatedAt": "2026-10-27T02:54:14.451Z"
+    },
+    {
+      "id": "t_7f1b2f9f",
+      "projectId": "proj_uploadbox",
+      "key": "cdn.html_embed",
+      "namespace": "cdn",
+      "translations": {
+        "en": "HTML <img> Tag",
+        "id": "Tag HTML <img>"
+      },
+      "createdAt": "2026-10-27T02:54:14.452Z",
+      "updatedAt": "2026-10-27T02:54:14.452Z"
+    },
+    {
+      "id": "t_48631325",
+      "projectId": "proj_uploadbox",
+      "key": "trash.title",
+      "namespace": "trash",
+      "translations": {
+        "en": "Trash Bin",
+        "id": "Tempat Sampah"
+      },
+      "createdAt": "2026-10-27T02:54:14.475Z",
+      "updatedAt": "2026-10-27T02:54:14.475Z"
+    },
+    {
+      "id": "t_3469f002",
+      "projectId": "proj_uploadbox",
+      "key": "trash.purge_30d",
+      "namespace": "trash",
+      "translations": {
+        "en": "Files in trash will be permanently purged after 30 days",
+        "id": "File di tempat sampah akan dihapus permanen setelah 30 hari"
+      },
+      "createdAt": "2026-10-27T02:54:14.476Z",
+      "updatedAt": "2026-10-27T02:54:14.476Z"
+    },
+    {
+      "id": "t_6dd03f8f",
+      "projectId": "proj_uploadbox",
+      "key": "trash.empty_trash",
+      "namespace": "trash",
+      "translations": {
+        "en": "Empty Trash",
+        "id": "Kosongkan Sampah"
+      },
+      "createdAt": "2026-10-27T02:54:14.498Z",
+      "updatedAt": "2026-10-27T02:54:14.498Z"
+    },
+    {
+      "id": "t_24dfccf7",
+      "projectId": "proj_uploadbox",
+      "key": "trash.restore",
+      "namespace": "trash",
+      "translations": {
+        "en": "Restore Asset",
+        "id": "Pulihkan Aset"
+      },
+      "createdAt": "2026-10-27T02:54:14.499Z",
+      "updatedAt": "2026-10-27T02:54:14.499Z"
+    },
+    {
+      "id": "t_221bba08",
+      "projectId": "proj_nexus",
+      "key": "chat.channels",
+      "namespace": "chat",
+      "translations": {
+        "en": "Channels",
+        "id": "Saluran"
+      },
+      "createdAt": "2026-10-27T02:54:14.524Z",
+      "updatedAt": "2026-10-27T02:54:14.524Z"
+    },
+    {
+      "id": "t_12d4e639",
+      "projectId": "proj_nexus",
+      "key": "chat.direct_messages",
+      "namespace": "chat",
+      "translations": {
+        "en": "Direct Messages",
+        "id": "Pesan Langsung"
+      },
+      "createdAt": "2026-10-27T02:54:14.525Z",
+      "updatedAt": "2026-10-27T02:54:14.525Z"
+    },
+    {
+      "id": "t_ec92c571",
+      "projectId": "proj_nexus",
+      "key": "chat.type_message",
+      "namespace": "chat",
+      "translations": {
+        "en": "Type a message...",
+        "id": "Ketik pesan..."
+      },
+      "createdAt": "2026-10-27T02:54:14.548Z",
+      "updatedAt": "2026-10-27T02:54:14.548Z"
+    },
+    {
+      "id": "t_2efca7fe",
+      "projectId": "proj_nexus",
+      "key": "chat.send",
+      "namespace": "chat",
+      "translations": {
+        "en": "Send Message",
+        "id": "Kirim Pesan"
+      },
+      "createdAt": "2026-10-27T02:54:14.549Z",
+      "updatedAt": "2026-10-27T02:54:14.549Z"
+    },
+    {
+      "id": "t_a5f4c179",
+      "projectId": "proj_nexus",
+      "key": "chat.typing",
+      "namespace": "chat",
+      "translations": {
+        "en": "{name} is typing...",
+        "id": "{name} sedang mengetik..."
+      },
+      "createdAt": "2026-10-27T02:54:14.571Z",
+      "updatedAt": "2026-10-27T02:54:14.571Z"
+    },
+    {
+      "id": "t_04b84e74",
+      "projectId": "proj_nexus",
+      "key": "chat.online_count",
+      "namespace": "chat",
+      "translations": {
+        "en": "{count} members online",
+        "id": "{count} anggota online"
+      },
+      "createdAt": "2026-10-27T02:54:14.572Z",
+      "updatedAt": "2026-10-27T02:54:14.572Z"
+    },
+    {
+      "id": "t_9a92be8a",
+      "projectId": "proj_nexus",
+      "key": "chat.attach_file",
+      "namespace": "chat",
+      "translations": {
+        "en": "Attach Media or File",
+        "id": "Lampirkan Media atau File"
+      },
+      "createdAt": "2026-10-27T02:54:14.593Z",
+      "updatedAt": "2026-10-27T02:54:14.593Z"
+    },
+    {
+      "id": "t_48aa9515",
+      "projectId": "proj_nexus",
+      "key": "chat.record_voice",
+      "namespace": "chat",
+      "translations": {
+        "en": "Record Voice Message",
+        "id": "Rekam Pesan Suara"
+      },
+      "createdAt": "2026-10-27T02:54:14.594Z",
+      "updatedAt": "2026-10-27T02:54:14.594Z"
+    },
+    {
+      "id": "t_2361a960",
+      "projectId": "proj_nexus",
+      "key": "room.create_channel",
+      "namespace": "room",
+      "translations": {
+        "en": "Create New Channel",
+        "id": "Buat Saluran Baru"
+      },
+      "createdAt": "2026-10-27T02:54:14.617Z",
+      "updatedAt": "2026-10-27T02:54:14.617Z"
+    },
+    {
+      "id": "t_d1547423",
+      "projectId": "proj_nexus",
+      "key": "room.members",
+      "namespace": "room",
+      "translations": {
+        "en": "Channel Members",
+        "id": "Anggota Saluran"
+      },
+      "createdAt": "2026-10-27T02:54:14.618Z",
+      "updatedAt": "2026-10-27T02:54:14.618Z"
+    },
+    {
+      "id": "t_8505ae21",
+      "projectId": "proj_nexus",
+      "key": "room.leave",
+      "namespace": "room",
+      "translations": {
+        "en": "Leave Channel",
+        "id": "Tinggalkan Saluran"
+      },
+      "createdAt": "2026-10-27T02:54:14.642Z",
+      "updatedAt": "2026-10-27T02:54:14.642Z"
+    },
+    {
+      "id": "t_c6a86c96",
+      "projectId": "proj_nexus",
+      "key": "presence.online",
+      "namespace": "presence",
+      "translations": {
+        "en": "Online",
+        "id": "Aktif"
+      },
+      "createdAt": "2026-10-27T02:54:14.644Z",
+      "updatedAt": "2026-10-27T02:54:14.644Z"
+    },
+    {
+      "id": "t_f6e64e01",
+      "projectId": "proj_nexus",
+      "key": "presence.away",
+      "namespace": "presence",
+      "translations": {
+        "en": "Away",
+        "id": "Tidak di Tempat"
+      },
+      "createdAt": "2026-10-27T02:54:14.645Z",
+      "updatedAt": "2026-10-27T02:54:14.645Z"
+    },
+    {
+      "id": "t_0329ec1b",
+      "projectId": "proj_nexus",
+      "key": "presence.dnd",
+      "namespace": "presence",
+      "translations": {
+        "en": "Do Not Disturb",
+        "id": "Jangan Ganggu"
+      },
+      "createdAt": "2026-10-27T02:54:14.646Z",
+      "updatedAt": "2026-10-27T02:54:14.646Z"
+    },
+    {
+      "id": "t_c8533bb7",
+      "projectId": "proj_minihost",
+      "key": "dashboard.apps",
+      "namespace": "dashboard",
+      "translations": {
+        "en": "Deployed Applications",
+        "id": "Aplikasi Terpasang"
+      },
+      "createdAt": "2026-10-27T02:54:14.647Z",
+      "updatedAt": "2026-10-27T02:54:14.647Z"
+    },
+    {
+      "id": "t_cc6c7aee",
+      "projectId": "proj_minihost",
+      "key": "dashboard.cpu_usage",
+      "namespace": "dashboard",
+      "translations": {
+        "en": "CPU Allocation",
+        "id": "Alokasi CPU"
+      },
+      "createdAt": "2026-10-27T02:54:14.648Z",
+      "updatedAt": "2026-10-27T02:54:14.648Z"
+    },
+    {
+      "id": "t_14d4aa95",
+      "projectId": "proj_minihost",
+      "key": "dashboard.ram_usage",
+      "namespace": "dashboard",
+      "translations": {
+        "en": "RAM Memory",
+        "id": "Memori RAM"
+      },
+      "createdAt": "2026-10-27T02:54:14.649Z",
+      "updatedAt": "2026-10-27T02:54:14.649Z"
+    },
+    {
+      "id": "t_df133d90",
+      "projectId": "proj_minihost",
+      "key": "dashboard.disk_usage",
+      "namespace": "dashboard",
+      "translations": {
+        "en": "Storage Disk",
+        "id": "Penyimpanan Disk"
+      },
+      "createdAt": "2026-10-27T02:54:14.650Z",
+      "updatedAt": "2026-10-27T02:54:14.650Z"
+    },
+    {
+      "id": "t_fe10b982",
+      "projectId": "proj_minihost",
+      "key": "app.restart",
+      "namespace": "app",
+      "translations": {
+        "en": "Restart Container",
+        "id": "Mulai Ulang Kontainer"
+      },
+      "createdAt": "2026-10-27T02:54:14.673Z",
+      "updatedAt": "2026-10-27T02:54:14.673Z"
+    },
+    {
+      "id": "t_6eec4ca6",
+      "projectId": "proj_minihost",
+      "key": "app.stop",
+      "namespace": "app",
+      "translations": {
+        "en": "Stop Container",
+        "id": "Hentikan Kontainer"
+      },
+      "createdAt": "2026-10-27T02:54:14.693Z",
+      "updatedAt": "2026-10-27T02:54:14.693Z"
+    },
+    {
+      "id": "t_54c026bd",
+      "projectId": "proj_minihost",
+      "key": "app.redeploy",
+      "namespace": "app",
+      "translations": {
+        "en": "Redeploy Latest",
+        "id": "Deploy Ulang Versi Terbaru"
+      },
+      "createdAt": "2026-10-27T02:54:14.694Z",
+      "updatedAt": "2026-10-27T02:54:14.694Z"
+    },
+    {
+      "id": "t_42fec261",
+      "projectId": "proj_minihost",
+      "key": "app.live_logs",
+      "namespace": "app",
+      "translations": {
+        "en": "Live Streaming Logs",
+        "id": "Log Streaming Langsung"
+      },
+      "createdAt": "2026-10-27T02:54:14.716Z",
+      "updatedAt": "2026-10-27T02:54:14.716Z"
+    },
+    {
+      "id": "t_e6dca218",
+      "projectId": "proj_minihost",
+      "key": "app.terminal",
+      "namespace": "app",
+      "translations": {
+        "en": "Web SSH Terminal",
+        "id": "Terminal Web SSH"
+      },
+      "createdAt": "2026-10-27T02:54:14.717Z",
+      "updatedAt": "2026-10-27T02:54:14.717Z"
+    },
+    {
+      "id": "t_b0777f03",
+      "projectId": "proj_minihost",
+      "key": "env.title",
+      "namespace": "env",
+      "translations": {
+        "en": "Environment Variables",
+        "id": "Variabel Lingkungan"
+      },
+      "createdAt": "2026-10-27T02:54:14.739Z",
+      "updatedAt": "2026-10-27T02:54:14.739Z"
+    },
+    {
+      "id": "t_428d96e5",
+      "projectId": "proj_minihost",
+      "key": "domain.title",
+      "namespace": "domain",
+      "translations": {
+        "en": "Custom Domain & SSL",
+        "id": "Domain Kustom & Sertifikat SSL"
+      },
+      "createdAt": "2026-10-27T02:54:14.740Z",
+      "updatedAt": "2026-10-27T02:54:14.740Z"
+    },
+    {
+      "id": "t_50704d30",
+      "projectId": "proj_minihost",
+      "key": "domain.caddy_status",
+      "namespace": "domain",
+      "translations": {
+        "en": "Reverse Proxy Status",
+        "id": "Status Reverse Proxy"
+      },
+      "createdAt": "2026-10-27T02:54:14.764Z",
+      "updatedAt": "2026-10-27T02:54:14.764Z"
+    },
+    {
+      "id": "t_981da992",
+      "projectId": "proj_352f0dea",
+      "key": "device.scan_qr",
+      "namespace": "device",
+      "translations": {
+        "en": "Scan QR Code with WhatsApp",
+        "id": "Pindai Kode QR dengan WhatsApp"
+      },
+      "createdAt": "2026-10-27T02:54:14.765Z",
+      "updatedAt": "2026-10-27T02:54:14.765Z"
+    },
+    {
+      "id": "t_acda7246",
+      "projectId": "proj_352f0dea",
+      "key": "device.status_connected",
+      "namespace": "device",
+      "translations": {
+        "en": "WhatsApp Device Connected",
+        "id": "Perangkat WhatsApp Terhubung"
+      },
+      "createdAt": "2026-10-27T02:54:14.787Z",
+      "updatedAt": "2026-10-27T02:54:14.787Z"
+    },
+    {
+      "id": "t_9ff5fce8",
+      "projectId": "proj_352f0dea",
+      "key": "device.status_disconnected",
+      "namespace": "device",
+      "translations": {
+        "en": "Device Disconnected",
+        "id": "Perangkat Terputus"
+      },
+      "createdAt": "2026-10-27T02:54:14.788Z",
+      "updatedAt": "2026-10-27T02:54:14.788Z"
+    },
+    {
+      "id": "t_c809f6c6",
+      "projectId": "proj_352f0dea",
+      "key": "message.send_single",
+      "namespace": "message",
+      "translations": {
+        "en": "Send Direct Message",
+        "id": "Kirim Pesan Langsung"
+      },
+      "createdAt": "2026-10-27T02:54:14.812Z",
+      "updatedAt": "2026-10-27T02:54:14.812Z"
+    },
+    {
+      "id": "t_839bb195",
+      "projectId": "proj_352f0dea",
+      "key": "message.broadcast",
+      "namespace": "message",
+      "translations": {
+        "en": "Broadcast Campaign",
+        "id": "Kampanye Siaran Massal"
+      },
+      "createdAt": "2026-10-27T02:54:14.813Z",
+      "updatedAt": "2026-10-27T02:54:14.814Z"
+    },
+    {
+      "id": "t_03d091d2",
+      "projectId": "proj_352f0dea",
+      "key": "webhook.title",
+      "namespace": "webhook",
+      "translations": {
+        "en": "Incoming Webhook Dispatcher",
+        "id": "Distributor Webhook Masuk"
+      },
+      "createdAt": "2026-10-27T02:54:14.815Z",
+      "updatedAt": "2026-10-27T02:54:14.815Z"
+    },
+    {
+      "id": "t_86408470",
+      "projectId": "proj_81ef53ec",
+      "key": "archive.doc_title",
+      "namespace": "archive",
+      "translations": {
+        "en": "Document Title",
+        "id": "Judul Dokumen"
+      },
+      "createdAt": "2026-10-27T02:54:14.837Z",
+      "updatedAt": "2026-10-27T02:54:14.837Z"
+    },
+    {
+      "id": "t_1989f32f",
+      "projectId": "proj_81ef53ec",
+      "key": "archive.doc_number",
+      "namespace": "archive",
+      "translations": {
+        "en": "Archive Registration Number",
+        "id": "Nomor Registrasi Arsip"
+      },
+      "createdAt": "2026-10-27T02:54:14.838Z",
+      "updatedAt": "2026-10-27T02:54:14.838Z"
+    },
+    {
+      "id": "t_1c1354f3",
+      "projectId": "proj_81ef53ec",
+      "key": "archive.retention",
+      "namespace": "archive",
+      "translations": {
+        "en": "Retention Schedule",
+        "id": "Jadwal Retensi Arsip"
+      },
+      "createdAt": "2026-10-27T02:54:14.863Z",
+      "updatedAt": "2026-10-27T02:54:14.863Z"
+    },
+    {
+      "id": "t_0838dfee",
+      "projectId": "proj_81ef53ec",
+      "key": "security.confidential",
+      "namespace": "security",
+      "translations": {
+        "en": "Confidential / Secret",
+        "id": "Rahasia / Terbatas"
+      },
+      "createdAt": "2026-10-27T02:54:14.864Z",
+      "updatedAt": "2026-10-27T02:54:14.864Z"
+    },
+    {
+      "id": "t_9e9fcc7b",
+      "projectId": "proj_81ef53ec",
+      "key": "security.public",
+      "namespace": "security",
+      "translations": {
+        "en": "Public Record",
+        "id": "Dokumen Publik"
+      },
+      "createdAt": "2026-10-27T02:54:14.891Z",
+      "updatedAt": "2026-10-27T02:54:14.891Z"
+    },
+    {
+      "id": "t_94e916ce",
+      "projectId": "proj_8cfc89d0",
+      "key": "hero.greeting",
+      "namespace": "hero",
+      "translations": {
+        "en": "Hello, I am",
+        "id": "Halo, saya"
+      },
+      "createdAt": "2026-10-27T02:54:14.892Z",
+      "updatedAt": "2026-10-27T02:54:14.892Z"
+    },
+    {
+      "id": "t_25dda492",
+      "projectId": "proj_8cfc89d0",
+      "key": "hero.role",
+      "namespace": "hero",
+      "translations": {
+        "en": "Full-Stack Software Engineer & Cloud Architect",
+        "id": "Software Engineer Full-Stack & Arsitek Cloud"
+      },
+      "createdAt": "2026-10-27T02:54:14.917Z",
+      "updatedAt": "2026-10-27T02:54:14.917Z"
+    },
+    {
+      "id": "t_b730e137",
+      "projectId": "proj_8cfc89d0",
+      "key": "hero.hire_me",
+      "namespace": "hero",
+      "translations": {
+        "en": "Get In Touch",
+        "id": "Hubungi Saya"
+      },
+      "createdAt": "2026-10-27T02:54:14.919Z",
+      "updatedAt": "2026-10-27T02:54:14.919Z"
+    },
+    {
+      "id": "t_fe15eb8b",
+      "projectId": "proj_8cfc89d0",
+      "key": "hero.download_cv",
+      "namespace": "hero",
+      "translations": {
+        "en": "Download Resume",
+        "id": "Unduh CV / Resume"
+      },
+      "createdAt": "2026-10-27T02:54:14.942Z",
+      "updatedAt": "2026-10-27T02:54:14.942Z"
+    },
+    {
+      "id": "t_03d75d89",
+      "projectId": "proj_8cfc89d0",
+      "key": "projects.featured",
+      "namespace": "projects",
+      "translations": {
+        "en": "Featured Works & Experiments",
+        "id": "Karya Unggulan & Eksperimen"
+      },
+      "createdAt": "2026-10-27T02:54:14.943Z",
+      "updatedAt": "2026-10-27T02:54:14.943Z"
+    },
+    {
+      "id": "t_c7e77d1d",
+      "projectId": "proj_8cfc89d0",
+      "key": "contact.title",
+      "namespace": "contact",
+      "translations": {
+        "en": "Let's Build Something Together",
+        "id": "Mari Bangun Sesuatu Bersama"
+      },
+      "createdAt": "2026-10-27T02:54:14.944Z",
+      "updatedAt": "2026-10-27T02:54:14.944Z"
     }
   ]
 }
