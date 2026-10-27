@@ -35,8 +35,26 @@ export interface PolyglotSchema {
   translations: TranslationItem[];
 }
 
-const DATA_DIR = path.resolve(process.cwd(), "data");
-const DB_FILE = path.join(DATA_DIR, "polyglot-store.json");
+function getDatabaseFilePath(): string {
+  if (process.env.POLYGLOT_DB_FILE) {
+    return path.resolve(process.env.POLYGLOT_DB_FILE);
+  }
+  // 1. Direct sibling of dist/src: backend/data/polyglot-store.json
+  const candidate1 = path.resolve(__dirname, "..", "data", "polyglot-store.json");
+  if (fs.existsSync(candidate1)) return candidate1;
+
+  // 2. process.cwd() / backend / data
+  const candidate2 = path.resolve(process.cwd(), "backend", "data", "polyglot-store.json");
+  if (fs.existsSync(candidate2)) return candidate2;
+
+  // 3. process.cwd() / data
+  const candidate3 = path.resolve(process.cwd(), "data", "polyglot-store.json");
+  if (fs.existsSync(candidate3)) return candidate3;
+
+  return candidate1;
+}
+
+const DB_FILE = getDatabaseFilePath();
 
 function ensureDirectoryExistence(filePath: string) {
   const dirname = path.dirname(filePath);
