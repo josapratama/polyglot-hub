@@ -1085,12 +1085,12 @@
       "key": "trash.title",
       "namespace": "trash",
       "translations": {
-        "en": "Recycle Bin",
+        "en": "Trash Bin",
         "id": "Tempat Sampah",
         "ja": "ゴミ箱"
       },
       "createdAt": "2026-10-27T02:54:14.475Z",
-      "updatedAt": "2026-10-27T03:17:29.203Z"
+      "updatedAt": "2026-10-27T03:49:16.920Z"
     },
     {
       "id": "t_3469f002",
@@ -1110,12 +1110,12 @@
       "key": "trash.empty_trash",
       "namespace": "trash",
       "translations": {
-        "en": "Empty Recycle Bin",
-        "id": "Kosongkan Tempat Sampah",
+        "en": "Empty Trash",
+        "id": "Kosongkan Sampah",
         "ja": "ゴミ箱を空にする"
       },
       "createdAt": "2026-10-27T02:54:14.498Z",
-      "updatedAt": "2026-10-27T03:17:29.247Z"
+      "updatedAt": "2026-10-27T03:49:16.920Z"
     },
     {
       "id": "t_24dfccf7",
@@ -1123,11 +1123,12 @@
       "key": "trash.restore",
       "namespace": "trash",
       "translations": {
-        "en": "Restore Asset",
-        "id": "Pulihkan Aset"
+        "en": "Restore",
+        "id": "Pulihkan",
+        "ja": "復元"
       },
       "createdAt": "2026-10-27T02:54:14.499Z",
-      "updatedAt": "2026-10-27T02:54:14.499Z"
+      "updatedAt": "2026-10-27T03:49:16.920Z"
     },
     {
       "id": "t_221bba08",
@@ -25028,12 +25029,12 @@
       "key": "landing.hero_desc",
       "namespace": "landing",
       "translations": {
-        "en": "Upload, transform, and deliver assets globally in sub-milliseconds with built-in image studio and edge caching.",
-        "id": "Unggah, transformasi, dan kirim aset secara global dalam sub-milidetik dengan studio gambar bawaan dan caching edge.",
-        "ja": "組み込みの画像スタジオとエッジキャッシュにより、世界中にサブミリ秒でアセットを配信。"
+        "en": "Upload, transform, resize, and deliver assets globally with microsecond latency. Built for developers and modern web applications with seamless API integrations.",
+        "id": "Unggah, transformasikan, ubah ukuran, dan kirim aset secara global dengan latensi mikrodetik. Dirancang untuk developer dan aplikasi web modern dengan integrasi API yang mulus.",
+        "ja": "マイクロ秒の低遅延でグローバルにアセットをアップロード、変換、リサイズ、配信。開発者や最新のWebアプリケーション向けに構築されたシームレスなAPI連携。"
       },
       "createdAt": "2026-10-27T03:17:27.424Z",
-      "updatedAt": "2026-10-27T03:17:27.424Z"
+      "updatedAt": "2026-10-27T03:49:16.919Z"
     },
     {
       "id": "t_a0e22a0b",
@@ -25046,7 +25047,7 @@
         "ja": "インタラクティブデモ"
       },
       "createdAt": "2026-10-27T03:17:27.444Z",
-      "updatedAt": "2026-10-27T03:17:27.444Z"
+      "updatedAt": "2026-10-27T03:49:16.918Z"
     },
     {
       "id": "t_7e0b4828",
@@ -25056,10 +25057,10 @@
       "translations": {
         "en": "Developer API",
         "id": "API Pengembang",
-        "ja": "開発者API"
+        "ja": "開発者向けAPI"
       },
       "createdAt": "2026-10-27T03:17:27.464Z",
-      "updatedAt": "2026-10-27T03:17:27.464Z"
+      "updatedAt": "2026-10-27T03:49:16.918Z"
     },
     {
       "id": "t_7e19e673",
@@ -25069,10 +25070,10 @@
       "translations": {
         "en": "Go to Console",
         "id": "Buka Konsol",
-        "ja": "コンソールを開く"
+        "ja": "コンソールへ"
       },
       "createdAt": "2026-10-27T03:17:27.484Z",
-      "updatedAt": "2026-10-27T03:17:27.484Z"
+      "updatedAt": "2026-10-27T03:49:16.919Z"
     },
     {
       "id": "t_665016bb",
@@ -25462,7 +25463,7 @@
         "ja": "設定と外部連携"
       },
       "createdAt": "2026-10-27T03:17:29.023Z",
-      "updatedAt": "2026-10-27T03:17:29.023Z"
+      "updatedAt": "2026-10-27T03:49:16.920Z"
     },
     {
       "id": "t_a388bed3",
@@ -25470,12 +25471,12 @@
       "key": "settings.tab_account",
       "namespace": "settings",
       "translations": {
-        "en": "Account & Profile",
-        "id": "Akun & Profil",
-        "ja": "アカウントとプロフィール"
+        "en": "Account & Security",
+        "id": "Akun & Keamanan",
+        "ja": "アカウント＆セキュリティ"
       },
       "createdAt": "2026-10-27T03:17:29.046Z",
-      "updatedAt": "2026-10-27T03:17:29.046Z"
+      "updatedAt": "2026-10-27T03:49:16.920Z"
     },
     {
       "id": "t_4436099b",
@@ -25509,12 +25510,12 @@
       "key": "settings.tab_webhooks",
       "namespace": "settings",
       "translations": {
-        "en": "Webhook Notifications",
-        "id": "Notifikasi Webhook",
-        "ja": "Webhook通知"
+        "en": "Webhooks",
+        "id": "Webhook",
+        "ja": "Webhook"
       },
       "createdAt": "2026-10-27T03:17:29.118Z",
-      "updatedAt": "2026-10-27T03:17:29.118Z"
+      "updatedAt": "2026-10-27T03:49:16.920Z"
     },
     {
       "id": "t_fdd4aa78",
@@ -25561,12 +25562,12 @@
       "key": "trash.notice",
       "namespace": "trash",
       "translations": {
-        "en": "Deleted files are permanently removed after 30 days.",
-        "id": "Berkas yang dihapus akan dimusnahkan permanen setelah 30 hari.",
+        "en": "Files in trash will be permanently purged after 30 days",
+        "id": "File di tempat sampah akan dihapus permanen setelah 30 hari",
         "ja": "削除されたファイルは30日後に完全に消去されます。"
       },
       "createdAt": "2026-10-27T03:17:29.225Z",
-      "updatedAt": "2026-10-27T03:17:29.225Z"
+      "updatedAt": "2026-10-27T03:49:16.920Z"
     },
     {
       "id": "t_6259e6c8",
@@ -26373,6 +26374,799 @@
       },
       "createdAt": "2026-10-27T03:17:31.235Z",
       "updatedAt": "2026-10-27T03:17:31.235Z"
+    },
+    {
+      "id": "t_ub_1793072956917_0rtdh",
+      "projectId": "proj_uploadbox",
+      "key": "landing.features",
+      "namespace": "landing",
+      "translations": {
+        "en": "Features",
+        "id": "Fitur",
+        "ja": "機能"
+      },
+      "createdAt": "2026-10-27T03:49:16.917Z",
+      "updatedAt": "2026-10-27T03:49:16.918Z"
+    },
+    {
+      "id": "t_ub_1793072956919_0hwjb",
+      "projectId": "proj_uploadbox",
+      "key": "landing.pricing",
+      "namespace": "landing",
+      "translations": {
+        "en": "Pricing",
+        "id": "Harga",
+        "ja": "料金プラン"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_ol0fd",
+      "projectId": "proj_uploadbox",
+      "key": "landing.faq",
+      "namespace": "landing",
+      "translations": {
+        "en": "FAQ",
+        "id": "Tanya Jawab",
+        "ja": "よくある質問"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_whj97",
+      "projectId": "proj_uploadbox",
+      "key": "landing.start_free",
+      "namespace": "landing",
+      "translations": {
+        "en": "Start Building For Free",
+        "id": "Mulai Gratis Sekarang",
+        "ja": "無料で始める"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_ddb9y",
+      "projectId": "proj_uploadbox",
+      "key": "landing.live_demo",
+      "namespace": "landing",
+      "translations": {
+        "en": "Live Interactive Demo",
+        "id": "Demo Interaktif Langsung",
+        "ja": "インタラクティブデモ"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_pq97j",
+      "projectId": "proj_uploadbox",
+      "key": "landing.announcement_title",
+      "namespace": "landing",
+      "translations": {
+        "en": "UploadBox 2.0 is Live",
+        "id": "UploadBox 2.0 Telah Rilis",
+        "ja": "UploadBox 2.0 リリース"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_qa2ky",
+      "projectId": "proj_uploadbox",
+      "key": "landing.announcement_subtitle",
+      "namespace": "landing",
+      "translations": {
+        "en": "Next-Gen Media Edge Delivery",
+        "id": "Pengiriman Edge Media Generasi Baru",
+        "ja": "次世代メディアエッジ配信"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_8v1fs",
+      "projectId": "proj_uploadbox",
+      "key": "landing.hero_title_1",
+      "namespace": "landing",
+      "translations": {
+        "en": "Modern File Infrastructure &",
+        "id": "Infrastruktur File Modern &",
+        "ja": "最新のファイル基盤と"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_ifqp7",
+      "projectId": "proj_uploadbox",
+      "key": "landing.hero_title_2",
+      "namespace": "landing",
+      "translations": {
+        "en": "Smart CDN Delivery",
+        "id": "Pengiriman CDN Cerdas",
+        "ja": "スマートCDN配信"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_fj9m2",
+      "projectId": "proj_uploadbox",
+      "key": "landing.metric_edge_ttfb",
+      "namespace": "landing",
+      "translations": {
+        "en": "Global Edge TTFB",
+        "id": "TTFB Edge Global",
+        "ja": "グローバルエッジTTFB"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_rfjvd",
+      "projectId": "proj_uploadbox",
+      "key": "landing.metric_uptime",
+      "namespace": "landing",
+      "translations": {
+        "en": "Uptime Availability",
+        "id": "Ketersediaan Uptime",
+        "ja": "稼働率"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_3eyav",
+      "projectId": "proj_uploadbox",
+      "key": "landing.metric_compression",
+      "namespace": "landing",
+      "translations": {
+        "en": "Automatic Compression",
+        "id": "Kompresi Otomatis",
+        "ja": "自動圧縮"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_wgfkd",
+      "projectId": "proj_uploadbox",
+      "key": "landing.metric_apis",
+      "namespace": "landing",
+      "translations": {
+        "en": "Developer-First APIs",
+        "id": "API Khusus Pengembang",
+        "ja": "開発者優先API"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_6gojh",
+      "projectId": "proj_uploadbox",
+      "key": "landing.playground_badge",
+      "namespace": "landing",
+      "translations": {
+        "en": "Smart CDN URL Engine",
+        "id": "Mesin URL CDN Pintar",
+        "ja": "スマートCDN URLエンジン"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_i2dcb",
+      "projectId": "proj_uploadbox",
+      "key": "landing.playground_title",
+      "namespace": "landing",
+      "translations": {
+        "en": "Try On-The-Fly Media Transformations",
+        "id": "Coba Transformasi Media Secara Instan",
+        "ja": "リアルタイムメディア変換を試す"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_tboht",
+      "projectId": "proj_uploadbox",
+      "key": "landing.playground_desc",
+      "namespace": "landing",
+      "translations": {
+        "en": "Select a transformation preset and watch the CDN URL directives generate in real-time.",
+        "id": "Pilih preset transformasi dan saksikan direktif URL CDN dihasilkan secara langsung.",
+        "ja": "変換プリセットを選択して、リアルタイムに生成されるCDN URLディレクティブを確認してください。"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_0vmav",
+      "projectId": "proj_uploadbox",
+      "key": "landing.features_badge",
+      "namespace": "landing",
+      "translations": {
+        "en": "Built For Performance",
+        "id": "Dibangun Untuk Performa",
+        "ja": "パフォーマンス重視の設計"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_84ohl",
+      "projectId": "proj_uploadbox",
+      "key": "landing.features_title",
+      "namespace": "landing",
+      "translations": {
+        "en": "Everything You Need For Media Storage & Delivery",
+        "id": "Semua yang Anda Butuhkan untuk Penyimpanan & Pengiriman Media",
+        "ja": "メディア保存と配信に必要なすべて"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_i1y3l",
+      "projectId": "proj_uploadbox",
+      "key": "landing.features_desc",
+      "namespace": "landing",
+      "translations": {
+        "en": "From high-throughput uploads to on-the-fly edge transformations, UploadBox handles the complex infrastructure so you can focus on building.",
+        "id": "Dari unggahan berkecepatan tinggi hingga transformasi langsung, UploadBox menangani infrastruktur rumit sehingga Anda dapat fokus membangun produk.",
+        "ja": "高速アップロードからリアルタイム変換まで、UploadBoxが複雑なインフラを処理するため、開発に集中できます。"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_ewjnu",
+      "projectId": "proj_uploadbox",
+      "key": "landing.api_badge",
+      "namespace": "landing",
+      "translations": {
+        "en": "Developer-First",
+        "id": "Khusus Developer",
+        "ja": "開発者重視"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_k4lq1",
+      "projectId": "proj_uploadbox",
+      "key": "landing.api_title",
+      "namespace": "landing",
+      "translations": {
+        "en": "Integrate in Minutes With Any Tech Stack",
+        "id": "Integrasikan Dalam Hitungan Menit Dengan Stack Apa Pun",
+        "ja": "あらゆるスタックと数分で統合可能"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_qlmp2",
+      "projectId": "proj_uploadbox",
+      "key": "landing.api_desc",
+      "namespace": "landing",
+      "translations": {
+        "en": "Use standard multipart HTTP POST or Bearer tokens to upload files from Node.js, Python, PHP, Go, or front-end widgets.",
+        "id": "Gunakan multipart HTTP POST standar atau token Bearer untuk mengunggah file dari Node.js, Python, PHP, Go, atau widget front-end.",
+        "ja": "標準のmultipart HTTP POSTまたはBearerトークンを使用して、Node.js、Python、PHP、Goなどからファイルをアップロードできます。"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_at88g",
+      "projectId": "proj_uploadbox",
+      "key": "landing.pricing_badge",
+      "namespace": "landing",
+      "translations": {
+        "en": "Simple & Transparent",
+        "id": "Sederhana & Transparan",
+        "ja": "シンプル＆明瞭"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_17i5s",
+      "projectId": "proj_uploadbox",
+      "key": "landing.pricing_title",
+      "namespace": "landing",
+      "translations": {
+        "en": "Plans Designed to Scale With You",
+        "id": "Paket yang Dirancang untuk Berkembang Bersama Anda",
+        "ja": "成長に合わせて拡張できる料金プラン"
+      },
+      "createdAt": "2026-10-27T03:49:16.919Z",
+      "updatedAt": "2026-10-27T03:49:16.919Z"
+    },
+    {
+      "id": "t_ub_1793072956919_ij2e0",
+      "projectId": "proj_uploadbox",
+      "key": "landing.pricing_desc",
+      "namespace": "landing",
+      "translations": {
+        "en": "Start for free, then scale up as your media traffic expands. No surprise overage fees.",
+        "id": "Mulai secara gratis, lalu tingkatkan seiring meningkatnya traffic media Anda. Tanpa biaya tersembunyi.",
+        "ja": "まずは無料で始めて、メディアトラフィックの拡大に合わせてスケールアップ。想定外の超過料金はありません。"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_b4ceq",
+      "projectId": "proj_uploadbox",
+      "key": "landing.faq_badge",
+      "namespace": "landing",
+      "translations": {
+        "en": "Got Questions?",
+        "id": "Ada Pertanyaan?",
+        "ja": "ご質問がありますか？"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_dk8i0",
+      "projectId": "proj_uploadbox",
+      "key": "landing.faq_title",
+      "namespace": "landing",
+      "translations": {
+        "en": "Frequently Asked Questions",
+        "id": "Pertanyaan yang Sering Diajukan",
+        "ja": "よくある質問"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_eqe7j",
+      "projectId": "proj_uploadbox",
+      "key": "landing.cta_title",
+      "namespace": "landing",
+      "translations": {
+        "en": "Ready to Supercharge Your File Infrastructure?",
+        "id": "Siap Meningkatkan Infrastruktur File Anda?",
+        "ja": "ファイル配信基盤を強化する準備はできましたか？"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_cx0a6",
+      "projectId": "proj_uploadbox",
+      "key": "landing.cta_desc",
+      "namespace": "landing",
+      "translations": {
+        "en": "Join thousands of developers and teams delivering millions of optimized assets worldwide with zero configuration headaches.",
+        "id": "Bergabunglah dengan ribuan pengembang dan tim yang mengirimkan jutaan aset teroptimasi ke seluruh dunia tanpa kerumitan konfigurasi.",
+        "ja": "設定の手間なく、世界中に何百万もの最適化されたアセットを配信する開発者やチームに参加しましょう。"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_0zvmh",
+      "projectId": "proj_uploadbox",
+      "key": "landing.cta_button",
+      "namespace": "landing",
+      "translations": {
+        "en": "Create Free Account",
+        "id": "Buat Akun Gratis",
+        "ja": "無料アカウント作成"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_lnyrn",
+      "projectId": "proj_uploadbox",
+      "key": "landing.footer_rights",
+      "namespace": "landing",
+      "translations": {
+        "en": "All rights reserved.",
+        "id": "Hak cipta dilindungi undang-undang.",
+        "ja": "All rights reserved."
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_xeztq",
+      "projectId": "proj_uploadbox",
+      "key": "trash.restore_banner",
+      "namespace": "trash",
+      "translations": {
+        "en": "Need these files back? Restoring them will instantly put them back into your main library and re-activate their CDN delivery links.",
+        "id": "Butuh file ini kembali? Memulihkannya akan langsung mengembalikannya ke pustaka utama Anda dan mengaktifkan kembali tautan pengiriman CDN.",
+        "ja": "これらのファイルを復元しますか？復元すると、メインライブラリに直ちに戻り、CDN配信リンクが再有効化されます。"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_k9229",
+      "projectId": "proj_uploadbox",
+      "key": "trash.purge_forever",
+      "namespace": "trash",
+      "translations": {
+        "en": "Purge Forever",
+        "id": "Hapus Permanen",
+        "ja": "完全に消去"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_uw0fl",
+      "projectId": "proj_uploadbox",
+      "key": "trash.confirm_empty_title",
+      "namespace": "trash",
+      "translations": {
+        "en": "Empty trash bin?",
+        "id": "Kosongkan tempat sampah?",
+        "ja": "ゴミ箱を空にしますか？"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_upfkc",
+      "projectId": "proj_uploadbox",
+      "key": "trash.confirm_empty_message",
+      "namespace": "trash",
+      "translations": {
+        "en": "All files in the trash bin will be permanently erased from disk. This operation is irreversible.",
+        "id": "Semua file di tempat sampah akan dihapus secara permanen dari disk. Tindakan ini tidak dapat dibatalkan.",
+        "ja": "ゴミ箱内のすべてのファイルがディスクから完全に消去されます。この操作は取り消せません。"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_g1foc",
+      "projectId": "proj_uploadbox",
+      "key": "trash.confirm_empty_btn",
+      "namespace": "trash",
+      "translations": {
+        "en": "Permanently Delete All",
+        "id": "Hapus Permanen Semua",
+        "ja": "すべて完全に削除"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_5doal",
+      "projectId": "proj_uploadbox",
+      "key": "trash.empty_title",
+      "namespace": "trash",
+      "translations": {
+        "en": "Trash is completely empty",
+        "id": "Tempat sampah kosong",
+        "ja": "ゴミ箱は完全に空です"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_xyndw",
+      "projectId": "proj_uploadbox",
+      "key": "trash.empty_desc",
+      "namespace": "trash",
+      "translations": {
+        "en": "No deleted assets here. Your workspace is tidy and clean!",
+        "id": "Tidak ada aset yang dihapus di sini. Ruang kerja Anda bersih dan rapi!",
+        "ja": "削除されたアセットはありません。ワークスペースはすっきりと整理されています！"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_btmug",
+      "projectId": "proj_uploadbox",
+      "key": "settings.subtitle",
+      "namespace": "settings",
+      "translations": {
+        "en": "Manage your account preferences, security, webhooks, and developer tools",
+        "id": "Kelola preferensi akun, keamanan, webhook, dan alat pengembang Anda",
+        "ja": "アカウント設定、セキュリティ、Webhook、開発者向けツールを管理します"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_x6woa",
+      "projectId": "proj_uploadbox",
+      "key": "settings.tab_api",
+      "namespace": "settings",
+      "translations": {
+        "en": "API Reference",
+        "id": "Referensi API",
+        "ja": "APIリファレンス"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_3g3fb",
+      "projectId": "proj_uploadbox",
+      "key": "settings.tab_shortcuts",
+      "namespace": "settings",
+      "translations": {
+        "en": "Shortcuts",
+        "id": "Pintasan Keyboard",
+        "ja": "ショートカット"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_7rpkm",
+      "projectId": "proj_uploadbox",
+      "key": "settings.profile_info",
+      "namespace": "settings",
+      "translations": {
+        "en": "Profile Information",
+        "id": "Informasi Profil",
+        "ja": "プロフィール情報"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_97xta",
+      "projectId": "proj_uploadbox",
+      "key": "settings.profile_desc",
+      "namespace": "settings",
+      "translations": {
+        "en": "Your personal details and identity",
+        "id": "Detail pribadi dan identitas Anda",
+        "ja": "個人情報とアカウント識別情報"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_drl5m",
+      "projectId": "proj_uploadbox",
+      "key": "settings.email_address",
+      "namespace": "settings",
+      "translations": {
+        "en": "Email Address",
+        "id": "Alamat Email",
+        "ja": "メールアドレス"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_z7ipq",
+      "projectId": "proj_uploadbox",
+      "key": "settings.display_name",
+      "namespace": "settings",
+      "translations": {
+        "en": "Display Name",
+        "id": "Nama Tampilan",
+        "ja": "表示名"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_5s729",
+      "projectId": "proj_uploadbox",
+      "key": "settings.save_profile",
+      "namespace": "settings",
+      "translations": {
+        "en": "Save Profile",
+        "id": "Simpan Profil",
+        "ja": "プロフィールを保存"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_gh68d",
+      "projectId": "proj_uploadbox",
+      "key": "settings.security_password",
+      "namespace": "settings",
+      "translations": {
+        "en": "Security & Password",
+        "id": "Keamanan & Kata Sandi",
+        "ja": "セキュリティ＆パスワード"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_o1ejk",
+      "projectId": "proj_uploadbox",
+      "key": "settings.security_desc",
+      "namespace": "settings",
+      "translations": {
+        "en": "Update your account master password",
+        "id": "Perbarui kata sandi utama akun Anda",
+        "ja": "マスターパスワードの更新"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956920_t93fc",
+      "projectId": "proj_uploadbox",
+      "key": "settings.current_password",
+      "namespace": "settings",
+      "translations": {
+        "en": "Current Password",
+        "id": "Kata Sandi Saat Ini",
+        "ja": "現在のパスワード"
+      },
+      "createdAt": "2026-10-27T03:49:16.920Z",
+      "updatedAt": "2026-10-27T03:49:16.920Z"
+    },
+    {
+      "id": "t_ub_1793072956921_x1hr1",
+      "projectId": "proj_uploadbox",
+      "key": "settings.new_password",
+      "namespace": "settings",
+      "translations": {
+        "en": "New Password",
+        "id": "Kata Sandi Baru",
+        "ja": "新しいパスワード"
+      },
+      "createdAt": "2026-10-27T03:49:16.921Z",
+      "updatedAt": "2026-10-27T03:49:16.921Z"
+    },
+    {
+      "id": "t_ub_1793072956921_ahz66",
+      "projectId": "proj_uploadbox",
+      "key": "settings.update_password",
+      "namespace": "settings",
+      "translations": {
+        "en": "Update Password",
+        "id": "Perbarui Kata Sandi",
+        "ja": "パスワードを更新"
+      },
+      "createdAt": "2026-10-27T03:49:16.921Z",
+      "updatedAt": "2026-10-27T03:49:16.921Z"
+    },
+    {
+      "id": "t_ub_1793072956921_f81mg",
+      "projectId": "proj_uploadbox",
+      "key": "settings.account_session",
+      "namespace": "settings",
+      "translations": {
+        "en": "Account Session",
+        "id": "Sesi Akun",
+        "ja": "アカウントセッション"
+      },
+      "createdAt": "2026-10-27T03:49:16.921Z",
+      "updatedAt": "2026-10-27T03:49:16.921Z"
+    },
+    {
+      "id": "t_ub_1793072956921_giwsg",
+      "projectId": "proj_uploadbox",
+      "key": "settings.sign_out_desc",
+      "namespace": "settings",
+      "translations": {
+        "en": "Sign out from this device to clear cached tokens",
+        "id": "Keluar dari perangkat ini untuk membersihkan token tersimpan",
+        "ja": "キャッシュされたトークンを消去してログアウトします"
+      },
+      "createdAt": "2026-10-27T03:49:16.921Z",
+      "updatedAt": "2026-10-27T03:49:16.921Z"
+    },
+    {
+      "id": "t_ub_1793072956921_j7kw7",
+      "projectId": "proj_uploadbox",
+      "key": "settings.webhooks_active",
+      "namespace": "settings",
+      "translations": {
+        "en": "Active Webhooks",
+        "id": "Webhook Aktif",
+        "ja": "有効なWebhook"
+      },
+      "createdAt": "2026-10-27T03:49:16.921Z",
+      "updatedAt": "2026-10-27T03:49:16.921Z"
+    },
+    {
+      "id": "t_ub_1793072956921_c8z4i",
+      "projectId": "proj_uploadbox",
+      "key": "settings.webhooks_desc",
+      "namespace": "settings",
+      "translations": {
+        "en": "Receive HTTP POST notifications when asset events occur",
+        "id": "Terima notifikasi HTTP POST saat peristiwa aset terjadi",
+        "ja": "アセットイベント発生時にHTTP POST通知を受信します"
+      },
+      "createdAt": "2026-10-27T03:49:16.921Z",
+      "updatedAt": "2026-10-27T03:49:16.921Z"
+    },
+    {
+      "id": "t_ub_1793072956921_bslzd",
+      "projectId": "proj_uploadbox",
+      "key": "settings.add_endpoint",
+      "namespace": "settings",
+      "translations": {
+        "en": "Add Endpoint",
+        "id": "Tambah Endpoint",
+        "ja": "エンドポイント追加"
+      },
+      "createdAt": "2026-10-27T03:49:16.921Z",
+      "updatedAt": "2026-10-27T03:49:16.921Z"
+    },
+    {
+      "id": "t_ub_1793072956921_ji5qo",
+      "projectId": "proj_uploadbox",
+      "key": "settings.no_webhooks",
+      "namespace": "settings",
+      "translations": {
+        "en": "No webhooks registered",
+        "id": "Belum ada webhook terdaftar",
+        "ja": "登録されたWebhookはありません"
+      },
+      "createdAt": "2026-10-27T03:49:16.921Z",
+      "updatedAt": "2026-10-27T03:49:16.921Z"
+    },
+    {
+      "id": "t_ub_1793072956921_wd92x",
+      "projectId": "proj_uploadbox",
+      "key": "settings.no_webhooks_desc",
+      "namespace": "settings",
+      "translations": {
+        "en": "Configure an endpoint to receive real-time events.",
+        "id": "Konfigurasikan endpoint untuk menerima event real-time.",
+        "ja": "リアルタイムイベントを受信するためにエンドポイントを設定してください。"
+      },
+      "createdAt": "2026-10-27T03:49:16.921Z",
+      "updatedAt": "2026-10-27T03:49:16.921Z"
+    },
+    {
+      "id": "t_ub_1793072956921_bw75c",
+      "projectId": "proj_uploadbox",
+      "key": "time.today",
+      "namespace": "time",
+      "translations": {
+        "en": "Today",
+        "id": "Hari ini",
+        "ja": "今日"
+      },
+      "createdAt": "2026-10-27T03:49:16.921Z",
+      "updatedAt": "2026-10-27T03:49:16.921Z"
+    },
+    {
+      "id": "t_ub_1793072956921_kxy9w",
+      "projectId": "proj_uploadbox",
+      "key": "time.yesterday",
+      "namespace": "time",
+      "translations": {
+        "en": "Yesterday",
+        "id": "Kemarin",
+        "ja": "昨日"
+      },
+      "createdAt": "2026-10-27T03:49:16.921Z",
+      "updatedAt": "2026-10-27T03:49:16.921Z"
+    },
+    {
+      "id": "t_ub_1793072956921_894li",
+      "projectId": "proj_uploadbox",
+      "key": "time.days_ago",
+      "namespace": "time",
+      "translations": {
+        "en": "{days} days ago",
+        "id": "{days} hari lalu",
+        "ja": "{days}日前"
+      },
+      "createdAt": "2026-10-27T03:49:16.921Z",
+      "updatedAt": "2026-10-27T03:49:16.921Z"
     }
   ]
 }
