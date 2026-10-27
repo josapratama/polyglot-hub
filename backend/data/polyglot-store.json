@@ -1,0 +1,186 @@
+{
+  "projects": [
+    {
+      "id": "proj_common",
+      "name": "Common & Universal",
+      "slug": "common",
+      "description": "Shared verbs, buttons, statuses, and generic UI components across all apps",
+      "icon": "🌐",
+      "createdAt": "2026-10-27T02:36:03.051Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    },
+    {
+      "id": "proj_uploadbox",
+      "name": "UploadBox CDN",
+      "slug": "uploadbox",
+      "description": "Cloud storage, media delivery, image transformations, and file manager",
+      "icon": "📦",
+      "createdAt": "2026-10-27T02:36:03.053Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    },
+    {
+      "id": "proj_nexus",
+      "name": "Nexus Chat",
+      "slug": "nexus-chat",
+      "description": "Real-time communication, messaging rooms, and user presence",
+      "icon": "💬",
+      "createdAt": "2026-10-27T02:36:03.053Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    },
+    {
+      "id": "proj_minihost",
+      "name": "Mini VPS Panel",
+      "slug": "minihost",
+      "description": "Server administration, container management, and resource monitoring",
+      "icon": "⚡",
+      "createdAt": "2026-10-27T02:36:03.053Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "isDefault": true
+    },
+    {
+      "code": "id",
+      "name": "Bahasa Indonesia",
+      "isDefault": false
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "isDefault": false
+    }
+  ],
+  "translations": [
+    {
+      "id": "t_com_1",
+      "projectId": "proj_common",
+      "key": "actions.save",
+      "namespace": "actions",
+      "translations": {
+        "en": "Save",
+        "id": "Simpan",
+        "ja": "保存"
+      },
+      "createdAt": "2026-10-27T02:36:03.053Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    },
+    {
+      "id": "t_com_2",
+      "projectId": "proj_common",
+      "key": "actions.cancel",
+      "namespace": "actions",
+      "translations": {
+        "en": "Cancel",
+        "id": "Batal",
+        "ja": "キャンセル"
+      },
+      "createdAt": "2026-10-27T02:36:03.053Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    },
+    {
+      "id": "t_com_3",
+      "projectId": "proj_common",
+      "key": "actions.delete",
+      "namespace": "actions",
+      "translations": {
+        "en": "Delete",
+        "id": "Hapus",
+        "ja": "削除"
+      },
+      "createdAt": "2026-10-27T02:36:03.053Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    },
+    {
+      "id": "t_com_4",
+      "projectId": "proj_common",
+      "key": "actions.confirm",
+      "namespace": "actions",
+      "translations": {
+        "en": "Confirm",
+        "id": "Konfirmasi",
+        "ja": "確認"
+      },
+      "createdAt": "2026-10-27T02:36:03.053Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    },
+    {
+      "id": "t_com_5",
+      "projectId": "proj_common",
+      "key": "auth.login",
+      "namespace": "auth",
+      "translations": {
+        "en": "Sign In",
+        "id": "Masuk",
+        "ja": "ログイン"
+      },
+      "createdAt": "2026-10-27T02:36:03.053Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    },
+    {
+      "id": "t_com_6",
+      "projectId": "proj_common",
+      "key": "auth.register",
+      "namespace": "auth",
+      "translations": {
+        "en": "Create Account",
+        "id": "Buat Akun",
+        "ja": "アカウント作成"
+      },
+      "createdAt": "2026-10-27T02:36:03.053Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    },
+    {
+      "id": "t_com_7",
+      "projectId": "proj_common",
+      "key": "status.loading",
+      "namespace": "status",
+      "translations": {
+        "en": "Loading...",
+        "id": "Memuat...",
+        "ja": "読み込み中..."
+      },
+      "createdAt": "2026-10-27T02:36:03.053Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    },
+    {
+      "id": "t_ub_1",
+      "projectId": "proj_uploadbox",
+      "key": "hero.title",
+      "namespace": "hero",
+      "translations": {
+        "en": "Modern File Infrastructure & Smart CDN Delivery",
+        "id": "Infrastruktur File Modern & Pengiriman CDN Cerdas"
+      },
+      "createdAt": "2026-10-27T02:36:03.053Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    },
+    {
+      "id": "t_ub_2",
+      "projectId": "proj_uploadbox",
+      "key": "upload.drag_drop",
+      "namespace": "upload",
+      "translations": {
+        "en": "Drag & drop files here, or click to browse",
+        "id": "Tarik & lepas file di sini, atau klik untuk memilih"
+      },
+      "createdAt": "2026-10-27T02:36:03.053Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    },
+    {
+      "id": "t_ub_3",
+      "projectId": "proj_uploadbox",
+      "key": "editor.title",
+      "namespace": "editor",
+      "translations": {
+        "en": "Image Studio Editor",
+        "id": "Studio Editor Gambar"
+      },
+      "createdAt": "2026-10-27T02:36:03.053Z",
+      "updatedAt": "2026-10-27T02:36:03.053Z"
+    }
+  ]
+}
