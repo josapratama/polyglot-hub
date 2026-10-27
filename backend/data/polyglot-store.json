@@ -1567,10 +1567,11 @@
       "namespace": "archive",
       "translations": {
         "en": "Retention Schedule",
-        "id": "Jadwal Retensi Arsip"
+        "id": "Jadwal Retensi Arsip",
+        "ja": "保存スケジュール"
       },
       "createdAt": "2026-10-27T02:54:14.863Z",
-      "updatedAt": "2026-10-27T02:54:14.863Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_0838dfee",
@@ -25180,10 +25181,11 @@
       "namespace": "nav",
       "translations": {
         "en": "Dashboard",
-        "id": "Dasbor"
+        "id": "Dasbor",
+        "ja": "ダッシュボード"
       },
       "createdAt": "2026-10-27T03:17:24.816Z",
-      "updatedAt": "2026-10-27T03:17:24.817Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_4693a906",
@@ -25192,10 +25194,11 @@
       "namespace": "nav",
       "translations": {
         "en": "Documents",
-        "id": "Dokumen"
+        "id": "Dokumen",
+        "ja": "書類"
       },
       "createdAt": "2026-10-27T03:17:24.838Z",
-      "updatedAt": "2026-10-27T03:17:24.838Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_f9dc948a",
@@ -25204,10 +25207,11 @@
       "namespace": "nav",
       "translations": {
         "en": "Categories",
-        "id": "Kategori"
+        "id": "Kategori",
+        "ja": "カテゴリー"
       },
       "createdAt": "2026-10-27T03:17:24.867Z",
-      "updatedAt": "2026-10-27T03:17:24.867Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_f519fd16",
@@ -25216,10 +25220,11 @@
       "namespace": "nav",
       "translations": {
         "en": "Recycle Bin",
-        "id": "Sampah"
+        "id": "Sampah",
+        "ja": "ごみ箱"
       },
       "createdAt": "2026-10-27T03:17:24.895Z",
-      "updatedAt": "2026-10-27T03:17:24.895Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_f5696c27",
@@ -25228,10 +25233,11 @@
       "namespace": "nav",
       "translations": {
         "en": "Activity Log",
-        "id": "Riwayat Aktivitas"
+        "id": "Riwayat Aktivitas",
+        "ja": "アクティビティログ"
       },
       "createdAt": "2026-10-27T03:17:24.918Z",
-      "updatedAt": "2026-10-27T03:17:24.919Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_5256a052",
@@ -25240,10 +25246,11 @@
       "namespace": "nav",
       "translations": {
         "en": "Settings",
-        "id": "Pengaturan"
+        "id": "Pengaturan",
+        "ja": "設定"
       },
       "createdAt": "2026-10-27T03:17:24.940Z",
-      "updatedAt": "2026-10-27T03:17:24.940Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_ee94807b",
@@ -25252,10 +25259,11 @@
       "namespace": "nav",
       "translations": {
         "en": "Profile",
-        "id": "Profil"
+        "id": "Profil",
+        "ja": "プロフィール"
       },
       "createdAt": "2026-10-27T03:17:24.963Z",
-      "updatedAt": "2026-10-27T03:17:24.963Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_537b4296",
@@ -25264,10 +25272,11 @@
       "namespace": "nav",
       "translations": {
         "en": "Logout",
-        "id": "Keluar"
+        "id": "Keluar",
+        "ja": "ログアウト"
       },
       "createdAt": "2026-10-27T03:17:24.986Z",
-      "updatedAt": "2026-10-27T03:17:24.986Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_08c697f3",
@@ -25276,10 +25285,11 @@
       "namespace": "dashboard",
       "translations": {
         "en": "Dashboard",
-        "id": "Dasbor"
+        "id": "Dasbor",
+        "ja": "ダッシュボード"
       },
       "createdAt": "2026-10-27T03:17:25.013Z",
-      "updatedAt": "2026-10-27T03:17:25.013Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_f1bf7c63",
@@ -25288,10 +25298,11 @@
       "namespace": "dashboard",
       "translations": {
         "en": "Total Documents",
-        "id": "Total Dokumen"
+        "id": "Total Dokumen",
+        "ja": "総文書数"
       },
       "createdAt": "2026-10-27T03:17:25.037Z",
-      "updatedAt": "2026-10-27T03:17:25.037Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_a82869db",
@@ -25300,10 +25311,11 @@
       "namespace": "dashboard",
       "translations": {
         "en": "Categories",
-        "id": "Kategori"
+        "id": "Kategori",
+        "ja": "カテゴリー"
       },
       "createdAt": "2026-10-27T03:17:25.057Z",
-      "updatedAt": "2026-10-27T03:17:25.057Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_c09ba2be",
@@ -25312,10 +25324,11 @@
       "namespace": "dashboard",
       "translations": {
         "en": "This Month",
-        "id": "Bulan Ini"
+        "id": "Bulan Ini",
+        "ja": "今月"
       },
       "createdAt": "2026-10-27T03:17:25.079Z",
-      "updatedAt": "2026-10-27T03:17:25.079Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_8287a3af",
@@ -25324,10 +25337,11 @@
       "namespace": "dashboard",
       "translations": {
         "en": "Recycle Bin",
-        "id": "Sampah"
+        "id": "Sampah",
+        "ja": "ごみ箱"
       },
       "createdAt": "2026-10-27T03:17:25.103Z",
-      "updatedAt": "2026-10-27T03:17:25.103Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_8c08bf2f",
@@ -25336,10 +25350,11 @@
       "namespace": "dashboard",
       "translations": {
         "en": "Recent Documents",
-        "id": "Dokumen Terbaru"
+        "id": "Dokumen Terbaru",
+        "ja": "最近のドキュメント"
       },
       "createdAt": "2026-10-27T03:17:25.125Z",
-      "updatedAt": "2026-10-27T03:17:25.125Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_759b150b",
@@ -25348,10 +25363,11 @@
       "namespace": "dashboard",
       "translations": {
         "en": "Recent Activity",
-        "id": "Aktivitas Terbaru"
+        "id": "Aktivitas Terbaru",
+        "ja": "最近の活動"
       },
       "createdAt": "2026-10-27T03:17:25.148Z",
-      "updatedAt": "2026-10-27T03:17:25.148Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_3138f898",
@@ -25360,10 +25376,11 @@
       "namespace": "dashboard",
       "translations": {
         "en": "Category Overview",
-        "id": "Ringkasan Kategori"
+        "id": "Ringkasan Kategori",
+        "ja": "カテゴリの概要"
       },
       "createdAt": "2026-10-27T03:17:25.177Z",
-      "updatedAt": "2026-10-27T03:17:25.177Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_c997b352",
@@ -25372,10 +25389,11 @@
       "namespace": "dashboard",
       "translations": {
         "en": "View All",
-        "id": "Lihat Semua"
+        "id": "Lihat Semua",
+        "ja": "すべて見る"
       },
       "createdAt": "2026-10-27T03:17:25.211Z",
-      "updatedAt": "2026-10-27T03:17:25.211Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_4762f9c9",
@@ -25384,10 +25402,11 @@
       "namespace": "dashboard",
       "translations": {
         "en": "No documents yet.",
-        "id": "Belum ada dokumen."
+        "id": "Belum ada dokumen.",
+        "ja": "まだ書類がありません。"
       },
       "createdAt": "2026-10-27T03:17:25.342Z",
-      "updatedAt": "2026-10-27T03:17:25.342Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_e1645769",
@@ -25396,10 +25415,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Document Archive",
-        "id": "Arsip Dokumen"
+        "id": "Arsip Dokumen",
+        "ja": "文書アーカイブ"
       },
       "createdAt": "2026-10-27T03:17:25.370Z",
-      "updatedAt": "2026-10-27T03:17:25.370Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_c6651880",
@@ -25408,10 +25428,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Upload Document",
-        "id": "Unggah Dokumen"
+        "id": "Unggah Dokumen",
+        "ja": "ドキュメントのアップロード"
       },
       "createdAt": "2026-10-27T03:17:25.396Z",
-      "updatedAt": "2026-10-27T03:17:25.396Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_e37532dc",
@@ -25420,10 +25441,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Search document content...",
-        "id": "Cari isi dokumen..."
+        "id": "Cari isi dokumen...",
+        "ja": "ドキュメントのコンテンツを検索..."
       },
       "createdAt": "2026-10-27T03:17:25.419Z",
-      "updatedAt": "2026-10-27T03:17:25.419Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_ac01d9d8",
@@ -25432,10 +25454,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Filter",
-        "id": "Filter"
+        "id": "Filter",
+        "ja": "フィルター"
       },
       "createdAt": "2026-10-27T03:17:25.437Z",
-      "updatedAt": "2026-10-27T03:17:25.437Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_f5740a98",
@@ -25444,10 +25467,11 @@
       "namespace": "documents",
       "translations": {
         "en": "All Categories",
-        "id": "Semua Kategori"
+        "id": "Semua Kategori",
+        "ja": "すべてのカテゴリ"
       },
       "createdAt": "2026-10-27T03:17:25.463Z",
-      "updatedAt": "2026-10-27T03:17:25.463Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_76a638cc",
@@ -25456,10 +25480,11 @@
       "namespace": "documents",
       "translations": {
         "en": "No documents found.",
-        "id": "Dokumen tidak ditemukan."
+        "id": "Dokumen tidak ditemukan.",
+        "ja": "文書が見つかりませんでした。"
       },
       "createdAt": "2026-10-27T03:17:25.484Z",
-      "updatedAt": "2026-10-27T03:17:25.484Z"
+      "updatedAt": "2026-10-27T06:32:36.784Z"
     },
     {
       "id": "t_48455d9b",
@@ -25468,10 +25493,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Document Title",
-        "id": "Judul Dokumen"
+        "id": "Judul Dokumen",
+        "ja": "文書のタイトル"
       },
       "createdAt": "2026-10-27T03:17:25.509Z",
-      "updatedAt": "2026-10-27T03:17:25.509Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_d234509e",
@@ -25480,10 +25506,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Document Number",
-        "id": "Nomor Surat"
+        "id": "Nomor Surat",
+        "ja": "文書番号"
       },
       "createdAt": "2026-10-27T03:17:25.534Z",
-      "updatedAt": "2026-10-27T03:17:25.535Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_c5382afd",
@@ -25492,10 +25519,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Document Number",
-        "id": "Nomor Surat"
+        "id": "Nomor Surat",
+        "ja": "文書番号"
       },
       "createdAt": "2026-10-27T03:17:25.561Z",
-      "updatedAt": "2026-10-27T03:17:25.561Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_6fc59b55",
@@ -25504,10 +25532,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Classification Code",
-        "id": "Kode Klasifikasi"
+        "id": "Kode Klasifikasi",
+        "ja": "分類コード"
       },
       "createdAt": "2026-10-27T03:17:25.583Z",
-      "updatedAt": "2026-10-27T03:17:25.583Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_84ceb745",
@@ -25516,10 +25545,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Classification Code",
-        "id": "Kode Klasifikasi"
+        "id": "Kode Klasifikasi",
+        "ja": "分類コード"
       },
       "createdAt": "2026-10-27T03:17:25.609Z",
-      "updatedAt": "2026-10-27T03:17:25.609Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_d863ab17",
@@ -25528,10 +25558,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Category",
-        "id": "Kategori"
+        "id": "Kategori",
+        "ja": "カテゴリ"
       },
       "createdAt": "2026-10-27T03:17:25.631Z",
-      "updatedAt": "2026-10-27T03:17:25.631Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_2b11e562",
@@ -25540,10 +25571,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Subcategory",
-        "id": "Subkategori"
+        "id": "Subkategori",
+        "ja": "サブカテゴリ"
       },
       "createdAt": "2026-10-27T03:17:25.655Z",
-      "updatedAt": "2026-10-27T03:17:25.655Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_cf3b9355",
@@ -25552,10 +25584,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Document Date",
-        "id": "Tanggal Dokumen"
+        "id": "Tanggal Dokumen",
+        "ja": "文書の日付"
       },
       "createdAt": "2026-10-27T03:17:25.680Z",
-      "updatedAt": "2026-10-27T03:17:25.680Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_7279459a",
@@ -25564,10 +25597,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Description",
-        "id": "Keterangan"
+        "id": "Keterangan",
+        "ja": "説明"
       },
       "createdAt": "2026-10-27T03:17:25.701Z",
-      "updatedAt": "2026-10-27T03:17:25.701Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_3080f86e",
@@ -25576,10 +25610,11 @@
       "namespace": "documents",
       "translations": {
         "en": "File",
-        "id": "File"
+        "id": "File",
+        "ja": "ファイル"
       },
       "createdAt": "2026-10-27T03:17:25.727Z",
-      "updatedAt": "2026-10-27T03:17:25.727Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_d186e0e8",
@@ -25588,10 +25623,11 @@
       "namespace": "documents",
       "translations": {
         "en": "OCR Text",
-        "id": "Teks OCR"
+        "id": "Teks OCR",
+        "ja": "OCRテキスト"
       },
       "createdAt": "2026-10-27T03:17:25.759Z",
-      "updatedAt": "2026-10-27T03:17:25.759Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_9eda49da",
@@ -25600,10 +25636,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Extracted Text (OCR)",
-        "id": "Hasil Ekstraksi Teks (OCR)"
+        "id": "Hasil Ekstraksi Teks (OCR)",
+        "ja": "抽出されたテキスト (OCR)"
       },
       "createdAt": "2026-10-27T03:17:25.782Z",
-      "updatedAt": "2026-10-27T03:17:25.782Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_486c7d24",
@@ -25612,10 +25649,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Process OCR",
-        "id": "Proses OCR"
+        "id": "Proses OCR",
+        "ja": "プロセスOCR"
       },
       "createdAt": "2026-10-27T03:17:25.811Z",
-      "updatedAt": "2026-10-27T03:17:25.811Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_2414ec52",
@@ -25624,10 +25662,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Processing...",
-        "id": "Memproses..."
+        "id": "Memproses...",
+        "ja": "処理中..."
       },
       "createdAt": "2026-10-27T03:17:25.835Z",
-      "updatedAt": "2026-10-27T03:17:25.835Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_c734e6ce",
@@ -25636,10 +25675,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Edit",
-        "id": "Edit"
+        "id": "Edit",
+        "ja": "編集"
       },
       "createdAt": "2026-10-27T03:17:25.860Z",
-      "updatedAt": "2026-10-27T03:17:25.860Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_da9918cc",
@@ -25648,10 +25688,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Delete",
-        "id": "Hapus"
+        "id": "Hapus",
+        "ja": "削除"
       },
       "createdAt": "2026-10-27T03:17:25.881Z",
-      "updatedAt": "2026-10-27T03:17:25.881Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_eef36ca7",
@@ -25660,10 +25701,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Download",
-        "id": "Unduh"
+        "id": "Unduh",
+        "ja": "ダウンロード"
       },
       "createdAt": "2026-10-27T03:17:25.909Z",
-      "updatedAt": "2026-10-27T03:17:25.909Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_f2fba99d",
@@ -25672,10 +25714,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Back",
-        "id": "Kembali"
+        "id": "Kembali",
+        "ja": "戻る"
       },
       "createdAt": "2026-10-27T03:17:25.935Z",
-      "updatedAt": "2026-10-27T03:17:25.935Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_b7beeeae",
@@ -25684,10 +25727,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Save",
-        "id": "Simpan"
+        "id": "Simpan",
+        "ja": "保存"
       },
       "createdAt": "2026-10-27T03:17:25.959Z",
-      "updatedAt": "2026-10-27T03:17:25.959Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_8ebfdabd",
@@ -25696,10 +25740,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Cancel",
-        "id": "Batal"
+        "id": "Batal",
+        "ja": "キャンセル"
       },
       "createdAt": "2026-10-27T03:17:25.979Z",
-      "updatedAt": "2026-10-27T03:17:25.979Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_556a1a81",
@@ -25708,10 +25753,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Uploaded by",
-        "id": "Diunggah oleh"
+        "id": "Diunggah oleh",
+        "ja": "アップロード者"
       },
       "createdAt": "2026-10-27T03:17:26.006Z",
-      "updatedAt": "2026-10-27T03:17:26.006Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_0998c08b",
@@ -25720,10 +25766,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Upload Date",
-        "id": "Tanggal Unggah"
+        "id": "Tanggal Unggah",
+        "ja": "アップロード日"
       },
       "createdAt": "2026-10-27T03:17:26.028Z",
-      "updatedAt": "2026-10-27T03:17:26.028Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_2bba86c2",
@@ -25732,10 +25779,11 @@
       "namespace": "documents",
       "translations": {
         "en": "File Size",
-        "id": "Ukuran File"
+        "id": "Ukuran File",
+        "ja": "ファイルサイズ"
       },
       "createdAt": "2026-10-27T03:17:26.052Z",
-      "updatedAt": "2026-10-27T03:17:26.052Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_c2f28863",
@@ -25744,10 +25792,11 @@
       "namespace": "documents",
       "translations": {
         "en": "OCR Processed",
-        "id": "OCR Diproses"
+        "id": "OCR Diproses",
+        "ja": "OCR処理済み"
       },
       "createdAt": "2026-10-27T03:17:26.075Z",
-      "updatedAt": "2026-10-27T03:17:26.075Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_f8edfce7",
@@ -25756,10 +25805,11 @@
       "namespace": "documents",
       "translations": {
         "en": "Yes",
-        "id": "Ya"
+        "id": "Ya",
+        "ja": "はい"
       },
       "createdAt": "2026-10-27T03:17:26.096Z",
-      "updatedAt": "2026-10-27T03:17:26.096Z"
+      "updatedAt": "2026-10-27T06:32:37.297Z"
     },
     {
       "id": "t_6d6f1a59",
@@ -25768,10 +25818,11 @@
       "namespace": "documents",
       "translations": {
         "en": "No",
-        "id": "Belum"
+        "id": "Belum",
+        "ja": "いいえ"
       },
       "createdAt": "2026-10-27T03:17:26.117Z",
-      "updatedAt": "2026-10-27T03:17:26.117Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_faf16a21",
@@ -25780,10 +25831,11 @@
       "namespace": "recycle_bin",
       "translations": {
         "en": "Recycle Bin",
-        "id": "Recycle Bin"
+        "id": "Recycle Bin",
+        "ja": "ごみ箱"
       },
       "createdAt": "2026-10-27T03:17:26.141Z",
-      "updatedAt": "2026-10-27T03:17:26.141Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_90272cfc",
@@ -25792,10 +25844,11 @@
       "namespace": "recycle_bin",
       "translations": {
         "en": "Recycle bin is empty.",
-        "id": "Recycle bin kosong."
+        "id": "Recycle bin kosong.",
+        "ja": "ごみ箱が空です。"
       },
       "createdAt": "2026-10-27T03:17:26.162Z",
-      "updatedAt": "2026-10-27T03:17:26.162Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_8a9c5d87",
@@ -25804,10 +25857,11 @@
       "namespace": "recycle_bin",
       "translations": {
         "en": "Restore",
-        "id": "Pulihkan"
+        "id": "Pulihkan",
+        "ja": "復元"
       },
       "createdAt": "2026-10-27T03:17:26.186Z",
-      "updatedAt": "2026-10-27T03:17:26.186Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_cab1179a",
@@ -25816,10 +25870,11 @@
       "namespace": "recycle_bin",
       "translations": {
         "en": "Delete Permanently",
-        "id": "Hapus Permanen"
+        "id": "Hapus Permanen",
+        "ja": "完全に削除"
       },
       "createdAt": "2026-10-27T03:17:26.210Z",
-      "updatedAt": "2026-10-27T03:17:26.210Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_7a0731bf",
@@ -25828,10 +25883,11 @@
       "namespace": "recycle_bin",
       "translations": {
         "en": "Are you sure you want to permanently delete? This action cannot be undone.",
-        "id": "Yakin ingin menghapus permanen? Tindakan ini tidak dapat dibatalkan."
+        "id": "Yakin ingin menghapus permanen? Tindakan ini tidak dapat dibatalkan.",
+        "ja": "完全に削除してもよろしいですか?この操作は元に戻すことができません。"
       },
       "createdAt": "2026-10-27T03:17:26.236Z",
-      "updatedAt": "2026-10-27T03:17:26.236Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_c711cf0a",
@@ -25840,10 +25896,11 @@
       "namespace": "activity",
       "translations": {
         "en": "Activity Log",
-        "id": "Riwayat Aktivitas"
+        "id": "Riwayat Aktivitas",
+        "ja": "アクティビティログ"
       },
       "createdAt": "2026-10-27T03:17:26.261Z",
-      "updatedAt": "2026-10-27T03:17:26.261Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_21c7131d",
@@ -25852,10 +25909,11 @@
       "namespace": "activity",
       "translations": {
         "en": "Action",
-        "id": "Aksi"
+        "id": "Aksi",
+        "ja": "アクション"
       },
       "createdAt": "2026-10-27T03:17:26.286Z",
-      "updatedAt": "2026-10-27T03:17:26.286Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_35d7699d",
@@ -25864,10 +25922,11 @@
       "namespace": "activity",
       "translations": {
         "en": "Description",
-        "id": "Keterangan"
+        "id": "Keterangan",
+        "ja": "説明"
       },
       "createdAt": "2026-10-27T03:17:26.310Z",
-      "updatedAt": "2026-10-27T03:17:26.310Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_2f74837e",
@@ -25876,10 +25935,11 @@
       "namespace": "activity",
       "translations": {
         "en": "User",
-        "id": "Pengguna"
+        "id": "Pengguna",
+        "ja": "ユーザー"
       },
       "createdAt": "2026-10-27T03:17:26.334Z",
-      "updatedAt": "2026-10-27T03:17:26.334Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_5552dfca",
@@ -25888,10 +25948,11 @@
       "namespace": "activity",
       "translations": {
         "en": "Date",
-        "id": "Waktu"
+        "id": "Waktu",
+        "ja": "日付"
       },
       "createdAt": "2026-10-27T03:17:26.355Z",
-      "updatedAt": "2026-10-27T03:17:26.355Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_26578033",
@@ -25900,10 +25961,11 @@
       "namespace": "activity",
       "translations": {
         "en": "Upload",
-        "id": "Unggah"
+        "id": "Unggah",
+        "ja": "アップロード"
       },
       "createdAt": "2026-10-27T03:17:26.377Z",
-      "updatedAt": "2026-10-27T03:17:26.377Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_c02c10cf",
@@ -25912,10 +25974,11 @@
       "namespace": "activity",
       "translations": {
         "en": "Edit",
-        "id": "Edit"
+        "id": "Edit",
+        "ja": "編集"
       },
       "createdAt": "2026-10-27T03:17:26.399Z",
-      "updatedAt": "2026-10-27T03:17:26.399Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_fa9e42bc",
@@ -25924,10 +25987,11 @@
       "namespace": "activity",
       "translations": {
         "en": "Delete",
-        "id": "Hapus"
+        "id": "Hapus",
+        "ja": "削除"
       },
       "createdAt": "2026-10-27T03:17:26.420Z",
-      "updatedAt": "2026-10-27T03:17:26.420Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_f40f5679",
@@ -25936,10 +26000,11 @@
       "namespace": "activity",
       "translations": {
         "en": "Restore",
-        "id": "Pulihkan"
+        "id": "Pulihkan",
+        "ja": "復元"
       },
       "createdAt": "2026-10-27T03:17:26.441Z",
-      "updatedAt": "2026-10-27T03:17:26.441Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_d556df8e",
@@ -25948,10 +26013,11 @@
       "namespace": "activity",
       "translations": {
         "en": "View",
-        "id": "Lihat"
+        "id": "Lihat",
+        "ja": "見る"
       },
       "createdAt": "2026-10-27T03:17:26.460Z",
-      "updatedAt": "2026-10-27T03:17:26.460Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_a645e678",
@@ -25960,10 +26026,11 @@
       "namespace": "activity",
       "translations": {
         "en": "Login",
-        "id": "Masuk"
+        "id": "Masuk",
+        "ja": "ログイン"
       },
       "createdAt": "2026-10-27T03:17:26.484Z",
-      "updatedAt": "2026-10-27T03:17:26.484Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_3011d908",
@@ -25972,10 +26039,11 @@
       "namespace": "activity",
       "translations": {
         "en": "Logout",
-        "id": "Keluar"
+        "id": "Keluar",
+        "ja": "ログアウト"
       },
       "createdAt": "2026-10-27T03:17:26.504Z",
-      "updatedAt": "2026-10-27T03:17:26.504Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_ba1ebfae",
@@ -25984,10 +26052,11 @@
       "namespace": "activity",
       "translations": {
         "en": "OCR",
-        "id": "OCR"
+        "id": "OCR",
+        "ja": "OCR"
       },
       "createdAt": "2026-10-27T03:17:26.527Z",
-      "updatedAt": "2026-10-27T03:17:26.527Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_10a4fb0d",
@@ -25996,10 +26065,11 @@
       "namespace": "profile",
       "translations": {
         "en": "My Profile",
-        "id": "Profil Saya"
+        "id": "Profil Saya",
+        "ja": "私のプロフィール"
       },
       "createdAt": "2026-10-27T03:17:26.552Z",
-      "updatedAt": "2026-10-27T03:17:26.552Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_fe5f5edd",
@@ -26008,10 +26078,11 @@
       "namespace": "profile",
       "translations": {
         "en": "Full Name",
-        "id": "Nama Lengkap"
+        "id": "Nama Lengkap",
+        "ja": "フルネーム"
       },
       "createdAt": "2026-10-27T03:17:26.574Z",
-      "updatedAt": "2026-10-27T03:17:26.574Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_bad14e15",
@@ -26020,10 +26091,11 @@
       "namespace": "profile",
       "translations": {
         "en": "Position",
-        "id": "Jabatan"
+        "id": "Jabatan",
+        "ja": "ポジション"
       },
       "createdAt": "2026-10-27T03:17:26.597Z",
-      "updatedAt": "2026-10-27T03:17:26.597Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_b2a27487",
@@ -26032,10 +26104,11 @@
       "namespace": "profile",
       "translations": {
         "en": "Position",
-        "id": "Jabatan"
+        "id": "Jabatan",
+        "ja": "ポジション"
       },
       "createdAt": "2026-10-27T03:17:26.620Z",
-      "updatedAt": "2026-10-27T03:17:26.620Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_d64fab48",
@@ -26044,10 +26117,11 @@
       "namespace": "profile",
       "translations": {
         "en": "Email",
-        "id": "Surel"
+        "id": "Surel",
+        "ja": "電子メール"
       },
       "createdAt": "2026-10-27T03:17:26.644Z",
-      "updatedAt": "2026-10-27T03:17:26.644Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_bbd950a1",
@@ -26056,10 +26130,11 @@
       "namespace": "profile",
       "translations": {
         "en": "Language",
-        "id": "Bahasa"
+        "id": "Bahasa",
+        "ja": "言語"
       },
       "createdAt": "2026-10-27T03:17:26.663Z",
-      "updatedAt": "2026-10-27T03:17:26.663Z"
+      "updatedAt": "2026-10-27T06:32:38.695Z"
     },
     {
       "id": "t_aaab5872",
@@ -26068,10 +26143,11 @@
       "namespace": "profile",
       "translations": {
         "en": "Theme",
-        "id": "Tema"
+        "id": "Tema",
+        "ja": "テーマ"
       },
       "createdAt": "2026-10-27T03:17:26.683Z",
-      "updatedAt": "2026-10-27T03:17:26.683Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_d51420d4",
@@ -26080,10 +26156,11 @@
       "namespace": "profile",
       "translations": {
         "en": "Light",
-        "id": "Terang"
+        "id": "Terang",
+        "ja": "ライト"
       },
       "createdAt": "2026-10-27T03:17:26.703Z",
-      "updatedAt": "2026-10-27T03:17:26.703Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_f407d9c9",
@@ -26092,10 +26169,11 @@
       "namespace": "profile",
       "translations": {
         "en": "Dark",
-        "id": "Gelap"
+        "id": "Gelap",
+        "ja": "暗い"
       },
       "createdAt": "2026-10-27T03:17:26.721Z",
-      "updatedAt": "2026-10-27T03:17:26.721Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_f79912f7",
@@ -26104,10 +26182,11 @@
       "namespace": "profile",
       "translations": {
         "en": "Save Changes",
-        "id": "Simpan Perubahan"
+        "id": "Simpan Perubahan",
+        "ja": "変更を保存"
       },
       "createdAt": "2026-10-27T03:17:26.743Z",
-      "updatedAt": "2026-10-27T03:17:26.743Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_9e98be1a",
@@ -26116,10 +26195,11 @@
       "namespace": "profile",
       "translations": {
         "en": "Change Password",
-        "id": "Ubah Kata Sandi"
+        "id": "Ubah Kata Sandi",
+        "ja": "パスワードの変更"
       },
       "createdAt": "2026-10-27T03:17:26.762Z",
-      "updatedAt": "2026-10-27T03:17:26.762Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_269cf4fd",
@@ -26128,10 +26208,11 @@
       "namespace": "profile",
       "translations": {
         "en": "Current Password",
-        "id": "Kata Sandi Saat Ini"
+        "id": "Kata Sandi Saat Ini",
+        "ja": "現在のパスワード"
       },
       "createdAt": "2026-10-27T03:17:26.783Z",
-      "updatedAt": "2026-10-27T03:17:26.783Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_c53c5fcd",
@@ -26140,10 +26221,11 @@
       "namespace": "profile",
       "translations": {
         "en": "New Password",
-        "id": "Kata Sandi Baru"
+        "id": "Kata Sandi Baru",
+        "ja": "新しいパスワード"
       },
       "createdAt": "2026-10-27T03:17:26.802Z",
-      "updatedAt": "2026-10-27T03:17:26.802Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_493d0f79",
@@ -26152,10 +26234,11 @@
       "namespace": "profile",
       "translations": {
         "en": "Confirm Password",
-        "id": "Konfirmasi Kata Sandi"
+        "id": "Konfirmasi Kata Sandi",
+        "ja": "パスワードの確認"
       },
       "createdAt": "2026-10-27T03:17:26.822Z",
-      "updatedAt": "2026-10-27T03:17:26.822Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_48db8f64",
@@ -26164,10 +26247,11 @@
       "namespace": "auth",
       "translations": {
         "en": "Sign In",
-        "id": "Masuk"
+        "id": "Masuk",
+        "ja": "サインイン"
       },
       "createdAt": "2026-10-27T03:17:26.847Z",
-      "updatedAt": "2026-10-27T03:17:26.847Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_7c17e76b",
@@ -26176,10 +26260,11 @@
       "namespace": "auth",
       "translations": {
         "en": "Email",
-        "id": "Surel"
+        "id": "Surel",
+        "ja": "電子メール"
       },
       "createdAt": "2026-10-27T03:17:26.870Z",
-      "updatedAt": "2026-10-27T03:17:26.870Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_27bc9d19",
@@ -26188,10 +26273,11 @@
       "namespace": "auth",
       "translations": {
         "en": "Password",
-        "id": "Kata Sandi"
+        "id": "Kata Sandi",
+        "ja": "パスワード"
       },
       "createdAt": "2026-10-27T03:17:26.895Z",
-      "updatedAt": "2026-10-27T03:17:26.895Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_e467feb7",
@@ -26200,10 +26286,11 @@
       "namespace": "auth",
       "translations": {
         "en": "Remember Me",
-        "id": "Ingat Saya"
+        "id": "Ingat Saya",
+        "ja": "リメンバー・ミー"
       },
       "createdAt": "2026-10-27T03:17:26.918Z",
-      "updatedAt": "2026-10-27T03:17:26.918Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_6c389045",
@@ -26212,10 +26299,11 @@
       "namespace": "auth",
       "translations": {
         "en": "Forgot Password?",
-        "id": "Lupa Kata Sandi?"
+        "id": "Lupa Kata Sandi?",
+        "ja": "パスワードをお忘れですか?"
       },
       "createdAt": "2026-10-27T03:17:26.946Z",
-      "updatedAt": "2026-10-27T03:17:26.946Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_7b9b7f29",
@@ -26224,10 +26312,11 @@
       "namespace": "auth",
       "translations": {
         "en": "Welcome",
-        "id": "Selamat Datang"
+        "id": "Selamat Datang",
+        "ja": "ようこそ"
       },
       "createdAt": "2026-10-27T03:17:26.970Z",
-      "updatedAt": "2026-10-27T03:17:26.970Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_7b643506",
@@ -26236,10 +26325,11 @@
       "namespace": "auth",
       "translations": {
         "en": "Digital Archiving System",
-        "id": "Sistem Pengarsipan Digital"
+        "id": "Sistem Pengarsipan Digital",
+        "ja": "デジタルアーカイブシステム"
       },
       "createdAt": "2026-10-27T03:17:26.996Z",
-      "updatedAt": "2026-10-27T03:17:26.996Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_f657641d",
@@ -26248,10 +26338,11 @@
       "namespace": "auth",
       "translations": {
         "en": "Sukarami Village, Rambang District, Muara Enim",
-        "id": "Desa Sukarami, Kec. Rambang, Kab. Muara Enim"
+        "id": "Desa Sukarami, Kec. Rambang, Kab. Muara Enim",
+        "ja": "ムアラ・エニム、ランバン地区、スカラミ村"
       },
       "createdAt": "2026-10-27T03:17:27.020Z",
-      "updatedAt": "2026-10-27T03:17:27.020Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_803d1875",
@@ -26260,10 +26351,11 @@
       "namespace": "common",
       "translations": {
         "en": "Loading...",
-        "id": "Memuat..."
+        "id": "Memuat...",
+        "ja": "読み込み中..."
       },
       "createdAt": "2026-10-27T03:17:27.041Z",
-      "updatedAt": "2026-10-27T03:17:27.041Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_670fec85",
@@ -26272,10 +26364,11 @@
       "namespace": "common",
       "translations": {
         "en": "Save",
-        "id": "Simpan"
+        "id": "Simpan",
+        "ja": "保存"
       },
       "createdAt": "2026-10-27T03:17:27.069Z",
-      "updatedAt": "2026-10-27T03:17:27.069Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_02639e9a",
@@ -26284,10 +26377,11 @@
       "namespace": "common",
       "translations": {
         "en": "Cancel",
-        "id": "Batal"
+        "id": "Batal",
+        "ja": "キャンセル"
       },
       "createdAt": "2026-10-27T03:17:27.092Z",
-      "updatedAt": "2026-10-27T03:17:27.092Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_0c822338",
@@ -26296,10 +26390,11 @@
       "namespace": "common",
       "translations": {
         "en": "Close",
-        "id": "Tutup"
+        "id": "Tutup",
+        "ja": "閉じる"
       },
       "createdAt": "2026-10-27T03:17:27.119Z",
-      "updatedAt": "2026-10-27T03:17:27.119Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_71e9362e",
@@ -26308,10 +26403,11 @@
       "namespace": "common",
       "translations": {
         "en": "Confirm",
-        "id": "Konfirmasi"
+        "id": "Konfirmasi",
+        "ja": "確認する"
       },
       "createdAt": "2026-10-27T03:17:27.145Z",
-      "updatedAt": "2026-10-27T03:17:27.145Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_faa92a91",
@@ -26320,10 +26416,11 @@
       "namespace": "common",
       "translations": {
         "en": "Search",
-        "id": "Cari"
+        "id": "Cari",
+        "ja": "検索"
       },
       "createdAt": "2026-10-27T03:17:27.167Z",
-      "updatedAt": "2026-10-27T03:17:27.167Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_88cc5c88",
@@ -26332,10 +26429,11 @@
       "namespace": "common",
       "translations": {
         "en": "Filter",
-        "id": "Filter"
+        "id": "Filter",
+        "ja": "フィルター"
       },
       "createdAt": "2026-10-27T03:17:27.186Z",
-      "updatedAt": "2026-10-27T03:17:27.186Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_0064d1b5",
@@ -26344,10 +26442,11 @@
       "namespace": "common",
       "translations": {
         "en": "Reset",
-        "id": "Reset"
+        "id": "Reset",
+        "ja": "リセット"
       },
       "createdAt": "2026-10-27T03:17:27.209Z",
-      "updatedAt": "2026-10-27T03:17:27.209Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_16f3d2ca",
@@ -26356,10 +26455,11 @@
       "namespace": "common",
       "translations": {
         "en": "Actions",
-        "id": "Aksi"
+        "id": "Aksi",
+        "ja": "アクション"
       },
       "createdAt": "2026-10-27T03:17:27.232Z",
-      "updatedAt": "2026-10-27T03:17:27.232Z"
+      "updatedAt": "2026-10-27T06:32:39.955Z"
     },
     {
       "id": "t_dd8ce305",
@@ -26368,10 +26468,11 @@
       "namespace": "common",
       "translations": {
         "en": "Status",
-        "id": "Status"
+        "id": "Status",
+        "ja": "ステータス"
       },
       "createdAt": "2026-10-27T03:17:27.253Z",
-      "updatedAt": "2026-10-27T03:17:27.253Z"
+      "updatedAt": "2026-10-27T06:32:41.075Z"
     },
     {
       "id": "t_e5a1e8d8",
@@ -26380,10 +26481,11 @@
       "namespace": "common",
       "translations": {
         "en": "Date",
-        "id": "Tanggal"
+        "id": "Tanggal",
+        "ja": "日付"
       },
       "createdAt": "2026-10-27T03:17:27.274Z",
-      "updatedAt": "2026-10-27T03:17:27.274Z"
+      "updatedAt": "2026-10-27T06:32:41.075Z"
     },
     {
       "id": "t_5019e67a",
@@ -26392,10 +26494,11 @@
       "namespace": "common",
       "translations": {
         "en": "Name",
-        "id": "Nama"
+        "id": "Nama",
+        "ja": "名前"
       },
       "createdAt": "2026-10-27T03:17:27.295Z",
-      "updatedAt": "2026-10-27T03:17:27.295Z"
+      "updatedAt": "2026-10-27T06:32:41.075Z"
     },
     {
       "id": "t_a1620c0e",
@@ -26404,10 +26507,11 @@
       "namespace": "common",
       "translations": {
         "en": "Description",
-        "id": "Keterangan"
+        "id": "Keterangan",
+        "ja": "説明"
       },
       "createdAt": "2026-10-27T03:17:27.320Z",
-      "updatedAt": "2026-10-27T03:17:27.320Z"
+      "updatedAt": "2026-10-27T06:32:41.075Z"
     },
     {
       "id": "t_dfb6f416",
@@ -26416,10 +26520,11 @@
       "namespace": "common",
       "translations": {
         "en": "No data available.",
-        "id": "Tidak ada data."
+        "id": "Tidak ada data.",
+        "ja": "利用可能なデータはありません。"
       },
       "createdAt": "2026-10-27T03:17:27.343Z",
-      "updatedAt": "2026-10-27T03:17:27.343Z"
+      "updatedAt": "2026-10-27T06:32:41.075Z"
     },
     {
       "id": "t_fbb3015b",
@@ -26428,10 +26533,11 @@
       "namespace": "common",
       "translations": {
         "en": "per page",
-        "id": "per halaman"
+        "id": "per halaman",
+        "ja": "ページあたり"
       },
       "createdAt": "2026-10-27T03:17:27.365Z",
-      "updatedAt": "2026-10-27T03:17:27.365Z"
+      "updatedAt": "2026-10-27T06:32:41.075Z"
     },
     {
       "id": "t_356bad31",
@@ -28603,6 +28709,2892 @@
       },
       "createdAt": "2026-10-27T03:49:16.921Z",
       "updatedAt": "2026-10-27T03:49:16.921Z"
+    },
+    {
+      "id": "t_ad_1793082755101_tl0s0",
+      "projectId": "proj_81ef53ec",
+      "key": "messages.document_uploaded",
+      "namespace": "messages",
+      "translations": {
+        "id": "Dokumen berhasil diunggah.",
+        "en": "Document uploaded successfully.",
+        "ja": "ドキュメントが正常にアップロードされました。"
+      },
+      "createdAt": "2026-10-27T06:32:35.101Z",
+      "updatedAt": "2026-10-27T06:32:35.103Z"
+    },
+    {
+      "id": "t_ad_1793082755103_4la1x",
+      "projectId": "proj_81ef53ec",
+      "key": "messages.document_updated",
+      "namespace": "messages",
+      "translations": {
+        "id": "Dokumen berhasil diperbarui.",
+        "en": "Document updated successfully.",
+        "ja": "ドキュメントが正常に更新されました。"
+      },
+      "createdAt": "2026-10-27T06:32:35.103Z",
+      "updatedAt": "2026-10-27T06:32:35.103Z"
+    },
+    {
+      "id": "t_ad_1793082755103_kqxjv",
+      "projectId": "proj_81ef53ec",
+      "key": "messages.document_deleted",
+      "namespace": "messages",
+      "translations": {
+        "id": "Dokumen dipindahkan ke recycle bin.",
+        "en": "Document moved to recycle bin.",
+        "ja": "ドキュメントはゴミ箱に移動されました。"
+      },
+      "createdAt": "2026-10-27T06:32:35.103Z",
+      "updatedAt": "2026-10-27T06:32:35.103Z"
+    },
+    {
+      "id": "t_ad_1793082755103_zr300",
+      "projectId": "proj_81ef53ec",
+      "key": "messages.document_restored",
+      "namespace": "messages",
+      "translations": {
+        "id": "Dokumen berhasil dipulihkan.",
+        "en": "Document restored successfully.",
+        "ja": "ドキュメントが正常に復元されました。"
+      },
+      "createdAt": "2026-10-27T06:32:35.103Z",
+      "updatedAt": "2026-10-27T06:32:35.103Z"
+    },
+    {
+      "id": "t_ad_1793082755103_3e6wi",
+      "projectId": "proj_81ef53ec",
+      "key": "messages.document_permanently_deleted",
+      "namespace": "messages",
+      "translations": {
+        "id": "Dokumen berhasil dihapus secara permanen.",
+        "en": "Document permanently deleted.",
+        "ja": "ドキュメントは完全に削除されました。"
+      },
+      "createdAt": "2026-10-27T06:32:35.103Z",
+      "updatedAt": "2026-10-27T06:32:35.103Z"
+    },
+    {
+      "id": "t_ad_1793082755104_y8xrf",
+      "projectId": "proj_81ef53ec",
+      "key": "messages.ocr_saved",
+      "namespace": "messages",
+      "translations": {
+        "id": "Hasil OCR berhasil disimpan.",
+        "en": "OCR result saved successfully.",
+        "ja": "OCR結果が正常に保存されました。"
+      },
+      "createdAt": "2026-10-27T06:32:35.104Z",
+      "updatedAt": "2026-10-27T06:32:35.104Z"
+    },
+    {
+      "id": "t_ad_1793082755104_q9bxa",
+      "projectId": "proj_81ef53ec",
+      "key": "messages.profile_updated",
+      "namespace": "messages",
+      "translations": {
+        "id": "Profil berhasil diperbarui.",
+        "en": "Profile updated successfully.",
+        "ja": "プロフィールが正常に更新されました。"
+      },
+      "createdAt": "2026-10-27T06:32:35.104Z",
+      "updatedAt": "2026-10-27T06:32:35.104Z"
+    },
+    {
+      "id": "t_ad_1793082755104_dqzyl",
+      "projectId": "proj_81ef53ec",
+      "key": "messages.password_updated",
+      "namespace": "messages",
+      "translations": {
+        "id": "Kata sandi berhasil diperbarui.",
+        "en": "Password updated successfully.",
+        "ja": "パスワードが正常に更新されました。"
+      },
+      "createdAt": "2026-10-27T06:32:35.104Z",
+      "updatedAt": "2026-10-27T06:32:35.104Z"
+    },
+    {
+      "id": "t_arsip_ui_fswslx2",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.user_activity_log",
+      "namespace": "ui",
+      "translations": {
+        "id": "Riwayat Aktivitas Pengguna",
+        "en": "User Activity Log",
+        "ja": "ユーザーアクティビティログ"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_kh4p47z",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.audit_trail_of_all_archiving_and_authent",
+      "namespace": "ui",
+      "translations": {
+        "id": "Audit jejak digital seluruh kegiatan arsip dan autentikasi",
+        "en": "Audit trail of all archiving and authentication actions",
+        "ja": "すべてのアーカイブおよび認証アクションの監査証跡"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_hp0duws",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.total_activities",
+      "namespace": "ui",
+      "translations": {
+        "id": "Total Aktivitas",
+        "en": "Total Activities",
+        "ja": "活動合計"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_3ovumtl",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.search_activity_description",
+      "namespace": "ui",
+      "translations": {
+        "id": "Cari deskripsi aktivitas...",
+        "en": "Search activity description...",
+        "ja": "アクティビティの説明を検索..."
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_n9d7jzb",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.all_action_types",
+      "namespace": "ui",
+      "translations": {
+        "id": "Semua Jenis Aksi",
+        "en": "All Action Types",
+        "ja": "すべてのアクション タイプ"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_x2gweq2",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.edit_document",
+      "namespace": "ui",
+      "translations": {
+        "id": "Edit Dokumen",
+        "en": "Edit Document",
+        "ja": "ドキュメントの編集"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_xcv2goe",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.restore_document",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pemulihan Dokumen (Restore)",
+        "en": "Restore Document",
+        "ja": "ドキュメントの復元"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_0oj0gei",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.view_document",
+      "namespace": "ui",
+      "translations": {
+        "id": "Melihat Dokumen",
+        "en": "View Document",
+        "ja": "ドキュメントを見る"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_43512ib",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.site_settings",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pengaturan Website",
+        "en": "Site Settings",
+        "ja": "サイト設定"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_jj98hgk",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.all_users",
+      "namespace": "ui",
+      "translations": {
+        "id": "Semua Pengguna",
+        "en": "All Users",
+        "ja": "すべてのユーザー"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_gxemkni",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.no_activity_logs_found",
+      "namespace": "ui",
+      "translations": {
+        "id": "Tidak ada riwayat aktivitas ditemukan.",
+        "en": "No activity logs found.",
+        "ja": "アクティビティ ログが見つかりません。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_9env65p",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.try_changing_the_search_keyword_or_selec",
+      "namespace": "ui",
+      "translations": {
+        "id": "Coba ubah kata kunci pencarian atau filter yang dipilih.",
+        "en": "Try changing the search keyword or selected filters.",
+        "ja": "検索キーワードまたは選択したフィルターを変更してみてください。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_wghte71",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.manage_categories",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kelola Kategori Arsip",
+        "en": "Manage Categories",
+        "ja": "カテゴリの管理"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_nceffti",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.document_categories_classification",
+      "namespace": "ui",
+      "translations": {
+        "id": "Klasifikasi & Kategori Dokumen",
+        "en": "Document Categories & Classification",
+        "ja": "ドキュメントのカテゴリと分類"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_ou88won",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.organize_primary_categories_and_subcateg",
+      "namespace": "ui",
+      "translations": {
+        "id": "Atur kategori utama dan subkategori untuk pengelompokan arsip desa",
+        "en": "Organize primary categories and subcategories for village digital archiving",
+        "ja": "村のデジタルアーカイブの主要カテゴリとサブカテゴリを整理する"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_i5uwojv",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.add_primary_category",
+      "namespace": "ui",
+      "translations": {
+        "id": "Tambah Kategori Utama",
+        "en": "Add Primary Category",
+        "ja": "プライマリカテゴリを追加"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_nbybhze",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.search_categories_or_subcategories",
+      "namespace": "ui",
+      "translations": {
+        "id": "Cari kategori atau subkategori...",
+        "en": "Search categories or subcategories...",
+        "ja": "カテゴリまたはサブカテゴリを検索..."
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_g01q3b9",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.no_categories_matched",
+      "namespace": "ui",
+      "translations": {
+        "id": "Tidak ada kategori yang cocok.",
+        "en": "No categories matched.",
+        "ja": "一致するカテゴリはありません。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_jhreghu",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.linked_documents",
+      "namespace": "ui",
+      "translations": {
+        "id": "dokumen terkait",
+        "en": "linked documents",
+        "ja": "リンクされたドキュメント"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_harxmnv",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.add_sub",
+      "namespace": "ui",
+      "translations": {
+        "id": "Tambah Sub",
+        "en": "Add Sub",
+        "ja": "サブを追加"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_sewafzi",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.edit_category",
+      "namespace": "ui",
+      "translations": {
+        "id": "Edit Kategori",
+        "en": "Edit Category",
+        "ja": "カテゴリの編集"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_nxoorsb",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.category_name_indonesian",
+      "namespace": "ui",
+      "translations": {
+        "id": "Nama Kategori (Indonesia)",
+        "en": "Category Name (Indonesian)",
+        "ja": "カテゴリ名（インドネシア語）"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_kiwg287",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.english_name_optional",
+      "namespace": "ui",
+      "translations": {
+        "id": "Nama Bahasa Inggris (Opsional)",
+        "en": "English Name (Optional)",
+        "ja": "英語名 (オプション)"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_va1fqs6",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.theme_color_badge",
+      "namespace": "ui",
+      "translations": {
+        "id": "Warna Tema Badge",
+        "en": "Theme Color Badge",
+        "ja": "テーマカラーバッジ"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_evb5i9i",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.hero_banner",
+      "namespace": "ui",
+      "translations": {
+        "id": "Hero / Banner",
+        "en": "Hero / Banner",
+        "ja": "ヒーロー/バナー"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_vph571x",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.general_information",
+      "namespace": "ui",
+      "translations": {
+        "id": "Informasi Umum",
+        "en": "General Information",
+        "ja": "一般情報"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_s2pl8vs",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.territorial_borders",
+      "namespace": "ui",
+      "translations": {
+        "id": "Batas Wilayah",
+        "en": "Territorial Borders",
+        "ja": "領土の境界線"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_6xh734t",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.vision_mission",
+      "namespace": "ui",
+      "translations": {
+        "id": "Visi & Misi",
+        "en": "Vision & Mission",
+        "ja": "ビジョンとミッション"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_77zeza9",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.village_history",
+      "namespace": "ui",
+      "translations": {
+        "id": "Sejarah Desa",
+        "en": "Village History",
+        "ja": "村の歴史"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_axd1unh",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.structure",
+      "namespace": "ui",
+      "translations": {
+        "id": "Struktur Organisasi",
+        "en": "Structure",
+        "ja": "構造"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_b5ctb8m",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.system_settings",
+      "namespace": "ui",
+      "translations": {
+        "id": "Sistem & Registrasi",
+        "en": "System & Settings",
+        "ja": "システムと設定"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_rfb6j4r",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.page_settings",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pengaturan Halaman",
+        "en": "Page Settings",
+        "ja": "ページ設定"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_zgk4vck",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.view_page",
+      "namespace": "ui",
+      "translations": {
+        "id": "Lihat Halaman",
+        "en": "View Page",
+        "ja": "ページを見る"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_hivif5y",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.sections",
+      "namespace": "ui",
+      "translations": {
+        "id": "Bagian",
+        "en": "Sections",
+        "ja": "セクション"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_xqqrifg",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.registration_active_open",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pendaftaran Aktif (Dibuka)",
+        "en": "Registration Active (Open)",
+        "ja": "登録がアクティブ (オープン)"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_usjjn9g",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.registration_disabled_closed",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pendaftaran Nonaktif (Ditutup)",
+        "en": "Registration Disabled (Closed)",
+        "ja": "登録不可（終了）"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_a0axyel",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.new_users_can_access_register_and_see_re",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pengguna/staf baru dapat mengakses halaman /register dan melihat tombol pendaftaran di halaman login & beranda.",
+        "en": "New users can access /register and see registration buttons on login & landing pages.",
+        "ja": "新規ユーザーはアクセス/登録でき、ログイン ページとランディング ページに登録ボタンが表示されます。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_lzesmna",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.page_register_will_be_inaccessible_404_a",
+      "namespace": "ui",
+      "translations": {
+        "id": "Halaman /register tidak dapat diakses (404) dan seluruh tombol pendaftaran disembunyikan dari pengunjung.",
+        "en": "Page /register will be inaccessible (404) and all register buttons will be hidden.",
+        "ja": "ページ/レジスタにアクセスできなくなり (404)、すべてのレジスタ ボタンが非表示になります。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_93gg6al",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.qr_code_active_shown_on_print_download",
+      "namespace": "ui",
+      "translations": {
+        "id": "QR Code Aktif (Ditampilkan pada Cetak & Unduh)",
+        "en": "QR Code Active (Shown on Print & Download)",
+        "ja": "QR コードが有効です (印刷およびダウンロードに表示されます)"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_n4grqe5",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.qr_code_disabled_hidden",
+      "namespace": "ui",
+      "translations": {
+        "id": "QR Code Nonaktif (Disembunyikan)",
+        "en": "QR Code Disabled (Hidden)",
+        "ja": "QRコード無効(非表示)"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_0sq3kb9",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.verification_qr_code_is_stamped_when_pri",
+      "namespace": "ui",
+      "translations": {
+        "id": "QR Code verifikasi keaslian otomatis tercetak pada dokumen dan dapat dipindai publik. Data token tersimpan di database.",
+        "en": "Verification QR code is stamped when printing/downloading. Verification token remains in database.",
+        "ja": "印刷・ダウンロード時に認証用QRコードが押印されます。検証トークンはデータベースに残ります。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_uglnttv",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.qr_code_will_be_hidden_when_printing_or_",
+      "namespace": "ui",
+      "translations": {
+        "id": "QR Code tidak akan ditampilkan atau dicetak pada dokumen yang diunduh/dicetak. Kode verifikasi tetap tersimpan aman di database.",
+        "en": "QR code will be hidden when printing or downloading. Verification code remains safely stored in database.",
+        "ja": "印刷時やダウンロード時にはQRコードは非表示になります。検証コードはデータベースに安全に保存されたままになります。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_vmqzshf",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.recommended_free",
+      "namespace": "ui",
+      "translations": {
+        "id": "Rekomendasi (Gratis)",
+        "en": "Recommended (Free)",
+        "ja": "おすすめ（無料）"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_xy9hz3e",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.100_free_runs_offline_on_server_without_",
+      "namespace": "ui",
+      "translations": {
+        "id": "100% Gratis, berjalan offline di server/container tanpa biaya dan tanpa perlu kartu kredit/billing Google. Mendukung Bahasa Indonesia & Inggris.",
+        "en": "100% Free, runs offline on server without Google billing.",
+        "ja": "完全に無料で、Google への請求なしでサーバー上でオフラインで実行されます。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_ouvtsxf",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.ready_tesseract_ind_eng",
+      "namespace": "ui",
+      "translations": {
+        "id": "Siap Digunakan (Tesseract ind+eng)",
+        "en": "Ready (Tesseract ind+eng)",
+        "ja": "準備完了 (Tesseract ind+eng)"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_9vo43k5",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.cloud_ocr_service_from_google_requires_a",
+      "namespace": "ui",
+      "translations": {
+        "id": "Layanan pengenalan teks berbasis Cloud dari Google. Memerlukan API Key dan status Billing aktif di Google Cloud Console.",
+        "en": "Cloud OCR service from Google. Requires API Key and active Billing Account.",
+        "ja": "Googleが提供するクラウドOCRサービス。 API キーとアクティブな請求先アカウントが必要です。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_ojm72qs",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.requires_active_google_billing",
+      "namespace": "ui",
+      "translations": {
+        "id": "Memerlukan Akun Billing Google Aktif",
+        "en": "Requires Active Google Billing",
+        "ja": "有効な Google 請求が必要です"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_s7rrlus",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.this_setting_is_only_used_if_you_select_",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pengaturan ini hanya digunakan jika Anda memilih Google Cloud Vision di atas",
+        "en": "This setting is only used if you select Google Cloud Vision above",
+        "ja": "この設定は、上で Google Cloud Vision を選択した場合にのみ使用されます。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_w9vr246",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.first_pages_default_10_pages",
+      "namespace": "ui",
+      "translations": {
+        "id": "halaman pertama (Standar: 10 halaman)",
+        "en": "first pages (Default: 10 pages)",
+        "ja": "最初のページ (デフォルト: 10 ページ)"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_k8rgkwa",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.sets_maximum_number_of_scanned_pdf_pages",
+      "namespace": "ui",
+      "translations": {
+        "id": "Menentukan batas maksimal halaman PDF hasil pindai yang di-OCR. Untuk PDF digital, teks akan diekstrak langsung tanpa batas beban OCR.",
+        "en": "Sets maximum number of scanned PDF pages to OCR. Digital PDFs extract text natively.",
+        "ja": "OCR にスキャンされる PDF ページの最大数を設定します。デジタル PDF はテキストをネイティブに抽出します。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_ks8jpqn",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.user_staff_management",
+      "namespace": "ui",
+      "translations": {
+        "id": "Manajemen Pengguna & Staf",
+        "en": "User & Staff Management",
+        "ja": "ユーザーとスタッフの管理"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_6a5979q",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.manage_village_staff_accounts_access_per",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kelola akun staf pemerintah desa, hak akses, dan status akun aktif.",
+        "en": "Manage village staff accounts, access permissions, and active status.",
+        "ja": "村のスタッフのアカウント、アクセス権限、アクティブステータスを管理します。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_g5estqd",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.add_user",
+      "namespace": "ui",
+      "translations": {
+        "id": "Tambah Pengguna",
+        "en": "Add User",
+        "ja": "ユーザーの追加"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_norz4ce",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.search_name_email_or_job_title",
+      "namespace": "ui",
+      "translations": {
+        "id": "Cari nama, email, atau jabatan staf...",
+        "en": "Search name, email, or job title...",
+        "ja": "名前、メールアドレス、または役職を検索..."
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_blnazs4",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.all_roles",
+      "namespace": "ui",
+      "translations": {
+        "id": "Semua Peran / Role",
+        "en": "All Roles",
+        "ja": "すべての役割"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_mst02am",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.all_status",
+      "namespace": "ui",
+      "translations": {
+        "id": "Semua Status",
+        "en": "All Status",
+        "ja": "すべてのステータス"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_v6mzttu",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.name_contact",
+      "namespace": "ui",
+      "translations": {
+        "id": "Nama & Kontak",
+        "en": "Name & Contact",
+        "ja": "名前と連絡先"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_svm9dnj",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.uploaded_docs",
+      "namespace": "ui",
+      "translations": {
+        "id": "Arsip Diunggah",
+        "en": "Uploaded Docs",
+        "ja": "アップロードされたドキュメント"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_hmo6lq4",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.no_matching_users_found",
+      "namespace": "ui",
+      "translations": {
+        "id": "Tidak ada data pengguna yang sesuai.",
+        "en": "No matching users found.",
+        "ja": "一致するユーザーが見つかりませんでした。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_mlhaasw",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.edit_user",
+      "namespace": "ui",
+      "translations": {
+        "id": "Edit pengguna",
+        "en": "Edit user",
+        "ja": "ユーザーの編集"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_98jc01a",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.edit_staff_account",
+      "namespace": "ui",
+      "translations": {
+        "id": "Edit Data Staf",
+        "en": "Edit Staff Account",
+        "ja": "スタッフアカウントの編集"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_fekqjry",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.add_new_staff_account",
+      "namespace": "ui",
+      "translations": {
+        "id": "Tambah Akun Staf Baru",
+        "en": "Add New Staff Account",
+        "ja": "新しいスタッフアカウントを追加"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_2acy8g8",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.access_role",
+      "namespace": "ui",
+      "translations": {
+        "id": "Peran Akses (Role)",
+        "en": "Access Role",
+        "ja": "アクセス役割"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_pvhqqws",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.leave_blank_to_keep_unchanged",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kosongkan jika tidak diubah",
+        "en": "Leave blank to keep unchanged",
+        "ja": "変更しない場合は空白のままにします"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_m3bsmx2",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.active_account_can_log_into_system",
+      "namespace": "ui",
+      "translations": {
+        "id": "Akun Aktif (Dapat masuk ke dalam sistem)",
+        "en": "Active Account (Can log into system)",
+        "ja": "アクティブなアカウント (システムにログイン可能)"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_hpbtxc1",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.save_staff",
+      "namespace": "ui",
+      "translations": {
+        "id": "Simpan Staf",
+        "en": "Save Staff",
+        "ja": "スタッフの保存"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_j6hrlg1",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.delete_staff_account",
+      "namespace": "ui",
+      "translations": {
+        "id": "Hapus Akun Staf?",
+        "en": "Delete Staff Account?",
+        "ja": "スタッフアカウントを削除しますか?"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_holeu2a",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.are_you_sure_you_want_to_delete_staff_ac",
+      "namespace": "ui",
+      "translations": {
+        "id": "Apakah Anda yakin ingin menghapus akun staf",
+        "en": "Are you sure you want to delete staff account",
+        "ja": "スタッフアカウントを削除してもよろしいですか?"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_iodbidr",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.toggle_theme",
+      "namespace": "ui",
+      "translations": {
+        "id": "Ganti tema",
+        "en": "Toggle theme",
+        "ja": "テーマの切り替え"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_d8ruuef",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.sign_in_to_system",
+      "namespace": "ui",
+      "translations": {
+        "id": "Masuk ke Sistem",
+        "en": "Sign In to System",
+        "ja": "システムにサインインする"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_rx8hsy6",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.use_your_official_staff_or_administrator",
+      "namespace": "ui",
+      "translations": {
+        "id": "Gunakan akun resmi petugas atau administrator desa",
+        "en": "Use your official staff or administrator account",
+        "ja": "公式スタッフまたは管理者アカウントを使用してください"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_lpoj7hw",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.secure_encrypted",
+      "namespace": "ui",
+      "translations": {
+        "id": "Aman & Terenkripsi",
+        "en": "Secure & Encrypted",
+        "ja": "安全かつ暗号化"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_gi9yi4j",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.signing_in",
+      "namespace": "ui",
+      "translations": {
+        "id": "Memproses Masuk...",
+        "en": "Signing in...",
+        "ja": "サインイン中..."
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_jpiy0fp",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.sign_in_to_dashboard",
+      "namespace": "ui",
+      "translations": {
+        "id": "Masuk ke Dashboard",
+        "en": "Sign In to Dashboard",
+        "ja": "ダッシュボードにサインインする"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_x43kqmn",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.register_here",
+      "namespace": "ui",
+      "translations": {
+        "id": "Daftar di Sini",
+        "en": "Register Here",
+        "ja": "ここに登録してください"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_tzbu83o",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.quick_switch_account",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pilih Akun Cepat:",
+        "en": "Quick Switch Account:",
+        "ja": "アカウントのクイック切り替え:"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_9nxzhuh",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.register_staff_account",
+      "namespace": "ui",
+      "translations": {
+        "id": "Daftar Akun Petugas",
+        "en": "Register Staff Account",
+        "ja": "スタッフアカウントの登録"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_8b5i7ov",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.new_account_registration",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pendaftaran Akun Baru",
+        "en": "New Account Registration",
+        "ja": "新規アカウント登録"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_lft3yek",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.fill_in_staff_details",
+      "namespace": "ui",
+      "translations": {
+        "id": "Lengkapi Data Petugas",
+        "en": "Fill in Staff Details",
+        "ja": "スタッフの詳細を入力してください"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_k14dx3o",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.new_account_will_be_registered_as_villag",
+      "namespace": "ui",
+      "translations": {
+        "id": "Akun baru akan langsung terhubung sebagai petugas arsip desa",
+        "en": "New account will be registered as village archive staff",
+        "ja": "村アーカイブスタッフとして新規アカウント登録します"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_afg92vr",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.example_ahmad_fauzi",
+      "namespace": "ui",
+      "translations": {
+        "id": "Contoh: Ahmad Fauzi, S.Pd",
+        "en": "Example: Ahmad Fauzi",
+        "ja": "例: アフマド・ファウジ"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_70suiof",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.name_example_com",
+      "namespace": "ui",
+      "translations": {
+        "id": "nama@sukarami-desa.id atau email aktif",
+        "en": "name@example.com",
+        "ja": "名前@example.com"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_5xh3b0r",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.role_position",
+      "namespace": "ui",
+      "translations": {
+        "id": "Jabatan / Peran Petugas",
+        "en": "Role / Position",
+        "ja": "役割・役職"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_a1xvqct",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.example_archive_operator",
+      "namespace": "ui",
+      "translations": {
+        "id": "Contoh: Staf TU / Operator Arsip / Kasi Pelayanan",
+        "en": "Example: Archive Operator",
+        "ja": "例: アーカイブ オペレーター"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_qqnhi1z",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.registering",
+      "namespace": "ui",
+      "translations": {
+        "id": "Mendaftarkan...",
+        "en": "Registering...",
+        "ja": "登録中..."
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_uxaxz3t",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.register_account_now",
+      "namespace": "ui",
+      "translations": {
+        "id": "Daftar Akun Sekarang",
+        "en": "Register Account Now",
+        "ja": "今すぐアカウントを登録してください"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_z01id0z",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.already_have_an_official_account",
+      "namespace": "ui",
+      "translations": {
+        "id": "Sudah memiliki akun resmi?",
+        "en": "Already have an official account?",
+        "ja": "すでに公式アカウントをお持ちですか?"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_l783yx9",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.sign_in_here",
+      "namespace": "ui",
+      "translations": {
+        "id": "Masuk di Sini",
+        "en": "Sign In Here",
+        "ja": "ここにサインイン"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_rp134ck",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.official_digital_archive_system_of_sukar",
+      "namespace": "ui",
+      "translations": {
+        "id": "Sistem Arsip Resmi Desa Sukarami — Keamanan Terjamin",
+        "en": "Official Digital Archive System of Sukarami Village",
+        "ja": "スカラミ村公式デジタルアーカイブシステム"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_bdz19s1",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.no_activity_yet",
+      "namespace": "ui",
+      "translations": {
+        "id": "Belum ada aktivitas.",
+        "en": "No activity yet.",
+        "ja": "まだ活動はありません。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_asrimxw",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.clear_all_documents_from_the_queue",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kosongkan semua berkas dari antrean?",
+        "en": "Clear all documents from the queue?",
+        "ja": "キューからすべてのドキュメントをクリアしますか?"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_7jyajx1",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.batch_upload_documents",
+      "namespace": "ui",
+      "translations": {
+        "id": "Unggah Masal Dokumen",
+        "en": "Batch Upload Documents",
+        "ja": "ドキュメントのバッチアップロード"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_o5gnvsp",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.batch_document_upload",
+      "namespace": "ui",
+      "translations": {
+        "id": "Unggah Dokumen Masal",
+        "en": "Batch Document Upload",
+        "ja": "ドキュメントのバッチアップロード"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_0jwceqq",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.upload_up_to_50_files_with_automated_ocr",
+      "namespace": "ui",
+      "translations": {
+        "id": "Unggah hingga 50 file sekaligus dengan pembacaan teks otomatis (OCR) dan saran Klasifikasi Permendagri.",
+        "en": "Upload up to 50 files with automated OCR and Permendagri suggestions.",
+        "ja": "自動化された OCR と Permendagri の提案を使用して、最大 50 個のファイルをアップロードします。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_7ildggn",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.clear_queue",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kosongkan Antrean",
+        "en": "Clear Queue",
+        "ja": "キューをクリアする"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_dcpfjks",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.drag_drop_multiple_files_here_or_click_t",
+      "namespace": "ui",
+      "translations": {
+        "id": "Tarik & lepas banyak berkas ke sini, atau klik untuk memilih",
+        "en": "Drag & drop multiple files here, or click to browse",
+        "ja": "複数のファイルをここにドラッグ アンド ドロップするか、クリックして参照します"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_miq780x",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.supports_pdf_images_jpg_png_webp_word_do",
+      "namespace": "ui",
+      "translations": {
+        "id": "Mendukung format PDF, Gambar (JPG, PNG, WebP), Word (.docx), dan Teks. Maksimal 50 berkas sekaligus (hingga 20 MB/berkas).",
+        "en": "Supports PDF, Images (JPG, PNG, WebP), Word (.docx), and Text. Up to 50 files (max 20 MB/file).",
+        "ja": "PDF、画像 (JPG、PNG、WebP)、Word (.docx)、およびテキストをサポートします。最大 50 ファイル (最大 20 MB/ファイル)。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_rlopcfb",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.quick_action_apply_metadata_simultaneous",
+      "namespace": "ui",
+      "translations": {
+        "id": "Aksi Cepat: Terapkan Metadata Serentak",
+        "en": "Quick Action: Apply Metadata Simultaneously",
+        "ja": "クイックアクション: メタデータを同時に適用する"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_u04edtc",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.default_category",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kategori Default",
+        "en": "Default Category",
+        "ja": "デフォルトのカテゴリ"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_zdcta7s",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.select",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pilih Kategori...",
+        "en": "Select...",
+        "ja": "選択してください..."
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_qyudf8e",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.default_subcategory",
+      "namespace": "ui",
+      "translations": {
+        "id": "Subkategori Default",
+        "en": "Default Subcategory",
+        "ja": "デフォルトのサブカテゴリ"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_8tsg7vl",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.select_1",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pilih Subkategori...",
+        "en": "Select...",
+        "ja": "選択してください..."
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_kwiplgx",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.apply_values_above_to_all_files_in_queue",
+      "namespace": "ui",
+      "translations": {
+        "id": "Terapkan nilai di atas ke semua berkas yang belum diset",
+        "en": "Apply values above to all files in queue",
+        "ja": "上記の値をキュー内のすべてのファイルに適用します"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_2alha21",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.apply_to_all",
+      "namespace": "ui",
+      "translations": {
+        "id": "Terapkan ke Semua",
+        "en": "Apply to All",
+        "ja": "すべてに適用"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_3gytsgl",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.files_in_queue",
+      "namespace": "ui",
+      "translations": {
+        "id": "berkas dalam antrean",
+        "en": "files in queue",
+        "ja": "キュー内のファイル"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_ksc7zng",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.documents_incomplete_title_category_requ",
+      "namespace": "ui",
+      "translations": {
+        "id": "dokumen belum lengkap (Judul / Kategori wajib diisi)",
+        "en": "documents incomplete (Title / Category required)",
+        "ja": "書類不備（タイトル・カテゴリー必須）"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_735pptp",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.all_documents_ready_to_save",
+      "namespace": "ui",
+      "translations": {
+        "id": "Semua dokumen siap disimpan",
+        "en": "All documents ready to save",
+        "ja": "すべてのドキュメントを保存する準備ができています"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_0ngsmpc",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.permendagri_code",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kode Permendagri",
+        "en": "Permendagri Code",
+        "ja": "ペルメンダグリコード"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_29nckto",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.remove_from_queue",
+      "namespace": "ui",
+      "translations": {
+        "id": "Hapus berkas ini dari antrean",
+        "en": "Remove from queue",
+        "ja": "キューから削除"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_ax5td54",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.auto_detected",
+      "namespace": "ui",
+      "translations": {
+        "id": "Terdeteksi otomatis:",
+        "en": "Auto-detected:",
+        "ja": "自動検出:"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_kwv48nn",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.uploading_files_to_server",
+      "namespace": "ui",
+      "translations": {
+        "id": "Mengunggah berkas ke server...",
+        "en": "Uploading files to server...",
+        "ja": "ファイルをサーバーにアップロードしています..."
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_8yiall1",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.ready_to_upload",
+      "namespace": "ui",
+      "translations": {
+        "id": "Siap mengunggah",
+        "en": "Ready to upload",
+        "ja": "アップロードの準備ができました"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_gygrwfd",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.archive_documents",
+      "namespace": "ui",
+      "translations": {
+        "id": "dokumen arsip.",
+        "en": "archive documents.",
+        "ja": "文書をアーカイブします。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_jbxvu6e",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.each_document_will_automatically_receive",
+      "namespace": "ui",
+      "translations": {
+        "id": "Setiap dokumen akan otomatis memiliki token verifikasi resmi dan diproses ke arsip desa.",
+        "en": "Each document will automatically receive an official verification token.",
+        "ja": "各ドキュメントは自動的に公式検証トークンを受け取ります。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_zgup0t9",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.saving_documents",
+      "namespace": "ui",
+      "translations": {
+        "id": "Menyimpan Dokumen...",
+        "en": "Saving Documents...",
+        "ja": "ドキュメントを保存しています..."
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_ei03u9r",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.ocr_failed",
+      "namespace": "ui",
+      "translations": {
+        "id": "OCR gagal.",
+        "en": "OCR failed.",
+        "ja": "OCR が失敗しました。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_atdsjh2",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.drag_document_here",
+      "namespace": "ui",
+      "translations": {
+        "id": "Seret dokumen ke sini",
+        "en": "Drag document here",
+        "ja": "ドキュメントをここにドラッグします"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_hkgcqss",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.max_20mb",
+      "namespace": "ui",
+      "translations": {
+        "id": "Maks. 20MB",
+        "en": "Max 20MB",
+        "ja": "最大20MB"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_c4q1nfq",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.ocr_complete",
+      "namespace": "ui",
+      "translations": {
+        "id": "OCR selesai",
+        "en": "OCR complete",
+        "ja": "OCR完了"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_98onktu",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.manual_input",
+      "namespace": "ui",
+      "translations": {
+        "id": "Input Manual",
+        "en": "Manual Input",
+        "ja": "手動入力"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_cr7n3qr",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.digital_text_will_be_extracted_natively_",
+      "namespace": "ui",
+      "translations": {
+        "id": "Teks digital akan otomatis diekstrak langsung tanpa proses OCR gambar.",
+        "en": "Digital text will be extracted natively without image OCR processing.",
+        "ja": "デジタル テキストは、画像 OCR 処理を行わずにネイティブに抽出されます。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_ppj77pj",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.update_form_from_ocr_text",
+      "namespace": "ui",
+      "translations": {
+        "id": "Perbarui form dengan data dari teks OCR",
+        "en": "Update form from OCR text",
+        "ja": "OCRテキストからフォームを更新"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_e544al1",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.apply_to_form",
+      "namespace": "ui",
+      "translations": {
+        "id": "Terapkan ke Form",
+        "en": "Apply to Form",
+        "ja": "フォームに申し込む"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_mezluxf",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.automatic_ocr_unavailable",
+      "namespace": "ui",
+      "translations": {
+        "id": "OCR Otomatis Tidak Tersedia",
+        "en": "Automatic OCR Unavailable",
+        "ja": "自動 OCR は使用できません"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_bx2kq0x",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.your_file_is_safe_please_fill_out_the_fo",
+      "namespace": "ui",
+      "translations": {
+        "id": "File Anda tetap tersimpan. Silakan isi form di bawah ini secara manual.",
+        "en": "Your file is safe. Please fill out the form below manually.",
+        "ja": "ファイルは安全です。以下のフォームに手動で入力してください。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_0f90ncw",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.suggested_by_permendagri_from",
+      "namespace": "ui",
+      "translations": {
+        "id": "Saran Permendagri terdeteksi dari",
+        "en": "Suggested by Permendagri from",
+        "ja": "Permendagri による提案"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_o4ws3wj",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.detected",
+      "namespace": "ui",
+      "translations": {
+        "id": "terdeteksi",
+        "en": "detected",
+        "ja": "検出されました"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_s56sa56",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.select_2",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pilih...",
+        "en": "Select...",
+        "ja": "選択してください..."
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_qtdkdt9",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.document_information",
+      "namespace": "ui",
+      "translations": {
+        "id": "Informasi Dokumen",
+        "en": "Document Information",
+        "ja": "文書情報"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_lqhtv0f",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.documents_available",
+      "namespace": "ui",
+      "translations": {
+        "id": "dokumen tersedia",
+        "en": "documents available",
+        "ja": "利用可能な文書"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_2v3qy4r",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.filtered",
+      "namespace": "ui",
+      "translations": {
+        "id": "terfilter",
+        "en": "filtered",
+        "ja": "フィルタリングされた"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_51tpwxm",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.download_csv_excel_report",
+      "namespace": "ui",
+      "translations": {
+        "id": "Unduh rekap data CSV / Excel",
+        "en": "Download CSV / Excel report",
+        "ja": "CSV/Excelレポートのダウンロード"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_qth7knk",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.export_report",
+      "namespace": "ui",
+      "translations": {
+        "id": "Ekspor Rekap",
+        "en": "Export Report",
+        "ja": "レポートのエクスポート"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_htxh3ry",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.print_document_list",
+      "namespace": "ui",
+      "translations": {
+        "id": "Cetak daftar dokumen",
+        "en": "Print document list",
+        "ja": "文書リストを印刷する"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_lsjnnwg",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.print",
+      "namespace": "ui",
+      "translations": {
+        "id": "Cetak",
+        "en": "Print",
+        "ja": "印刷する"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_niyg9uv",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.upload_multiple_documents_at_once",
+      "namespace": "ui",
+      "translations": {
+        "id": "Unggah banyak berkas sekaligus",
+        "en": "Upload multiple documents at once",
+        "ja": "複数のドキュメントを一度にアップロードする"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_yi4lt6m",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.batch_upload",
+      "namespace": "ui",
+      "translations": {
+        "id": "Unggah Masal",
+        "en": "Batch Upload",
+        "ja": "バッチアップロード"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_x1vmmgl",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.date_from",
+      "namespace": "ui",
+      "translations": {
+        "id": "Dari Tanggal",
+        "en": "Date From",
+        "ja": "開始日"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_g58boqf",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.date_to",
+      "namespace": "ui",
+      "translations": {
+        "id": "Sampai Tanggal",
+        "en": "Date To",
+        "ja": "日付まで"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_tie4l2t",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.print_document_or_verification_sheet",
+      "namespace": "ui",
+      "translations": {
+        "id": "Cetak dokumen atau lembar verifikasi",
+        "en": "Print document or verification sheet",
+        "ja": "書類または確認シートを印刷する"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_lm9sv9m",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.open_in_new_tab",
+      "namespace": "ui",
+      "translations": {
+        "id": "Buka di Tab Baru",
+        "en": "Open in New Tab",
+        "ja": "新しいタブで開く"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_vj51zy3",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.microsoft_word_document_digital_text_is_",
+      "namespace": "ui",
+      "translations": {
+        "id": "File dokumen Microsoft Word. Teks digital otomatis diekstrak pada bagian bawah.",
+        "en": "Microsoft Word document. Digital text is extracted in the section below.",
+        "ja": "Microsoft Word文書。デジタル テキストは以下のセクションで抽出されます。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_ojpa3mg",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.document_text_result_ocr_extraction",
+      "namespace": "ui",
+      "translations": {
+        "id": "Hasil Teks Dokumen (OCR / Ekstraksi)",
+        "en": "Document Text Result (OCR / Extraction)",
+        "ja": "文書テキスト結果 (OCR / 抽出)"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_suvf1w1",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.processed",
+      "namespace": "ui",
+      "translations": {
+        "id": "Sudah diproses",
+        "en": "Processed",
+        "ja": "加工済み"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_kjeee2h",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.reprocess_extraction",
+      "namespace": "ui",
+      "translations": {
+        "id": "Ekstrak / Proses Ulang",
+        "en": "Reprocess Extraction",
+        "ja": "再処理抽出"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_098qs91",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.ocr_processing_failed",
+      "namespace": "ui",
+      "translations": {
+        "id": "OCR Gagal Diproses",
+        "en": "OCR Processing Failed",
+        "ja": "OCR処理に失敗しました"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_39u4y6j",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.save_ocr_text",
+      "namespace": "ui",
+      "translations": {
+        "id": "Simpan Teks OCR",
+        "en": "Save OCR Text",
+        "ja": "OCRテキストの保存"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_al3fqbu",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.kemendagri_code",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kode Klasifikasi Kemendagri",
+        "en": "Kemendagri Code",
+        "ja": "ケメンダグリ法典"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_b26kndl",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.authenticity_verification",
+      "namespace": "ui",
+      "translations": {
+        "id": "Verifikasi Keaslian",
+        "en": "Authenticity Verification",
+        "ja": "真正性の検証"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_bx4wqsi",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.scan_to_verify_authenticity",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pindai untuk Verifikasi Keaslian",
+        "en": "Scan to Verify Authenticity",
+        "ja": "スキャンして信頼性を検証する"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_gpt1rgw",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.official_qr_code_is_embedded_when_docume",
+      "namespace": "ui",
+      "translations": {
+        "id": "QR Code resmi tersemat saat dokumen dicetak.",
+        "en": "Official QR Code is embedded when document is printed.",
+        "ja": "公式QRコードは文書印刷時に埋め込まれます。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_2fzg8zu",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.open_public_verification_page",
+      "namespace": "ui",
+      "translations": {
+        "id": "Buka Halaman Verifikasi Publik",
+        "en": "Open Public Verification Page",
+        "ja": "公開検証ページを開く"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_rfmskvp",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.qr_code_disabled_by_admin",
+      "namespace": "ui",
+      "translations": {
+        "id": "QR Code Dinonaktifkan oleh Admin",
+        "en": "QR Code Disabled by Admin",
+        "ja": "QRコードは管理者によって無効にされました"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_c39ura7",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.qr_code_will_not_be_printed_or_stamped_p",
+      "namespace": "ui",
+      "translations": {
+        "id": "QR Code verifikasi tidak akan dicetak atau ditampilkan pada file unduhan/cetakan sesuai pengaturan sistem. Namun kode identitas verifikasi dokumen tetap tersimpan di database.",
+        "en": "QR code will not be printed or stamped per system settings. The verification token remains safely stored in database.",
+        "ja": "システム設定により、QR コードは印刷またはスタンプされません。検証トークンはデータベースに安全に保管されたままになります。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_76i0dxb",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.delete_document",
+      "namespace": "ui",
+      "translations": {
+        "id": "Hapus Dokumen?",
+        "en": "Delete Document?",
+        "ja": "ドキュメントを削除しますか?"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_3q3gb4l",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.village_profile",
+      "namespace": "ui",
+      "translations": {
+        "id": "Profil Desa",
+        "en": "Village Profile",
+        "ja": "村のプロフィール"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_wpg6v2p",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.change_theme",
+      "namespace": "ui",
+      "translations": {
+        "id": "Ganti Tema",
+        "en": "Change Theme",
+        "ja": "テーマの変更"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_catztx9",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.archive_portal",
+      "namespace": "ui",
+      "translations": {
+        "id": "Masuk Sistem Arsip",
+        "en": "Archive Portal",
+        "ja": "アーカイブポータル"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_w7fg1hm",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.explore_village_profile",
+      "namespace": "ui",
+      "translations": {
+        "id": "Jelajahi Profil Desa",
+        "en": "Explore Village Profile",
+        "ja": "村のプロフィールを探索する"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_sistzxv",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.digital_archive_portal",
+      "namespace": "ui",
+      "translations": {
+        "id": "Buka Sistem Arsip",
+        "en": "Digital Archive Portal",
+        "ja": "デジタルアーカイブポータル"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_6qagd26",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.scroll_down",
+      "namespace": "ui",
+      "translations": {
+        "id": "Gulir Ke Bawah",
+        "en": "Scroll Down",
+        "ja": "下にスクロール"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_bmiwihg",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.area",
+      "namespace": "ui",
+      "translations": {
+        "id": "Luas Wilayah",
+        "en": "Area",
+        "ja": "エリア"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_6hzo3gj",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.hamlets",
+      "namespace": "ui",
+      "translations": {
+        "id": "Jumlah Dusun",
+        "en": "Hamlets",
+        "ja": "ハムレット"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_83ciq40",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.border_areas",
+      "namespace": "ui",
+      "translations": {
+        "id": "Batas Geografis",
+        "en": "Border Areas",
+        "ja": "国境地帯"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_9hagxvb",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.governance_term",
+      "namespace": "ui",
+      "translations": {
+        "id": "Periode BPD & Kades",
+        "en": "Governance Term",
+        "ja": "ガバナンス期間"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_7yfzyer",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.territory_overview",
+      "namespace": "ui",
+      "translations": {
+        "id": "Informasi Wilayah",
+        "en": "Territory Overview",
+        "ja": "テリトリーの概要"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_2c1uy06",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.village_government_profile",
+      "namespace": "ui",
+      "translations": {
+        "id": "Profil Pemerintahan Desa",
+        "en": "Village Government Profile",
+        "ja": "村政府のプロフィール"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_98keszk",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.demographics_leadership_and_geographic_b",
+      "namespace": "ui",
+      "translations": {
+        "id": "Data demografis, kepemimpinan, dan posisi geografis Desa Sukarami",
+        "en": "Demographics, leadership, and geographic borders of Sukarami",
+        "ja": "スカラミの人口動態、リーダーシップ、地理的境界"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_pveamoc",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.incumbent_village_head",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kepala Desa Periode Berjalan",
+        "en": "Incumbent Village Head",
+        "ja": "現職の村長"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_h6kca7q",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.district",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kecamatan",
+        "en": "District",
+        "ja": "地区"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_9glps3w",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.regency",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kabupaten",
+        "en": "Regency",
+        "ja": "リージェンシー"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_5fkxif7",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.geographical_boundaries",
+      "namespace": "ui",
+      "translations": {
+        "id": "Batas Geografis Wilayah",
+        "en": "Geographical Boundaries",
+        "ja": "地理的境界"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_4lan2kh",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.administrative_boundaries_with_surroundi",
+      "namespace": "ui",
+      "translations": {
+        "id": "Letak dan batas administrasi dengan desa-desa sekitar",
+        "en": "Administrative boundaries with surrounding villages",
+        "ja": "周囲の村との行政境界"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_py4hsa6",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.north",
+      "namespace": "ui",
+      "translations": {
+        "id": "Utara ↑",
+        "en": "North ↑",
+        "ja": "北 ↑"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_2nfgeet",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.east",
+      "namespace": "ui",
+      "translations": {
+        "id": "Timur →",
+        "en": "East →",
+        "ja": "東→"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_sd9nall",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.west",
+      "namespace": "ui",
+      "translations": {
+        "id": "← Barat",
+        "en": "← West",
+        "ja": "← 西"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_g82e2sy",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.south",
+      "namespace": "ui",
+      "translations": {
+        "id": "↓ Selatan",
+        "en": "↓ South",
+        "ja": "↓ 南"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_mago7m7",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.village_digital_archive_center",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pusat Arsip Digital Desa",
+        "en": "Village Digital Archive Center",
+        "ja": "村デジタルアーカイブセンター"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_vtmsm7a",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.integrated_with_ocr_smart_search",
+      "namespace": "ui",
+      "translations": {
+        "id": "Terintegrasi dengan OCR & pencarian otomatis",
+        "en": "Integrated with OCR & smart search",
+        "ja": "OCR とスマート検索との統合"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_i2lizt3",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.official_decrees_incoming_outgoing_lette",
+      "namespace": "ui",
+      "translations": {
+        "id": "Dokumen SK, Surat Keluar/Masuk, Surat Perdamaian, dan Bantuan tersimpan aman secara terenkripsi.",
+        "en": "Official decrees, incoming/outgoing letters, and aid archives securely stored.",
+        "ja": "公式法令、送受信された書簡、援助アーカイブが安全に保管されています。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_tsm7m2h",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.open_archive_dashboard",
+      "namespace": "ui",
+      "translations": {
+        "id": "Buka dashboard arsip",
+        "en": "Open archive dashboard",
+        "ja": "アーカイブダッシュボードを開く"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_43syb6z",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.heritage",
+      "namespace": "ui",
+      "translations": {
+        "id": "Napak Tilas",
+        "en": "Heritage",
+        "ja": "遺産"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_4t09vi5",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.history_of_desa_sukarami",
+      "namespace": "ui",
+      "translations": {
+        "id": "Asal-Usul Desa Sukarami",
+        "en": "History of Desa Sukarami",
+        "ja": "デサ・スカラミの歴史"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_gkhhyiy",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.long_historical_journey_of_the_village_d",
+      "namespace": "ui",
+      "translations": {
+        "id": "Perjalanan sejarah panjang terbentuknya desa dari masa ke masa",
+        "en": "Long historical journey of the village development",
+        "ja": "村発展の長い歴史の旅"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_m1zd58a",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.read_complete_historical_document",
+      "namespace": "ui",
+      "translations": {
+        "id": "Baca Naskah Sejarah Lengkap",
+        "en": "Read Complete Historical Document",
+        "ja": "完全な歴史文書を読む"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_41vsu0q",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.vision_direction",
+      "namespace": "ui",
+      "translations": {
+        "id": "Cita-Cita Desa",
+        "en": "Vision & Direction",
+        "ja": "ビジョンと方向性"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_2ymtziv",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.village_vision_mission",
+      "namespace": "ui",
+      "translations": {
+        "id": "Visi & Misi Pembangunan",
+        "en": "Village Vision & Mission",
+        "ja": "村のビジョンと使命"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_ah1ckus",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.policy_direction_and_public_welfare_guid",
+      "namespace": "ui",
+      "translations": {
+        "id": "Pedoman arah kebijakan dan pelayanan warga Desa Sukarami",
+        "en": "Policy direction and public welfare guidelines",
+        "ja": "政策の方向性と公共の福祉のガイドライン"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_65vdt2g",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.village_vision",
+      "namespace": "ui",
+      "translations": {
+        "id": "Visi Desa",
+        "en": "Village Vision",
+        "ja": "村のビジョン"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_at4hmoo",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.strategic_missions",
+      "namespace": "ui",
+      "translations": {
+        "id": "Misi Strategis",
+        "en": "Strategic Missions",
+        "ja": "戦略的ミッション"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_jci736c",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.hierarchy",
+      "namespace": "ui",
+      "translations": {
+        "id": "Bagan Kerja",
+        "en": "Hierarchy",
+        "ja": "階層"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_hxmx3ac",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.government_organizational_chart",
+      "namespace": "ui",
+      "translations": {
+        "id": "Struktur Organisasi Pemerintah Desa",
+        "en": "Government Organizational Chart",
+        "ja": "政府組織図"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_h42xedj",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.village_apparatus_and_community_service_",
+      "namespace": "ui",
+      "translations": {
+        "id": "Susunan perangkat desa dan jajaran pelayanan masyarakat",
+        "en": "Village apparatus and community service personnel",
+        "ja": "村の組織と社会サービス担当者"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_4x93cy4",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.unified_village_digital_archiving",
+      "namespace": "ui",
+      "translations": {
+        "id": "Layanan Pengarsipan Digital Terpadu",
+        "en": "Unified Village Digital Archiving",
+        "ja": "統一村デジタルアーカイブ"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_azwo4ic",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.seamless_archive_access_fulltext_ocr_sea",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kemudahan akses arsip, pencarian isi teks dengan OCR, dan perlindungan berkas penting desa dalam satu platform modern.",
+        "en": "Seamless archive access, fulltext OCR search, and secure preservation of village documents in one modern platform.",
+        "ja": "シームレスなアーカイブ アクセス、全文 OCR 検索、村の文書の安全な保存を 1 つの最新プラットフォームで実現します。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_90mud24",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.access_system_dashboard",
+      "namespace": "ui",
+      "translations": {
+        "id": "Masuk ke Dashboard Sistem",
+        "en": "Access System Dashboard",
+        "ja": "システムダッシュボードにアクセスする"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_hsjm6v1",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.village_digital_archiving_system",
+      "namespace": "ui",
+      "translations": {
+        "id": "Sistem Informasi Pengarsipan Digital Desa",
+        "en": "Village Digital Archiving System",
+        "ja": "村デジタルアーカイブシステム"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_wajfadi",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.secure_trusted_and_standardized",
+      "namespace": "ui",
+      "translations": {
+        "id": "Aman, Terpercaya, dan Terstandarisasi",
+        "en": "Secure, Trusted, and Standardized",
+        "ja": "安全、信頼、標準化"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_gca6p2v",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.personal_information",
+      "namespace": "ui",
+      "translations": {
+        "id": "Informasi Pribadi",
+        "en": "Personal Information",
+        "ja": "個人情報"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_2t66l5e",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.e_g_tu_staff",
+      "namespace": "ui",
+      "translations": {
+        "id": "Contoh: Kaur TU",
+        "en": "E.g.: TU Staff",
+        "ja": "例: TU スタッフ"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_a2daidt",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.verification",
+      "namespace": "ui",
+      "translations": {
+        "id": "Verifikasi",
+        "en": "Verification",
+        "ja": "検証"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_pu3wxzw",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.document_not_found",
+      "namespace": "ui",
+      "translations": {
+        "id": "Dokumen Tidak Ditemukan",
+        "en": "Document Not Found",
+        "ja": "ドキュメントが見つかりません"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_3uromjt",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.village_home",
+      "namespace": "ui",
+      "translations": {
+        "id": "Beranda Desa",
+        "en": "Village Home",
+        "ja": "ビレッジ ホーム"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_436bo3z",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.officially_verified_document",
+      "namespace": "ui",
+      "translations": {
+        "id": "DOKUMEN RESMI TERVERIFIKASI SAH",
+        "en": "OFFICIALLY VERIFIED DOCUMENT",
+        "ja": "正式に検証された文書"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_btflj5v",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.this_document_is_officially_registered_i",
+      "namespace": "ui",
+      "translations": {
+        "id": "Dokumen ini tercatat dalam pangkalan data arsip digital desa.",
+        "en": "This document is officially registered in the village digital archive database.",
+        "ja": "この文書は村デジタルアーカイブデータベースに正式に登録されています。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_a7n5zv0",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.archive_category",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kategori Arsip",
+        "en": "Archive Category",
+        "ja": "アーカイブカテゴリー"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_z8opgd2",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.archived_date",
+      "namespace": "ui",
+      "translations": {
+        "id": "Tanggal Arsip Digital",
+        "en": "Archived Date",
+        "ja": "アーカイブ日"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_bcesrh1",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.archived_by",
+      "namespace": "ui",
+      "translations": {
+        "id": "Petugas Pengunggah",
+        "en": "Archived By",
+        "ja": "アーカイブ者"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_7iiac0g",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.verification_token",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kode Verifikasi Dokumen",
+        "en": "Verification Token",
+        "ja": "検証トークン"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_cjqh5u7",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.validated",
+      "namespace": "ui",
+      "translations": {
+        "id": "Tervalidasi",
+        "en": "Validated",
+        "ja": "検証済み"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_ls29voo",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.the_scanned_verification_code_is_not_fou",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kode verifikasi yang dipindai tidak terdaftar dalam pangkalan data arsip desa kami atau dokumen telah dipindahkan ke tempat sampah.",
+        "en": "The scanned verification code is not found in our village archive database or has been deleted.",
+        "ja": "スキャンされた確認コードは村のアーカイブ データベースに見つからないか、削除されています。"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_qwmo65j",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.back_to_village_home",
+      "namespace": "ui",
+      "translations": {
+        "id": "Kembali ke Beranda Desa",
+        "en": "Back to Village Home",
+        "ja": "村の家に戻る"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_s5eux43",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.documents_in_bin",
+      "namespace": "ui",
+      "translations": {
+        "id": "dokumen di sampah",
+        "en": "documents in bin",
+        "ja": "ビン内の書類"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_arsip_ui_ojvzrwz",
+      "projectId": "proj_81ef53ec",
+      "key": "ui.delete_permanently",
+      "namespace": "ui",
+      "translations": {
+        "id": "Hapus Permanen?",
+        "en": "Delete Permanently?",
+        "ja": "完全に削除しますか?"
+      },
+      "createdAt": "2026-10-27T06:40:36.735Z",
+      "updatedAt": "2026-10-27T06:40:36.735Z"
     }
   ]
 }
