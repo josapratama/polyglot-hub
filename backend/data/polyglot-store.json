@@ -4122,175 +4122,6 @@
       "updatedAt": "2026-10-27T03:03:15.818Z"
     },
     {
-      "id": "t_c1057373",
-      "projectId": "proj_2ffa5ab2",
-      "key": "canvas.title",
-      "namespace": "canvas",
-      "translations": {
-        "en": "Architecture & UML Modeling Canvas",
-        "id": "Kanvas Pemodelan Arsitektur & UML",
-        "ja": "UMLモデリングキャンバス"
-      },
-      "createdAt": "2026-10-27T03:03:15.844Z",
-      "updatedAt": "2026-10-27T03:17:31.263Z"
-    },
-    {
-      "id": "t_a3197532",
-      "projectId": "proj_2ffa5ab2",
-      "key": "canvas.zoom_in",
-      "namespace": "canvas",
-      "translations": {
-        "en": "Zoom In",
-        "id": "Perbesar",
-        "ja": "ズームイン"
-      },
-      "createdAt": "2026-10-27T03:03:15.870Z",
-      "updatedAt": "2026-10-27T03:17:31.284Z"
-    },
-    {
-      "id": "t_b0569ef5",
-      "projectId": "proj_2ffa5ab2",
-      "key": "canvas.zoom_out",
-      "namespace": "canvas",
-      "translations": {
-        "en": "Zoom Out",
-        "id": "Perkecil",
-        "ja": "ズームアウト"
-      },
-      "createdAt": "2026-10-27T03:03:15.901Z",
-      "updatedAt": "2026-10-27T03:17:31.304Z"
-    },
-    {
-      "id": "t_67c7b7dc",
-      "projectId": "proj_2ffa5ab2",
-      "key": "canvas.fit_view",
-      "namespace": "canvas",
-      "translations": {
-        "en": "Fit to Viewport",
-        "id": "Paskan Layar",
-        "ja": "全体表示"
-      },
-      "createdAt": "2026-10-27T03:03:15.929Z",
-      "updatedAt": "2026-10-27T03:17:31.327Z"
-    },
-    {
-      "id": "t_2d3395b0",
-      "projectId": "proj_2ffa5ab2",
-      "key": "canvas.snap_grid",
-      "namespace": "canvas",
-      "translations": {
-        "en": "Snap to Grid",
-        "id": "Ratakan ke Garis Kisi",
-        "ja": "グリッド吸着"
-      },
-      "createdAt": "2026-10-27T03:03:15.964Z",
-      "updatedAt": "2026-10-27T03:17:31.347Z"
-    },
-    {
-      "id": "t_8f5e650d",
-      "projectId": "proj_2ffa5ab2",
-      "key": "canvas.undo",
-      "namespace": "canvas",
-      "translations": {
-        "en": "Undo",
-        "id": "Batalkan",
-        "ja": "元に戻す"
-      },
-      "createdAt": "2026-10-27T03:03:15.991Z",
-      "updatedAt": "2026-10-27T03:17:31.371Z"
-    },
-    {
-      "id": "t_c3899fee",
-      "projectId": "proj_2ffa5ab2",
-      "key": "canvas.redo",
-      "namespace": "canvas",
-      "translations": {
-        "en": "Redo",
-        "id": "Ulangi",
-        "ja": "やり直す"
-      },
-      "createdAt": "2026-10-27T03:03:16.024Z",
-      "updatedAt": "2026-10-27T03:17:31.395Z"
-    },
-    {
-      "id": "t_bf473b2a",
-      "projectId": "proj_2ffa5ab2",
-      "key": "tools.add_class",
-      "namespace": "tools",
-      "translations": {
-        "en": "Add Class Box",
-        "id": "Tambah Kotak Kelas",
-        "ja": "クラスを追加"
-      },
-      "createdAt": "2026-10-27T03:03:16.053Z",
-      "updatedAt": "2026-10-27T03:17:31.418Z"
-    },
-    {
-      "id": "t_8470bbe4",
-      "projectId": "proj_2ffa5ab2",
-      "key": "tools.add_interface",
-      "namespace": "tools",
-      "translations": {
-        "en": "Add Interface",
-        "id": "Tambah Antarmuka (Interface)",
-        "ja": "インターフェースを追加"
-      },
-      "createdAt": "2026-10-27T03:03:16.081Z",
-      "updatedAt": "2026-10-27T03:17:31.444Z"
-    },
-    {
-      "id": "t_bf48966d",
-      "projectId": "proj_2ffa5ab2",
-      "key": "tools.add_relationship",
-      "namespace": "tools",
-      "translations": {
-        "en": "Connect Arrow",
-        "id": "Hubungkan Garis Panah",
-        "ja": "リレーション矢印"
-      },
-      "createdAt": "2026-10-27T03:03:16.107Z",
-      "updatedAt": "2026-10-27T03:17:31.468Z"
-    },
-    {
-      "id": "t_8768acdd",
-      "projectId": "proj_2ffa5ab2",
-      "key": "tools.export_png",
-      "namespace": "tools",
-      "translations": {
-        "en": "Export as High-Res PNG",
-        "id": "Ekspor sebagai Gambar PNG",
-        "ja": "PNG形式でエクスポート"
-      },
-      "createdAt": "2026-10-27T03:03:16.137Z",
-      "updatedAt": "2026-10-27T03:17:31.491Z"
-    },
-    {
-      "id": "t_39cabb49",
-      "projectId": "proj_2ffa5ab2",
-      "key": "tools.export_svg",
-      "namespace": "tools",
-      "translations": {
-        "en": "Export as Vector SVG",
-        "id": "Ekspor sebagai Vektor SVG",
-        "ja": "SVGベクトルでエクスポート"
-      },
-      "createdAt": "2026-10-27T03:03:16.169Z",
-      "updatedAt": "2026-10-27T03:17:31.516Z"
-    },
-    {
-      "id": "t_6ebf37dc",
-      "projectId": "proj_2ffa5ab2",
-      "key": "tools.export_json",
-      "namespace": "tools",
-      "translations": {
-        "en": "Export Schema (.JSON)",
-        "id": "Ekspor Struktur (.JSON)",
-        "ja": "JSON定義を書き出す"
-      },
-      "createdAt": "2026-10-27T03:03:16.196Z",
-      "updatedAt": "2026-10-27T03:17:31.539Z"
-    },
-    {
       "id": "t_8944aba5",
       "projectId": "proj_18b32170",
       "key": "brand.tagline",
@@ -31595,6 +31426,5570 @@
       },
       "createdAt": "2026-10-27T06:40:36.735Z",
       "updatedAt": "2026-10-27T06:40:36.735Z"
+    },
+    {
+      "id": "t_uml_tr0hi7y",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.appName",
+      "namespace": "common",
+      "translations": {
+        "id": "UML Flow",
+        "en": "UML Flow",
+        "ja": "UML フロー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_5k8zbmb",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.loading",
+      "namespace": "common",
+      "translations": {
+        "id": "Memuat...",
+        "en": "Loading...",
+        "ja": "読み込み中..."
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_798h7lu",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.save",
+      "namespace": "common",
+      "translations": {
+        "id": "Simpan",
+        "en": "Save",
+        "ja": "保存"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_1ajluwh",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.cancel",
+      "namespace": "common",
+      "translations": {
+        "id": "Batal",
+        "en": "Cancel",
+        "ja": "キャンセル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_awjfa1z",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.delete",
+      "namespace": "common",
+      "translations": {
+        "id": "Hapus",
+        "en": "Delete",
+        "ja": "削除"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_v21a6ls",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.close",
+      "namespace": "common",
+      "translations": {
+        "id": "Tutup",
+        "en": "Close",
+        "ja": "閉じる"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_poqurb7",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.edit",
+      "namespace": "common",
+      "translations": {
+        "id": "Ubah",
+        "en": "Edit",
+        "ja": "編集"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_2z9b2yr",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.apply",
+      "namespace": "common",
+      "translations": {
+        "id": "Terapkan",
+        "en": "Apply",
+        "ja": "申し込む"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_e7yzx3l",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.reset",
+      "namespace": "common",
+      "translations": {
+        "id": "Reset",
+        "en": "Reset",
+        "ja": "リセット"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_yi8ipt1",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.search",
+      "namespace": "common",
+      "translations": {
+        "id": "Cari",
+        "en": "Search",
+        "ja": "検索"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_4hndedr",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.copy",
+      "namespace": "common",
+      "translations": {
+        "id": "Salin",
+        "en": "Copy",
+        "ja": "コピー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_7xjoyg8",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.copied",
+      "namespace": "common",
+      "translations": {
+        "id": "Tersalin!",
+        "en": "Copied!",
+        "ja": "コピーしました！"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_2bs3i9g",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.import",
+      "namespace": "common",
+      "translations": {
+        "id": "Impor",
+        "en": "Import",
+        "ja": "インポート"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_x5xa591",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.export",
+      "namespace": "common",
+      "translations": {
+        "id": "Ekspor",
+        "en": "Export",
+        "ja": "エクスポート"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_prm2s0o",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.preview",
+      "namespace": "common",
+      "translations": {
+        "id": "Pratinjau",
+        "en": "Preview",
+        "ja": "プレビュー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_e95fxkt",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.back",
+      "namespace": "common",
+      "translations": {
+        "id": "Kembali",
+        "en": "Back",
+        "ja": "戻る"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_d5ehwck",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.success",
+      "namespace": "common",
+      "translations": {
+        "id": "Berhasil",
+        "en": "Success",
+        "ja": "成功"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_foukbny",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.error",
+      "namespace": "common",
+      "translations": {
+        "id": "Terjadi Kesalahan",
+        "en": "An Error Occurred",
+        "ja": "エラーが発生しました"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_6tjlpyz",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.warning",
+      "namespace": "common",
+      "translations": {
+        "id": "Peringatan",
+        "en": "Warning",
+        "ja": "警告"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_b15ijkm",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.untitled",
+      "namespace": "common",
+      "translations": {
+        "id": "Tanpa Judul",
+        "en": "Untitled",
+        "ja": "無題"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_z7mp8gt",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.confirm",
+      "namespace": "common",
+      "translations": {
+        "id": "Konfirmasi",
+        "en": "Confirm",
+        "ja": "確認する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_voso78p",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.language",
+      "namespace": "common",
+      "translations": {
+        "id": "Bahasa",
+        "en": "Language",
+        "ja": "言語"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_cswtz7y",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.validate",
+      "namespace": "common",
+      "translations": {
+        "id": "Validasi",
+        "en": "Validate",
+        "ja": "検証する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_arxsnjp",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.share",
+      "namespace": "common",
+      "translations": {
+        "id": "Bagikan",
+        "en": "Share",
+        "ja": "シェアする"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_xvis6ul",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.options",
+      "namespace": "common",
+      "translations": {
+        "id": "Opsi",
+        "en": "Options",
+        "ja": "オプション"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_n5kyous",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.format",
+      "namespace": "common",
+      "translations": {
+        "id": "Format",
+        "en": "Format",
+        "ja": "フォーマット"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_7o4eoyd",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.version",
+      "namespace": "common",
+      "translations": {
+        "id": "Versi",
+        "en": "Version",
+        "ja": "バージョン"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_1ffz45t",
+      "projectId": "proj_2ffa5ab2",
+      "key": "common.theme",
+      "namespace": "common",
+      "translations": {
+        "id": "Tema",
+        "en": "Theme",
+        "ja": "テーマ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_own7k82",
+      "projectId": "proj_2ffa5ab2",
+      "key": "nav.editor",
+      "namespace": "nav",
+      "translations": {
+        "id": "Editor",
+        "en": "Editor",
+        "ja": "編集者"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ytfj8i8",
+      "projectId": "proj_2ffa5ab2",
+      "key": "nav.docs",
+      "namespace": "nav",
+      "translations": {
+        "id": "Dokumentasi",
+        "en": "Documentation",
+        "ja": "ドキュメント"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_u3nrq9y",
+      "projectId": "proj_2ffa5ab2",
+      "key": "nav.home",
+      "namespace": "nav",
+      "translations": {
+        "id": "Beranda",
+        "en": "Home",
+        "ja": "ホーム"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_2y1f8ql",
+      "projectId": "proj_2ffa5ab2",
+      "key": "nav.samples",
+      "namespace": "nav",
+      "translations": {
+        "id": "Contoh",
+        "en": "Samples",
+        "ja": "サンプル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_lw3e1s1",
+      "projectId": "proj_2ffa5ab2",
+      "key": "nav.templates",
+      "namespace": "nav",
+      "translations": {
+        "id": "Templat",
+        "en": "Templates",
+        "ja": "テンプレート"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_j99kdec",
+      "projectId": "proj_2ffa5ab2",
+      "key": "nav.library",
+      "namespace": "nav",
+      "translations": {
+        "id": "Pustaka",
+        "en": "Library",
+        "ja": "図書館"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_pmlp4gf",
+      "projectId": "proj_2ffa5ab2",
+      "key": "nav.aiAssistant",
+      "namespace": "nav",
+      "translations": {
+        "id": "Asisten AI",
+        "en": "AI Assistant",
+        "ja": "AIアシスタント"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_2murvx8",
+      "projectId": "proj_2ffa5ab2",
+      "key": "nav.shortcuts",
+      "namespace": "nav",
+      "translations": {
+        "id": "Pintasan",
+        "en": "Shortcuts",
+        "ja": "ショートカット"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_4mugzk0",
+      "projectId": "proj_2ffa5ab2",
+      "key": "nav.settings",
+      "namespace": "nav",
+      "translations": {
+        "id": "Pengaturan",
+        "en": "Settings",
+        "ja": "設定"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_nj99z6b",
+      "projectId": "proj_2ffa5ab2",
+      "key": "nav.features",
+      "namespace": "nav",
+      "translations": {
+        "id": "Fitur Unggulan",
+        "en": "Features",
+        "ja": "特長"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_nwc5m6l",
+      "projectId": "proj_2ffa5ab2",
+      "key": "nav.diagrams",
+      "namespace": "nav",
+      "translations": {
+        "id": "Tipe Diagram",
+        "en": "Diagrams",
+        "ja": "図表"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_olxuxi8",
+      "projectId": "proj_2ffa5ab2",
+      "key": "nav.playground",
+      "namespace": "nav",
+      "translations": {
+        "id": "Demo Interaktif",
+        "en": "Playground",
+        "ja": "遊び場"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_mnlzqdp",
+      "projectId": "proj_2ffa5ab2",
+      "key": "nav.faq",
+      "namespace": "nav",
+      "translations": {
+        "id": "Tanya Jawab (FAQ)",
+        "en": "FAQ",
+        "ja": "よくある質問"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_65r9z8w",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.compile",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Kompilasi",
+        "en": "Compile",
+        "ja": "コンパイル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_4hbcprj",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.compileTooltip",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Kompilasi kode DSL ke Canvas visual (Ctrl+Enter)",
+        "en": "Compile DSL code to visual Canvas (Ctrl+Enter)",
+        "ja": "DSL コードをビジュアル Canvas にコンパイルします (Ctrl+Enter)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_9kkzz38",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.visualMode",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Visual",
+        "en": "Visual",
+        "ja": "ビジュアル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_6uugi76",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.codeMode",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Kode",
+        "en": "Code",
+        "ja": "コード"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_b38qmoa",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.splitMode",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Split",
+        "en": "Split",
+        "ja": "スプリット"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_zvqrh8r",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.undo",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Urungkan (Undo)",
+        "en": "Undo",
+        "ja": "元に戻す"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_9yilg36",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.redo",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Ulangi (Redo)",
+        "en": "Redo",
+        "ja": "やり直し"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_87g460j",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.layout",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Tata Letak",
+        "en": "Layout",
+        "ja": "レイアウト"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_2x3qwy0",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.autoLayout",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Auto Tata Letak",
+        "en": "Auto Layout",
+        "ja": "自動レイアウト"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_5ketcr5",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.snapToGrid",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Snap ke Grid",
+        "en": "Snap to Grid",
+        "ja": "グリッドにスナップ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_lj576m1",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.orthogonalRouting",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Mode Garis Siku",
+        "en": "Orthogonal Mode",
+        "ja": "直交モード"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_jd7xsg1",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.straightRouting",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Mode Garis Lurus",
+        "en": "Straight Mode",
+        "ja": "ストレートモード"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ef9tq7y",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.orthogonalTooltip",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Mode Garis Siku (Orthogonal) Aktif - Klik untuk ubah ke Garis Lurus",
+        "en": "Orthogonal Mode Active - Click to switch to Straight Lines",
+        "ja": "直交モードがアクティブ - クリックして直線に切り替えます"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_wbwpq60",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.straightTooltip",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Mode Garis Lurus (Straight) Aktif - Klik untuk ubah ke Garis Siku",
+        "en": "Straight Line Mode Active - Click to switch to Orthogonal Lines",
+        "ja": "直線モードがアクティブ - クリックして直交線に切り替えます"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_3o9o26f",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.themeLight",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Tema Terang",
+        "en": "Light Theme",
+        "ja": "ライトテーマ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_892wlsr",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.themeDark",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Tema Gelap",
+        "en": "Dark Theme",
+        "ja": "ダークテーマ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_3hvvnk6",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.monochrome",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Monokrom",
+        "en": "Monochrome",
+        "ja": "モノクロ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_d5okw8k",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.autoCompile",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Kompilasi Otomatis",
+        "en": "Auto Compile",
+        "ja": "自動コンパイル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_iotnfpz",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.autoSync",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Sinkronisasi Otomatis",
+        "en": "Auto Sync",
+        "ja": "自動同期"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_9l53fc8",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.syncFromCanvas",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Sinkron dari Canvas",
+        "en": "Sync from Canvas",
+        "ja": "キャンバスから同期"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_zcv88e3",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.exportDiagram",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Ekspor Diagram",
+        "en": "Export Diagram",
+        "ja": "エクスポート図"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_g0tvbvi",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.exportPng",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Ekspor Gambar (PNG)",
+        "en": "Export Image (PNG)",
+        "ja": "画像のエクスポート (PNG)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_1c56vji",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.exportSvg",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Ekspor Vektor (SVG)",
+        "en": "Export Vector (SVG)",
+        "ja": "ベクターのエクスポート (SVG)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_pn4xu0y",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.exportJson",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Ekspor Data (JSON)",
+        "en": "Export Data (JSON)",
+        "ja": "データのエクスポート (JSON)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_fqjtzn1",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.exportCode",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Hasilkan Kode (TypeScript, Python, Java, SQL)",
+        "en": "Generate Code (TypeScript, Python, Java, SQL)",
+        "ja": "コードの生成 (TypeScript、Python、Java、SQL)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_bfv2jef",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.shareLink",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Bagikan Tautan",
+        "en": "Share Link",
+        "ja": "リンクを共有する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_zd493v9",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.newDiagram",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Diagram Baru",
+        "en": "New Diagram",
+        "ja": "新しい図"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_5onz2fw",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.presentationMode",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Mode Presentasi",
+        "en": "Presentation Mode",
+        "ja": "プレゼンテーションモード"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ht8hnca",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.versionHistory",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Riwayat Versi",
+        "en": "Version History",
+        "ja": "バージョン履歴"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ssy1nir",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.diffViewer",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Bandingkan Versi (Diff)",
+        "en": "Version Diff",
+        "ja": "バージョンの違い"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_rnmn15a",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.academicCaption",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Keterangan Akademik",
+        "en": "Academic Caption",
+        "ja": "学術的なキャプション"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_3p1wi1r",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.palette",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Palet Warna",
+        "en": "Color Palette",
+        "ja": "カラーパレット"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_qyba0dk",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.projectMenu",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Proyek",
+        "en": "Project",
+        "ja": "プロジェクト"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_qo44ugj",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.projectMenuDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Kelola file diagram & dokumen",
+        "en": "Manage diagram files & documents",
+        "ja": "図ファイルとドキュメントを管理する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_uy8ywig",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.saveToLibrary",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Simpan ke Pustaka",
+        "en": "Save to Library",
+        "ja": "ライブラリに保存"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_pchk6c8",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.saveToLibraryDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Simpan diagram ke penyimpanan lokal",
+        "en": "Save diagram to local storage",
+        "ja": "図をローカル ストレージに保存する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_fnve8en",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.shareDiagramLink",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Bagikan Tautan Diagram",
+        "en": "Share Diagram Link",
+        "ja": "図のリンクを共有する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_vf4l7cx",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.shareDiagramLinkDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Salin tautan terkompresi ke clipboard",
+        "en": "Copy compressed link to clipboard",
+        "ja": "圧縮されたリンクをクリップボードにコピー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_i5moguc",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.newDiagramTab",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Diagram Baru",
+        "en": "New Diagram",
+        "ja": "新しい図"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ipuzkmf",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.newDiagramTabDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Buka tab kanvas baru yang bersih",
+        "en": "Create clean canvas tab",
+        "ja": "きれいなキャンバス タブを作成する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_wwyhvfj",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.diagramLibraryMenu",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Pustaka Diagram",
+        "en": "Diagram Library",
+        "ja": "ダイアグラムライブラリ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_u1kux5u",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.diagramLibraryMenuDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Jelajahi & kelola semua diagram tersimpan",
+        "en": "Browse & manage all saved diagrams",
+        "ja": "保存されたすべての図の参照と管理"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_755iwd7",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.templatesGallery",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Galeri Templat",
+        "en": "Templates Gallery",
+        "ja": "テンプレートギャラリー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_mfkhjhb",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.templatesGalleryDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Pola arsitektur & skripsi siap pakai",
+        "en": "Pre-built architecture & thesis patterns",
+        "ja": "構築済みのアーキテクチャと論文パターン"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_hm0miv6",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.universalImport",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Impor SQL / Mermaid / PlantUML",
+        "en": "Import SQL / Mermaid / PlantUML",
+        "ja": "SQL / Mermaid / PlantUML をインポート"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_kim4565",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.universalImportDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Konversi otomatis ke format UML Flow",
+        "en": "Auto-convert code directly into UML Flow",
+        "ja": "コードを直接 UML フローに自動変換"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_u12298z",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.importFile",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Impor File...",
+        "en": "Import File...",
+        "ja": "ファイルをインポート..."
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_xpefzwe",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.importFileDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Muat file .dsl, .json, .ts, .java, atau .mmd",
+        "en": "Load .dsl, .json, .ts, .java, or .mmd",
+        "ja": ".dsl、.json、.ts、.java、または .mmd をロードします"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_kek39al",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.versionDiffMenu",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Riwayat & Bandingkan Versi",
+        "en": "Version Diff & History",
+        "ja": "バージョンの違いと履歴"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_oozj7yg",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.versionDiffMenuDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Bandingkan perubahan dengan versi sebelumnya",
+        "en": "Compare changes with previous version",
+        "ja": "以前のバージョンとの変更点を比較する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_mu0xi1f",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.exportShareTitle",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Ekspor & Bagikan",
+        "en": "Export & Share",
+        "ja": "エクスポートと共有"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_5ghuuvd",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.exportGroupDoc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Dokumen & Skripsi",
+        "en": "Documents & Thesis",
+        "ja": "文書と論文"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_rwkwh58",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.exportGroupDocBadge",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "akademik",
+        "en": "academic",
+        "ja": "学術的な"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_b9d5o79",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.exportGroupImage",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Gambar & Visual",
+        "en": "Images & Graphics",
+        "ja": "画像とグラフィックス"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_p7pful6",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.exportGroupImageBadge",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "grafis",
+        "en": "visual",
+        "ja": "ビジュアル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_6mr1jro",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.exportGroupCode",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Kode & Database",
+        "en": "Code & Database",
+        "ja": "コードとデータベース"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_lk4swer",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.exportGroupCodeBadge",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "skema/dsl",
+        "en": "schema/dsl",
+        "ja": "スキーマ/DSL"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_dj4q7yo",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.quickCopy",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "⚡ Salin Cepat",
+        "en": "⚡ Quick Copy",
+        "ja": "⚡ クイックコピー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_zbjnuuo",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.copyPng",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Salin PNG",
+        "en": "Copy PNG",
+        "ja": "PNGをコピー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_q1klpaq",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.copySvg",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Salin SVG",
+        "en": "Copy SVG",
+        "ja": "SVGをコピー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_1adl903",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.canvasOptions",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Pengaturan Kanvas",
+        "en": "Canvas Options",
+        "ja": "キャンバスのオプション"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_siuuoju",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.canvasAppearanceTab",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Tampilan & Warna",
+        "en": "Appearance & Colors",
+        "ja": "外観と色"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_5sv6ae5",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.canvasSystemTab",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Sistem & Tools",
+        "en": "System & Tools",
+        "ja": "システムとツール"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_1932hia",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.diagramColorTheme",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Tema Warna Diagram",
+        "en": "Diagram Color Theme",
+        "ja": "図の色のテーマ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_e967rtq",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.diagramColorThemeBadge",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "1-Klik Semua Node",
+        "en": "1-Click All Nodes",
+        "ja": "すべてのノードをワンクリックで実行"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_aautx4m",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.navLines",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Navigasi & Garis Kanvas",
+        "en": "Navigation & Connectors",
+        "ja": "ナビゲーションとコネクタ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_vc7abcf",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.monochromePrintMode",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Mode Cetak Monokrom",
+        "en": "Monochrome Print Mode",
+        "ja": "モノクロ印刷モード"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_6zl19zz",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.monochromePrintModeDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Hitam-putih kontras tinggi untuk naskah cetak",
+        "en": "High-contrast black & white for print",
+        "ja": "印刷用のハイコントラストな白黒"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_8zjxpl0",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.snapToGridDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Ratakan pergerakan node ke grid 20px",
+        "en": "Align node movement to 20px grid",
+        "ja": "ノードの移動を 20px グリッドに揃えます"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_53fyz7e",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.orthogonalDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Sudut belok siku 90 derajat yang rapi",
+        "en": "Clean 90-degree right angle routing",
+        "ja": "すっきりとした90度の直角配線"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_jmkdiqa",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.straightDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Garis lurus langsung (straight)",
+        "en": "Direct straight line routing",
+        "ja": "直接直線ルーティング"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_a0fwg6p",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.canvasBackground",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Background Kanvas",
+        "en": "Canvas Background",
+        "ja": "キャンバスの背景"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_whhtini",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.canvasBackgroundDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Latar grid warna Terang atau Gelap",
+        "en": "Light or Dark grid backdrop",
+        "ja": "明るいまたは暗いグリッドの背景"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_v3s6bd8",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.engineSync",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Mesin & Auto-Sync",
+        "en": "Engine & Auto-Sync",
+        "ja": "エンジンと自動同期"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_puwbmpb",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.autoCompileDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Live update saat mengetik di editor DSL",
+        "en": "Live preview while editing DSL",
+        "ja": "DSL 編集中のライブ プレビュー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_jkfqo7i",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.twoWaySyncDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Sinkronisasi kanvas visual ke kode DSL",
+        "en": "Sync visual canvas modifications back to DSL",
+        "ja": "ビジュアル キャンバスの変更を DSL に同期します"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_0lbtmcl",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.toolsActions",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Alat & Aksi Cepat",
+        "en": "Tools & Quick Actions",
+        "ja": "ツールとクイックアクション"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_i0njrne",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.presentation",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Presentasi",
+        "en": "Presentation",
+        "ja": "プレゼンテーション"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_1xtw6i9",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.presentationDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Layar penuh tanpa gangguan",
+        "en": "Fullscreen distraction-free view",
+        "ja": "フルスクリーンで気を散らすことのない表示"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ezof1ku",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.historyTimeline",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Riwayat",
+        "en": "History",
+        "ja": "歴史"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_tyr3s6u",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.historyTimelineDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Timeline snapshot undo",
+        "en": "Undo timeline snapshots",
+        "ja": "タイムラインのスナップショットを元に戻す"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_gymhx8n",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.validateDiagram",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Validasi",
+        "en": "Validate",
+        "ja": "検証する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_kr535zf",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.validateDiagramDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Pemeriksaan aturan & sintaks",
+        "en": "Rules & syntax check",
+        "ja": "ルールと構文チェック"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_0qhvx0s",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.keyboardShortcuts",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Pintasan",
+        "en": "Shortcuts",
+        "ja": "ショートカット"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_zhgd6b4",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.keyboardShortcutsDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Daftar tombol cepat",
+        "en": "Keyboard quick shortcuts",
+        "ja": "キーボードのクイックショートカット"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_s5mxwfl",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.reLayout",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Tata Ulang",
+        "en": "Re-layout",
+        "ja": "再レイアウト"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_zfchkmg",
+      "projectId": "proj_2ffa5ab2",
+      "key": "toolbar.reLayoutDesc",
+      "namespace": "toolbar",
+      "translations": {
+        "id": "Otomatisasi posisi elemen diagram",
+        "en": "Automatically arrange diagram elements",
+        "ja": "図の要素を自動的に配置する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_yvfffq5",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.dslSource",
+      "namespace": "editor",
+      "translations": {
+        "id": "Sumber DSL",
+        "en": "DSL Source",
+        "ja": "DSL ソース"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_eq40xfc",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.lines",
+      "namespace": "editor",
+      "translations": {
+        "id": "baris",
+        "en": "lines",
+        "ja": "行"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_zjwcxxa",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.compileHint",
+      "namespace": "editor",
+      "translations": {
+        "id": "Tekan Ctrl+Enter untuk mengompilasi kode",
+        "en": "Press Ctrl+Enter to compile diagram",
+        "ja": "Ctrl+Enter を押して図をコンパイルします"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_39750iz",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.emptyMessage",
+      "namespace": "editor",
+      "translations": {
+        "id": "Tuliskan kode DSL UML Anda di sini...",
+        "en": "Write your UML DSL code here...",
+        "ja": "UML DSL コードをここに記述します..."
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_h3cjdww",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.syntaxError",
+      "namespace": "editor",
+      "translations": {
+        "id": "Kesalahan Sintaks",
+        "en": "Syntax Error",
+        "ja": "構文エラー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_c430a2p",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.syncSuccess",
+      "namespace": "editor",
+      "translations": {
+        "id": "Berhasil menyinkronkan perubahan dari Canvas ke DSL",
+        "en": "Successfully synchronized changes from Canvas to DSL",
+        "ja": "Canvas から DSL への変更の同期に成功しました"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_vaziqiz",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.syncFromCanvas",
+      "namespace": "editor",
+      "translations": {
+        "id": "Sinkron dari Kanvas",
+        "en": "Sync from Canvas",
+        "ja": "キャンバスから同期"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_o21zyrp",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.syncFromCanvasTooltip",
+      "namespace": "editor",
+      "translations": {
+        "id": "Sinkronkan perubahan visual kanvas ke dalam kode DSL ini",
+        "en": "Sync visual canvas modifications into this DSL code",
+        "ja": "ビジュアル キャンバスの変更をこの DSL コードに同期します"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_fze5o6t",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.errors",
+      "namespace": "editor",
+      "translations": {
+        "id": "kesalahan",
+        "en": "errors",
+        "ja": "エラー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_0qen69q",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.errorSingle",
+      "namespace": "editor",
+      "translations": {
+        "id": "kesalahan",
+        "en": "error",
+        "ja": "エラー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_3e5pnbi",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.findPlaceholder",
+      "namespace": "editor",
+      "translations": {
+        "id": "Cari...",
+        "en": "Find...",
+        "ja": "見つけてください..."
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_moz4xzt",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.replacePlaceholder",
+      "namespace": "editor",
+      "translations": {
+        "id": "Ganti dengan...",
+        "en": "Replace with...",
+        "ja": "と置き換えます..."
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_wls37zi",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.replace",
+      "namespace": "editor",
+      "translations": {
+        "id": "Ganti",
+        "en": "Replace",
+        "ja": "交換する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_1pzhgpy",
+      "projectId": "proj_2ffa5ab2",
+      "key": "editor.replaceAll",
+      "namespace": "editor",
+      "translations": {
+        "id": "Semua",
+        "en": "All",
+        "ja": "すべて"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_4nfj3ir",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.noDiagram",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Belum Ada Diagram Dimuat",
+        "en": "No Diagram Loaded",
+        "ja": "ダイアグラムがロードされていません"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_hxwr0by",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.noDiagramSub",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Tuliskan kode DSL di panel editor atau tekan Ctrl+Enter untuk mengompilasi diagram.",
+        "en": "Write DSL code in the editor panel or press Ctrl+Enter to compile your diagram.",
+        "ja": "エディター パネルに DSL コードを記述するか、Ctrl+Enter を押して図をコンパイルします。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_q62sn1q",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.zoomIn",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Perbesar (+)",
+        "en": "Zoom In (+)",
+        "ja": "ズームイン (+)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_4r18dtm",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.zoomOut",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Perkecil (-)",
+        "en": "Zoom Out (-)",
+        "ja": "ズームアウト (-)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_8hzdlem",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.zoomReset",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Reset Zoom (100%)",
+        "en": "Reset Zoom (100%)",
+        "ja": "ズームをリセット (100%)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_o2jolju",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.zoomFit",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Paskan ke Layar",
+        "en": "Fit to Viewport",
+        "ja": "ビューポートに合わせる"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_2d74ubw",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.searchNode",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Cari Node (Ctrl+F)",
+        "en": "Search Node (Ctrl+F)",
+        "ja": "ノードの検索 (Ctrl+F)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_84j1hzg",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.search",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Cari Node",
+        "en": "Search Node",
+        "ja": "検索ノード"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_659ifhm",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.modeSiku",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Siku",
+        "en": "Siku (Orthogonal)",
+        "ja": "シク（直交）"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_de6r35k",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.modeLurus",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Lurus",
+        "en": "Lurus (Straight)",
+        "ja": "ルルス（ストレート）"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_u0ofl2i",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.straightActive",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Mode Garis Lurus (Straight) Aktif",
+        "en": "Straight Line Mode Active",
+        "ja": "直線モードがアクティブ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_0jjsa7n",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.orthogonalActive",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Mode Garis Siku (Orthogonal) Aktif",
+        "en": "Orthogonal Line Mode Active",
+        "ja": "直交ラインモードがアクティブ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_maqwgdj",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.orthogonal",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Garis Siku",
+        "en": "Orthogonal Lines",
+        "ja": "直交線"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_kps5qpp",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.straight",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Garis Lurus",
+        "en": "Straight Lines",
+        "ja": "直線"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_5iuti8u",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.addNode",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Tambah Node di Sini",
+        "en": "Add Node Here",
+        "ja": "ここにノードを追加"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_qnoum3q",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.addEdge",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Tambah Garis Hubung",
+        "en": "Add Connector",
+        "ja": "コネクタの追加"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_2qtpk9n",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.deleteSelection",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Hapus Elemen Terpilih",
+        "en": "Delete Selected",
+        "ja": "選択したものを削除"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_daqrkwt",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.duplicate",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Duplikat",
+        "en": "Duplicate",
+        "ja": "重複"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_mbsphyr",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.alignLeft",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Rata Kiri",
+        "en": "Align Left",
+        "ja": "左揃え"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_8gwavgz",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.alignCenter",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Rata Tengah",
+        "en": "Align Center",
+        "ja": "中央揃え"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_z0sjlws",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.alignRight",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Rata Kanan",
+        "en": "Align Right",
+        "ja": "右揃え"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_hpadhio",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.distributeHoriz",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Distribusikan Horizontal",
+        "en": "Distribute Horizontally",
+        "ja": "水平方向に分散"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ch2t7a8",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.distributeVert",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Distribusikan Vertikal",
+        "en": "Distribute Vertically",
+        "ja": "垂直方向に分布"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_6kaeeds",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.selectAll",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Pilih Semua (Ctrl+A)",
+        "en": "Select All (Ctrl+A)",
+        "ja": "すべて選択 (Ctrl+A)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_50qsnz7",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.copy",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Salin Elemen (Ctrl+C)",
+        "en": "Copy Elements (Ctrl+C)",
+        "ja": "要素のコピー (Ctrl+C)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ku30ql9",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.paste",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Tempel di Kursor (Ctrl+V)",
+        "en": "Paste at Cursor (Ctrl+V)",
+        "ja": "カーソル位置に貼り付け (Ctrl+V)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_nc1yquw",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.alignNodes",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Ratakan Posisi Node",
+        "en": "Align Nodes",
+        "ja": "ノードの位置合わせ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_2r0k5s6",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.alignTop",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Rata Atas",
+        "en": "Align Top",
+        "ja": "上揃え"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_9mx3own",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.alignMiddle",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Rata Tengah Vertikal",
+        "en": "Align Middle",
+        "ja": "中央揃え"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_kygzzgl",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.alignBottom",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Rata Bawah",
+        "en": "Align Bottom",
+        "ja": "下揃え"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_bexlrul",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.distribute",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Distribusikan Jarak",
+        "en": "Distribute",
+        "ja": "配布する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_aievncy",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.copyAll",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Salin Semua",
+        "en": "Copy All",
+        "ja": "すべてコピー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_0qzq2v2",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.deleteAll",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Hapus Semua",
+        "en": "Delete All",
+        "ja": "すべて削除"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_qnpgmcj",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.rename",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Ubah Nama",
+        "en": "Rename",
+        "ja": "名前の変更"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ngrtuoi",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.renamePrompt",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Ubah nama entitas/node:",
+        "en": "Rename entity/node:",
+        "ja": "エンティティ/ノードの名前を変更します:"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_y11k9ia",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.addColumn",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Tambah Kolom",
+        "en": "Add Column",
+        "ja": "列の追加"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_dn9dqcj",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.addColumnPrompt",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Nama Kolom Baru:",
+        "en": "New Column Name:",
+        "ja": "新しい列名:"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ujugc0c",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.addProperty",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Tambah Properti",
+        "en": "Add Property",
+        "ja": "プロパティの追加"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_kgnumsl",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.addPropertyPrompt",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Properti Baru (nama: tipe):",
+        "en": "New Property (name: type):",
+        "ja": "新しいプロパティ (名前: タイプ):"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_zhn0aw0",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.addMethod",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Tambah Method",
+        "en": "Add Method",
+        "ja": "メソッドの追加"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_8i2t9lw",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.addMethodPrompt",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Method Baru (nama(): tipeReturn):",
+        "en": "New Method (name(): returnType):",
+        "ja": "新しいメソッド (name(): returnType):"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_uuwcnit",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.colorStyle",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Warna & Gaya Tampilan",
+        "en": "Color & Style",
+        "ja": "カラーとスタイル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_wa1jsk5",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.connectRelationship",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Hubungkan Relasi...",
+        "en": "Connect Relationship...",
+        "ja": "関係を接続..."
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_mmczwc5",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.addReviewNote",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Tambah Catatan Revisi Dosen...",
+        "en": "Add Review / Feedback Note...",
+        "ja": "レビュー/フィードバックメモを追加..."
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_3vpkw5a",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.bringToFront",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Bawa ke Depan",
+        "en": "Bring to Front",
+        "ja": "前面に移動"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_9diccbw",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.sendToBack",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Kirim ke Belakang",
+        "en": "Send to Back",
+        "ja": "背面に移動"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_fd5ilml",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.addStickyNote",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Tambah Catatan Tempel di Sini",
+        "en": "Add Sticky Note Here",
+        "ja": "ここに付箋を追加します"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ffnmo4u",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.addSystemBoundary",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Tambah Batas Sistem di Sini",
+        "en": "Add System Boundary Here",
+        "ja": "ここにシステム境界を追加します"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_4cgbwzr",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.pasteAtCursor",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Tempel di Posisi Kursor",
+        "en": "Paste at Cursor",
+        "ja": "カーソル位置に貼り付け"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_vvxla3c",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.autoLayoutSubmenu",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Tata Letak Otomatis",
+        "en": "Auto Layout",
+        "ja": "自動レイアウト"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_79wafc5",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.viewControlsSubmenu",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Kontrol Tampilan Kanvas",
+        "en": "View Controls",
+        "ja": "ビューコントロール"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_qe62i6v",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.zoomToFit",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Paskan Diagram ke Layar",
+        "en": "Zoom to Fit",
+        "ja": "ズームして合わせる"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_yjccxf3",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.resetZoom",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Reset Zoom (100%)",
+        "en": "Reset Zoom (100%)",
+        "ja": "ズームをリセット (100%)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_tmfa58a",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.switchToDark",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Beralih ke Tema Gelap",
+        "en": "Switch to Dark Theme",
+        "ja": "ダークテーマに切り替える"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_pas0trq",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.switchToLight",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Beralih ke Tema Terang",
+        "en": "Switch to Light Theme",
+        "ja": "ライトテーマに切り替える"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_zfn8kg9",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.enableSnap",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Aktifkan Snap Kisi",
+        "en": "Enable Grid Snap",
+        "ja": "グリッドスナップを有効にする"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_7kavj2x",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.disableSnap",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Nonaktifkan Snap Kisi",
+        "en": "Disable Grid Snap",
+        "ja": "グリッドスナップを無効にする"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_oui37v7",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.switchToStraight",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Gunakan Garis Lurus",
+        "en": "Switch to Straight Routing",
+        "ja": "ストレートルーティングに切り替える"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_nlz1ggk",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.switchToOrthogonal",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Gunakan Garis Siku (Orthogonal)",
+        "en": "Switch to Orthogonal Routing",
+        "ja": "直交ルーティングに切り替える"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_eqt3zx1",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.editLabel",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Ubah Label Relasi",
+        "en": "Edit Relationship Label",
+        "ja": "関係ラベルの編集"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_3txy78e",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.editLabelPrompt",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Teks label relasi:",
+        "en": "Relationship label:",
+        "ja": "関係ラベル:"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_06s5039",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.addWaypoint",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Tambah Titik Belok di Sini",
+        "en": "Add Waypoint Here",
+        "ja": "ここにウェイポイントを追加"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_mg6n917",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.changeType",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Ubah Tipe Relasi",
+        "en": "Change Type",
+        "ja": "タイプの変更"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_elo6s8b",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.reverseDirection",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Balik Arah Panah",
+        "en": "Reverse Direction",
+        "ja": "逆方向"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_bjpvefl",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.styleEdge",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Kustomisasi Garis...",
+        "en": "Style Edge...",
+        "ja": "スタイルエッジ..."
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_xkc4fja",
+      "projectId": "proj_2ffa5ab2",
+      "key": "canvas.contextMenu.deleteRelationship",
+      "namespace": "canvas",
+      "translations": {
+        "id": "Hapus Relasi Ini",
+        "en": "Delete Relationship",
+        "ja": "関係の削除"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_76ncdw9",
+      "projectId": "proj_2ffa5ab2",
+      "key": "properties.title",
+      "namespace": "properties",
+      "translations": {
+        "id": "Properti Elemen",
+        "en": "Element Properties",
+        "ja": "要素のプロパティ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_0sflj3n",
+      "projectId": "proj_2ffa5ab2",
+      "key": "properties.nodeName",
+      "namespace": "properties",
+      "translations": {
+        "id": "Nama Node",
+        "en": "Node Name",
+        "ja": "ノード名"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_gltsifj",
+      "projectId": "proj_2ffa5ab2",
+      "key": "properties.nodeType",
+      "namespace": "properties",
+      "translations": {
+        "id": "Tipe Node",
+        "en": "Node Type",
+        "ja": "ノードタイプ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_bfai0uw",
+      "projectId": "proj_2ffa5ab2",
+      "key": "properties.style",
+      "namespace": "properties",
+      "translations": {
+        "id": "Gaya Kustom",
+        "en": "Custom Style",
+        "ja": "カスタムスタイル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_f912lab",
+      "projectId": "proj_2ffa5ab2",
+      "key": "properties.globalStyle",
+      "namespace": "properties",
+      "translations": {
+        "id": "Gaya Global",
+        "en": "Global Style",
+        "ja": "グローバルスタイル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_y9hdktj",
+      "projectId": "proj_2ffa5ab2",
+      "key": "properties.attributes",
+      "namespace": "properties",
+      "translations": {
+        "id": "Atribut",
+        "en": "Attributes",
+        "ja": "属性"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_bpybjh4",
+      "projectId": "proj_2ffa5ab2",
+      "key": "properties.methods",
+      "namespace": "properties",
+      "translations": {
+        "id": "Metode / Operasi",
+        "en": "Methods / Operations",
+        "ja": "メソッド/操作"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_jy4fjaw",
+      "projectId": "proj_2ffa5ab2",
+      "key": "properties.addAttribute",
+      "namespace": "properties",
+      "translations": {
+        "id": "+ Tambah Atribut",
+        "en": "+ Add Attribute",
+        "ja": "+ 属性の追加"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_lpppi9t",
+      "projectId": "proj_2ffa5ab2",
+      "key": "properties.addMethod",
+      "namespace": "properties",
+      "translations": {
+        "id": "+ Tambah Metode",
+        "en": "+ Add Method",
+        "ja": "+ メソッドの追加"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_du1fagn",
+      "projectId": "proj_2ffa5ab2",
+      "key": "properties.columns",
+      "namespace": "properties",
+      "translations": {
+        "id": "Kolom Tabel",
+        "en": "Table Columns",
+        "ja": "テーブルの列"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_yazpfjv",
+      "projectId": "proj_2ffa5ab2",
+      "key": "properties.addColumn",
+      "namespace": "properties",
+      "translations": {
+        "id": "+ Tambah Kolom",
+        "en": "+ Add Column",
+        "ja": "+ 列を追加"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_baann91",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.heroBadge",
+      "namespace": "landing",
+      "translations": {
+        "id": "Platform UML Modern Generasi Baru",
+        "en": "Next-Generation Declarative UML Platform",
+        "ja": "次世代の宣言型 UML プラットフォーム"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_uyazpm3",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.heroTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Rancang Diagram UML",
+        "en": "Architect Systems",
+        "ja": "アーキテクトシステム"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_9ptnwkr",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.heroTitleAccent",
+      "namespace": "landing",
+      "translations": {
+        "id": "Semudah Menulis Teks",
+        "en": "with Code & Interactive Canvas",
+        "ja": "コードとインタラクティブキャンバスを使用"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_d6zsv79",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.heroSubtitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Editor diagram UML modern dengan sintaks deklaratif cepat, kanvas interaktif dua arah, tata letak otomatis yang rapi, dan ekspor instan.",
+        "en": "Modern UML diagramming with fast declarative syntax, bidirectional interactive canvas, smart orthogonal layout, and instant multi-format code export.",
+        "ja": "高速な宣言構文、双方向の対話型キャンバス、スマートな直交レイアウト、即時のマルチフォーマット コード エクスポートを備えた最新の UML ダイアグラム。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_tukt3mv",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.getStarted",
+      "namespace": "landing",
+      "translations": {
+        "id": "Buka Editor Sekarang",
+        "en": "Launch Editor",
+        "ja": "エディターを起動する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_xxmn6mr",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.viewDocs",
+      "namespace": "landing",
+      "translations": {
+        "id": "Pelajari Dokumentasi",
+        "en": "Browse Documentation",
+        "ja": "ドキュメントを参照する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_1h6tzi4",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.openWebEditor",
+      "namespace": "landing",
+      "translations": {
+        "id": "Buka Web Editor",
+        "en": "Open Web Editor",
+        "ja": "Webエディタを開く"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_uz1gbex",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.launchEditor",
+      "namespace": "landing",
+      "translations": {
+        "id": "Buka Editor Sekarang",
+        "en": "Launch Editor",
+        "ja": "エディターを起動する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_v9569eh",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.newIn2Badge",
+      "namespace": "landing",
+      "translations": {
+        "id": "Rilis v2.0 Terbaru:",
+        "en": "New in 2.0:",
+        "ja": "2.0 の新機能:"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_84hk6n0",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.newIn2Desc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Generator Diagram AI & Ekspor Kode TypeScript/Java",
+        "en": "AI Diagram Generator & TypeScript/Java Code Export",
+        "ja": "AI ダイアグラム ジェネレーターと TypeScript/Java コードのエクスポート"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_jtsag0p",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.noSignupBadge",
+      "namespace": "landing",
+      "translations": {
+        "id": "Tanpa Registrasi",
+        "en": "No Sign-up",
+        "ja": "サインアップなし"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_5fwev9f",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.tryDemoBtn",
+      "namespace": "landing",
+      "translations": {
+        "id": "Coba Demo Interaktif",
+        "en": "Try Interactive Demo",
+        "ja": "インタラクティブなデモを試す"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_gsaphox",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.heroMetricTypes",
+      "namespace": "landing",
+      "translations": {
+        "id": "7+ Tipe",
+        "en": "7+ Types",
+        "ja": "7種類以上"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_9r53ou9",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.heroMetricTypesSub",
+      "namespace": "landing",
+      "translations": {
+        "id": "Diagram UML & Arsitektur",
+        "en": "UML & Architecture Diagrams",
+        "ja": "UML とアーキテクチャ図"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_j3akktx",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.heroMetricSync",
+      "namespace": "landing",
+      "translations": {
+        "id": "Sinkron 2-Arah",
+        "en": "2-Way Sync",
+        "ja": "双方向同期"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_h72ngmo",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.heroMetricSyncSub",
+      "namespace": "landing",
+      "translations": {
+        "id": "Kode DSL ⟷ Kanvas Visual",
+        "en": "Text DSL ⟷ Visual Canvas",
+        "ja": "テキスト DSL ⟷ ビジュアル キャンバス"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_zap8830",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.heroMetricLayouts",
+      "namespace": "landing",
+      "translations": {
+        "id": "6 Algoritma",
+        "en": "6 Algorithms",
+        "ja": "6つのアルゴリズム"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_oqgx27x",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.heroMetricLayoutsSub",
+      "namespace": "landing",
+      "translations": {
+        "id": "Tata Letak Otomatis Rapi",
+        "en": "Automated Graph Layouts",
+        "ja": "自動化されたグラフ レイアウト"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_w18sh0u",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.heroMetricCode",
+      "namespace": "landing",
+      "translations": {
+        "id": "TS, Java & SQL",
+        "en": "TS, Java & SQL",
+        "ja": "TS、Java、SQL"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_eir65qk",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.heroMetricCodeSub",
+      "namespace": "landing",
+      "translations": {
+        "id": "Generator Kode Langsung",
+        "en": "Direct Code Generation",
+        "ja": "直接コード生成"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_6w0uvu8",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresBadge",
+      "namespace": "landing",
+      "translations": {
+        "id": "Keunggulan Rekayasa Sistem",
+        "en": "Engineering Excellence",
+        "ja": "卓越したエンジニアリング"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_qrfn28p",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresMainTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Dirancang Khusus untuk Software Architect & Developer",
+        "en": "Engineered for Software Architects & Developers",
+        "ja": "ソフトウェアアーキテクトと開発者向けに設計"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_u85wvax",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresMainSubtitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Semua perkakas yang Anda butuhkan untuk merancang, memvalidasi, dan mendokumentasikan arsitektur enterprise tanpa kerumitan software konvensional.",
+        "en": "Everything you need to design, validate, and document enterprise systems without the bloat of traditional diagramming software.",
+        "ja": "従来の作図ソフトウェアの肥大化を招くことなく、エンタープライズ システムの設計、検証、文書化に必要なものがすべて揃っています。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_6zegcm0",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresDslTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Teks DSL Deklaratif Ringkas",
+        "en": "Declarative Text DSL",
+        "ja": "宣言型テキスト DSL"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_oiyuilh",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresDslDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Lupakan pergeseran manual yang membosankan. Tulis skema arsitektur dalam teks intuitif dengan pendeteksi error baris real-time.",
+        "en": "Forget slow drag-and-drop alignment. Write schemas in clean, human-readable DSL with real-time linting, instant error indicators, and auto-complete.",
+        "ja": "遅いドラッグ アンド ドロップによる位置合わせは忘れてください。リアルタイムのリンティング、インスタント エラー インジケーター、およびオートコンプリートを備えた、クリーンで人間が判読できる DSL でスキーマを作成します。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_5ohr995",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresAiTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Asisten Arsitektur AI Cerdas",
+        "en": "AI Architecture Assistant",
+        "ja": "AI アーキテクチャ アシスタント"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_mqbt7cv",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresAiDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Jelaskan alur sistem atau kebutuhan database Anda dalam bahasa manusia. Asisten AI akan menyusun kode DSL lengkap seketika.",
+        "en": "Describe your software workflow or database requirements in natural language. The AI assistant generates complete UML DSL code instantly.",
+        "ja": "ソフトウェアのワークフローやデータベースの要件を自然言語で説明します。 AI アシスタントは完全な UML DSL コードを即座に生成します。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_bbz5py7",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresSyncTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Sinkronisasi Dua Arah (2-Way)",
+        "en": "Bi-directional 2-Way Sync",
+        "ja": "双方向双方向同期"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_eh8h0tx",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresSyncDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Pindahkan node di kanvas visual, hubungkan port, lalu klik 'Sinkron ke Kode' untuk memperbarui teks DSL secara mulus.",
+        "en": "Move nodes, modify properties, or connect ports on the visual canvas, then click Sync Code to generate the matching DSL back seamlessly.",
+        "ja": "ビジュアル キャンバス上でノードの移動、プロパティの変更、またはポートの接続を行ってから、[コードの同期] をクリックして、一致する DSL をシームレスに生成します。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_88u6b1l",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresCodeGenTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Generator TypeScript & Java",
+        "en": "TypeScript & Java Code Gen",
+        "ja": "TypeScript と Java コード生成"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_i286tt2",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresCodeGenDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Ubah diagram kelas menjadi interface TypeScript siap pakai atau skeleton class Java POJO dengan satu klik.",
+        "en": "Turn your class diagrams into production TypeScript interfaces or Java class skeletons with one click. Reverse-engineer existing code by importing files.",
+        "ja": "ワンクリックでクラス図を実稼働用の TypeScript インターフェイスまたは Java クラス スケルトンに変換します。ファイルをインポートして既存のコードをリバース エンジニアリングします。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_e75wr8q",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresLayoutsTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "6 Algoritma Tata Letak Cerdas",
+        "en": "6 Layout Algorithms",
+        "ja": "6 つのレイアウト アルゴリズム"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_vtrxm9o",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresLayoutsDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Rapikan diagram rumit dalam sekejap: Sugiyama Hierarkis, Force-directed, Radial, Grid, Linear, atau Smart Auto.",
+        "en": "Untangle complex diagrams with a single click: Hierarchical Sugiyama, Force-directed, Radial rings, Grid layout, Linear, or Smart Auto.",
+        "ja": "複雑な図を 1 回のクリックで解きほぐします: 階層杉山、力指向、放射状リング、グリッド レイアウト、線形、またはスマート自動。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_751sh7b",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresDiffTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Bandingkan Versi & Pustaka",
+        "en": "Version Diff & Library",
+        "ja": "バージョンの差分とライブラリ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_nyvnshp",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresDiffDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Kelola berbagai tab diagram dengan penyimpanan lokal. Bandingkan modifikasi secara visual sebelum finalisasi.",
+        "en": "Manage multi-tab diagrams with local storage and backend sync. Compare modifications with visual side-by-side diffing before finalizing changes.",
+        "ja": "ローカル ストレージとバックエンド同期を使用してマルチタブ図を管理します。変更を確定する前に、視覚的な並べて比較して変更を比較します。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_vw77nhy",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.diagramsBadge",
+      "namespace": "landing",
+      "translations": {
+        "id": "Dukungan Standar UML Lengkap",
+        "en": "Complete UML Standard Support",
+        "ja": "完全な UML 標準サポート"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ms42rji",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.diagramsTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "7 Spesifikasi Diagram Spesifik",
+        "en": "7 Specialized Diagram Specifications",
+        "ja": "7 特殊な図の仕様"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_5ttkj1z",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.diagramsSubtitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Pilih notasi yang tepat untuk sistem Anda. Setiap diagram dilengkapi parser khusus, validator semantik, dan visual shape renderer.",
+        "en": "Choose the right notation for your system. Each diagram type comes with dedicated parsers, semantic validators, and visual shape renderers.",
+        "ja": "ご使用のシステムに適した表記法を選択してください。各ダイアグラム タイプには、専用のパーサー、セマンティック バリデータ、および視覚的な形状レンダラーが付属しています。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_93s97td",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.diagramWhenToUse",
+      "namespace": "landing",
+      "translations": {
+        "id": "Kapan Digunakan:",
+        "en": "When to use:",
+        "ja": "いつ使用するか:"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_b2afmej",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.diagramKeyNotations",
+      "namespace": "landing",
+      "translations": {
+        "id": "Notasi Utama:",
+        "en": "Key Notations:",
+        "ja": "主要な表記:"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_up76gtm",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.diagramOpenTemplate",
+      "namespace": "landing",
+      "translations": {
+        "id": "Buka Templat",
+        "en": "Open Template",
+        "ja": "テンプレートを開く"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_pihj7df",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.demoBadge",
+      "namespace": "landing",
+      "translations": {
+        "id": "Pratinjau Playground Interaktif",
+        "en": "Live Playground Preview",
+        "ja": "ライブ プレイグラウンド プレビュー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_839d0dy",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.demoTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Lihat Mesin Text-to-UML Bekerja Nyata",
+        "en": "See the Text-to-UML Engine in Action",
+        "ja": "Text-to-UML エンジンの動作を確認する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_lwtqv8t",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.demoSubtitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Ganti tipe diagram di bawah untuk memeriksa kode DSL di sisi kiri dan hasil visual arsitekturnya di sisi kanan.",
+        "en": "Switch diagram types below to inspect the readable DSL code on the left and its rendered architecture model on the right.",
+        "ja": "以下の図のタイプを切り替えて、左側の読み取り可能な DSL コードと右側のレンダリングされたアーキテクチャ モデルを検査します。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_s9r3k89",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.demoCopyCode",
+      "namespace": "landing",
+      "translations": {
+        "id": "Salin Kode",
+        "en": "Copy Code",
+        "ja": "コードをコピーする"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_9k7n5p6",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.demoCopied",
+      "namespace": "landing",
+      "translations": {
+        "id": "Tersalin!",
+        "en": "Copied!",
+        "ja": "コピーしました！"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_bxgy55k",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.demoOpenInEditor",
+      "namespace": "landing",
+      "translations": {
+        "id": "Buka di Editor",
+        "en": "Open in Editor",
+        "ja": "エディタで開く"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_vjlxjn2",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.demoVisualizer",
+      "namespace": "landing",
+      "translations": {
+        "id": "Visualizer Model Terkompilasi",
+        "en": "Compiled Model Visualizer",
+        "ja": "コンパイルされたモデルのビジュアライザー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_nba6f0b",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.demoAstEngine",
+      "namespace": "landing",
+      "translations": {
+        "id": "Parser AST real-time dengan kompilasi sub-detik",
+        "en": "Real-time AST parser with sub-second compilation",
+        "ja": "1 秒未満のコンパイルを備えたリアルタイム AST パーサー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_c3vky6g",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.demoEditInCanvas",
+      "namespace": "landing",
+      "translations": {
+        "id": "Ubah di kanvas",
+        "en": "Edit in canvas",
+        "ja": "キャンバスで編集する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_y0a1kc5",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.ctaTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Siap Tingkatkan Alur Kerja Arsitektur Sistem Anda?",
+        "en": "Ready to Upgrade Your Architecture Workflow?",
+        "ja": "アーキテクチャ ワークフローをアップグレードする準備はできていますか?"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_jvhc9u1",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.ctaSubtitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Bangun diagram lebih cepat, sinkronkan dokumentasi dengan kode, dan ekspor grafik vektor tajam. 100% gratis, aman, dan langsung di browser Anda.",
+        "en": "Build diagrams faster, keep documentation synced with code, and export clean vector graphics. 100% free, private, and runs directly in your browser.",
+        "ja": "図をより速く作成し、ドキュメントとコードの同期を保ち、きれいなベクター グラフィックをエクスポートします。完全に無料、プライベート、ブラウザで直接実行されます。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_kqusopt",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.ctaLaunch",
+      "namespace": "landing",
+      "translations": {
+        "id": "Buka UML Flow Studio",
+        "en": "Launch UML Flow Studio",
+        "ja": "UML フロー スタジオを起動する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_2ok3jwc",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.ctaDocs",
+      "namespace": "landing",
+      "translations": {
+        "id": "Lihat Panduan Sintaks",
+        "en": "View Syntax Reference",
+        "ja": "構文リファレンスを表示"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_p8wpm8b",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.footerDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Platform pembuatan diagram UML modern berbasis web yang menggabungkan teks DSL ekspresif, kanvas visual interaktif, pembuatan diagram AI, dan generator kode multi-bahasa.",
+        "en": "A modern web-based UML diagramming tool combining expressive text DSL, interactive visual canvas, AI generation, and multi-language code export.",
+        "ja": "表現力豊かなテキスト DSL、インタラクティブなビジュアル キャンバス、AI 生成、多言語コード エクスポートを組み合わせた最新の Web ベースの UML 作図ツール。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_1ku1t73",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.footerLocalFirst",
+      "namespace": "landing",
+      "translations": {
+        "id": "Arsitektur local-first & mengutamakan privasi pengguna",
+        "en": "Local-first architecture & privacy focused",
+        "ja": "ローカルファーストのアーキテクチャとプライバシー重視"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_4o67xy0",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.footerSupportedDiagrams",
+      "namespace": "landing",
+      "translations": {
+        "id": "Diagram yang Didukung",
+        "en": "Supported Diagrams",
+        "ja": "サポートされている図"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_wf99z1p",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.footerTechStack",
+      "namespace": "landing",
+      "translations": {
+        "id": "Teknologi & Fondasi Sistem",
+        "en": "Tech Stack & Core",
+        "ja": "技術スタックとコア"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_i866ssr",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.footerCredit",
+      "namespace": "landing",
+      "translations": {
+        "id": "© 2026 UML Flow. Dibuat dengan Bun, Hono, React & TypeScript.",
+        "en": "© 2026 UML Flow. Engineered with Bun, Hono, React & TypeScript.",
+        "ja": "© 2026 UML フロー。 Bun、Hono、React、TypeScript を使用して設計されています。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_027rbhv",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Dirancang untuk Produktivitas Maksimal",
+        "en": "Engineered for Peak Productivity",
+        "ja": "最高の生産性を実現する設計"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_1hc4vfq",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featuresSubtitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Semua perkakas yang Anda butuhkan untuk membuat arsitektur perangkat lunak yang elegan dan siap pakai.",
+        "en": "All the professional tools you need to design, communicate, and export software architectures.",
+        "ja": "ソフトウェア アーキテクチャの設計、伝達、エクスポートに必要なすべてのプロフェッショナル ツール。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_5lmtrpc",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.instantCompile",
+      "namespace": "landing",
+      "translations": {
+        "id": "Kompilasi Instan",
+        "en": "Instant Compilation",
+        "ja": "インスタントコンパイル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_flro7f3",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.instantCompileDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Tulis kode deklaratif sederhana dan lihat diagram langsung ter-render otomatis secara real-time.",
+        "en": "Write clean declarative code and watch your diagrams render in real time with zero latency.",
+        "ja": "クリーンな宣言型コードを作成し、遅延ゼロでリアルタイムに図がレンダリングされるのを確認します。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_4uri53i",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.twoWayEditing",
+      "namespace": "landing",
+      "translations": {
+        "id": "Dua Arah (Kode & Kanvas)",
+        "en": "Bidirectional Editing",
+        "ja": "双方向編集"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_kmrmp55",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.twoWayEditingDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Geser dan ubah node langsung di kanvas, lalu sinkronkan kembali perubahannya ke kode teks dalam satu klik.",
+        "en": "Drag and refine nodes on the visual canvas, then sync your changes back to the DSL in one click.",
+        "ja": "ビジュアル キャンバス上でノードをドラッグして調整し、ワンクリックで変更を DSL に同期します。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_p5btcgo",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.allDiagrams",
+      "namespace": "landing",
+      "translations": {
+        "id": "9+ Tipe Diagram Lengkap",
+        "en": "9+ UML Diagram Types",
+        "ja": "9 種類以上の UML 図の種類"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_4penmly",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.allDiagramsDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Mendukung Class, Sequence, State Machine, Activity, Use Case, ERD, Component, Deployment, dan Flowchart.",
+        "en": "Native support for Class, Sequence, State Machine, Activity, Use Case, ERD, Component, Deployment, and Flowchart.",
+        "ja": "クラス、シーケンス、ステート マシン、アクティビティ、ユース ケース、ERD、コンポーネント、デプロイメント、およびフローチャートのネイティブ サポート。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ttp9psr",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.exportAnywhere",
+      "namespace": "landing",
+      "translations": {
+        "id": "Ekspor Format Lengkap",
+        "en": "Universal Export",
+        "ja": "ユニバーサルエクスポート"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_5s1y39o",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.exportAnywhereDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Ekspor diagram resolusi tinggi ke PNG, SVG vektor tajam, JSON, atau langsung hasilkan kode TypeScript, Java, Python, dan SQL.",
+        "en": "Export high-resolution PNG, crisp SVG vectors, JSON, or generate production TypeScript, Java, Python, and SQL DDL.",
+        "ja": "高解像度の PNG、鮮明な SVG ベクトル、JSON をエクスポートしたり、プロダクション TypeScript、Java、Python、SQL DDL を生成したりできます。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_psoojlf",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.aiPowered",
+      "namespace": "landing",
+      "translations": {
+        "id": "Bantuan AI Pintar",
+        "en": "AI Copilot",
+        "ja": "AI副操縦士"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_jkrcl0t",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.aiPoweredDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Generate diagram kompleks dari deskripsi bahasa manusia dalam hitungan detik menggunakan asisten AI terintegrasi.",
+        "en": "Generate complex architectural diagrams from natural language prompts in seconds using the built-in AI assistant.",
+        "ja": "組み込みの AI アシスタントを使用して、自然言語プロンプトから複雑な建築図を数秒で生成します。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_kcibv4g",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.smartLayout",
+      "namespace": "landing",
+      "translations": {
+        "id": "Tata Letak Cerdas",
+        "en": "Smart Auto-Layout",
+        "ja": "スマートな自動レイアウト"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_0gh63qz",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.smartLayoutDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Algoritma Sugiyama dan perutean orthogonal pintar otomatis merapikan garis siku dan mencegah tabrakan label.",
+        "en": "Sugiyama layered layout and intelligent channel track orthogonal routing prevent line overlaps and label clashing.",
+        "ja": "Sugayama レイヤード レイアウトとインテリジェントなチャネル トラック直交配線により、ラインの重複やラベルの衝突を防ぎます。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_6op96r0",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.howItWorksTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Cara Kerja dalam 3 Langkah Mudah",
+        "en": "How It Works in 3 Simple Steps",
+        "ja": "3 つの簡単なステップでどのように機能するか"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_p8lwv3l",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.howItWorksSubtitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Dari perancangan konsep hingga diagram standar publikasi & skripsi siap pakai dalam hitungan detik.",
+        "en": "From architectural thoughts to publication-ready diagrams and code in seconds.",
+        "ja": "アーキテクチャ上の思考から、すぐに出版できる図やコードまで、数秒で作成できます。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_wwkht5s",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.howItWorksBadge",
+      "namespace": "landing",
+      "translations": {
+        "id": "Alur Kerja Cepat",
+        "en": "Fast Workflow",
+        "ja": "素早いワークフロー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_0ojr5nv",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.step1Title",
+      "namespace": "landing",
+      "translations": {
+        "id": "1. Tulis Kode DSL atau Pilih Templat",
+        "en": "1. Write Code or Choose a Template",
+        "ja": "1. コードを記述するか、テンプレートを選択します"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_959af4r",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.step1Desc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Gunakan sintaks teks deklaratif yang intuitif atau pilih templat akademik/arsitektur siap pakai (Kerangka Berpikir, Waterfall, ERD, 3-Tier).",
+        "en": "Use intuitive declarative text DSL or kickstart with pre-configured academic & architectural templates (IPO Thesis, Waterfall, Academic ERD, 3-Tier).",
+        "ja": "直感的な宣言型テキスト DSL を使用するか、事前設定されたアカデミックおよびアーキテクチャ テンプレート (IPO 論文、ウォーターフォール、アカデミック ERD、3 層) を使用したキックスタートを使用します。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_nefr6y1",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.step2Title",
+      "namespace": "landing",
+      "translations": {
+        "id": "2. Edit & Rapikan di Kanvas Visual Dua Arah",
+        "en": "2. Refine on the Bidirectional Canvas",
+        "ja": "2. 双方向キャンバスで絞り込む"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_td2r02p",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.step2Desc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Geser node langsung di kanvas, hubungkan anchor point, aktifkan mode garis siku 90°, atau terapkan palet tema warna 1-klik.",
+        "en": "Drag elements directly on canvas, connect anchor ports, toggle 90° orthogonal clean lines, or apply 1-click curated color themes.",
+        "ja": "要素をキャンバス上に直接ドラッグしたり、アンカー ポートを接続したり、90 度の直交するきれいなラインを切り替えたり、厳選されたカラー テーマを 1 クリックで適用したりできます。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_16sd1k3",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.step3Title",
+      "namespace": "landing",
+      "translations": {
+        "id": "3. Ekspor Gambar HD & Hasilkan Kode Program",
+        "en": "3. Export HD Images & Generate Code",
+        "ja": "3. HD 画像のエクスポートとコードの生成"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_vemphbq",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.step3Desc",
+      "namespace": "landing",
+      "translations": {
+        "id": "Unduh diagram beresolusi tinggi (PNG 300 DPI, SVG vektor), sertakan caption skripsi otomatis, atau generate kode TypeScript, Java, & SQL.",
+        "en": "Download high-res PNG (300 DPI), sharp vector SVG, academic thesis captions, or generate production TypeScript, Java, and SQL schema.",
+        "ja": "高解像度 PNG (300 DPI)、鮮明なベクター SVG、学術論文のキャプションをダウンロードしたり、プロダクション TypeScript、Java、SQL スキーマを生成したりできます。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_u9wcc36",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.comparisonTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Mengapa Memilih UML Flow?",
+        "en": "Why Choose UML Flow?",
+        "ja": "UML フローを選択する理由"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_9w37rm3",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.comparisonSubtitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Perbandingan keunggulan fitur kami dibandingkan perkakas diagram UML konvensional lainnya.",
+        "en": "Compare our cutting-edge capabilities with conventional diagramming software.",
+        "ja": "当社の最先端の機能を従来の作図ソフトウェアと比較してください。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_69c6bxi",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.comparisonBadge",
+      "namespace": "landing",
+      "translations": {
+        "id": "Komparasi Fitur",
+        "en": "Feature Comparison",
+        "ja": "機能の比較"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_05sgy5v",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.featureCol",
+      "namespace": "landing",
+      "translations": {
+        "id": "Fitur / Kemampuan",
+        "en": "Feature / Capability",
+        "ja": "特徴/能力"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_qbyssct",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.faqTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Pertanyaan yang Sering Diajukan",
+        "en": "Frequently Asked Questions",
+        "ja": "よくある質問"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_wkn8d1h",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.faqSubtitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Jawaban lengkap seputar cara penggunaan, privasi data lokal, dan format publikasi.",
+        "en": "Answers to common questions about usage, client-side privacy, and export formats.",
+        "ja": "使用法、クライアント側のプライバシー、エクスポート形式に関するよくある質問への回答。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_0a35f1n",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.faqBadge",
+      "namespace": "landing",
+      "translations": {
+        "id": "Bantuan & FAQ",
+        "en": "Help & FAQ",
+        "ja": "ヘルプとよくある質問"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_q7x78a0",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.tryEditorNow",
+      "namespace": "landing",
+      "translations": {
+        "id": "Mulai Membuat Diagram Sekarang",
+        "en": "Start Diagramming Today",
+        "ja": "今すぐダイアグラムを始めましょう"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_n7swc99",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.tryEditorNowDesc",
+      "namespace": "landing",
+      "translations": {
+        "id": "100% gratis, berjalan langsung di peramban web Anda tanpa perlu registrasi atau instalasi rumit.",
+        "en": "100% free, runs entirely in your modern browser with no signup required.",
+        "ja": "完全に無料で、サインアップの必要もなく、最新のブラウザーで完全に実行できます。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ch40qh4",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.footerCopyright",
+      "namespace": "landing",
+      "translations": {
+        "id": "Hak Cipta © 2026 UML Flow. Dibuat dengan presisi dan performa tinggi.",
+        "en": "Copyright © 2026 UML Flow. Engineered with precision and performance.",
+        "ja": "著作権 © 2026 UML フロー。精度とパフォーマンスを重視して設計されています。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_qabq4ke",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.templatesPrebuilt",
+      "namespace": "landing",
+      "translations": {
+        "id": "Arsitektur Siap Pakai",
+        "en": "Pre-built Architectures",
+        "ja": "構築済みのアーキテクチャ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ugu4q22",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.templatesMainTitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Mulai Cepat dengan Templat Nyata",
+        "en": "Jumpstart with Real-World Templates",
+        "ja": "現実世界のテンプレートでジャンプスタート"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_avs13zl",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.templatesMainSubtitle",
+      "namespace": "landing",
+      "translations": {
+        "id": "Jangan mulai dari kanvas kosong. Muat arsitektur kelas produksi dan sesuaikan di browser Anda dengan satu klik.",
+        "en": "Don't start from a blank screen. Load production-grade architectures and customize them in your browser with a single click.",
+        "ja": "空白の画面から始めないでください。実稼働グレードのアーキテクチャをロードし、ワンクリックでブラウザでカスタマイズします。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_z7n5fqj",
+      "projectId": "proj_2ffa5ab2",
+      "key": "landing.useTemplateBtn",
+      "namespace": "landing",
+      "translations": {
+        "id": "Gunakan Templat di Editor",
+        "en": "Use Template in Editor",
+        "ja": "エディターでテンプレートを使用する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_mhsoc1n",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.title",
+      "namespace": "docs",
+      "translations": {
+        "id": "Dokumentasi Lengkap & Panduan Sintaks",
+        "en": "Complete Documentation & Syntax Guide",
+        "ja": "完全なドキュメントと構文ガイド"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ld31s5z",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.subtitle",
+      "namespace": "docs",
+      "translations": {
+        "id": "Pelajari cara kerja lengkap UML Flow: dari sintaks DSL semua diagram, manipulasi kanvas visual dua arah, hingga ekspor & generator kode.",
+        "en": "Master UML Flow: from declarative DSL syntax for all 8+ diagram types, visual canvas controls, to code generators and HD exports.",
+        "ja": "マスター UML フロー: 8 つ以上の図タイプすべての宣言的 DSL 構文、ビジュアル キャンバス コントロールから、コード ジェネレーターと HD エクスポートまで。"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_n3n8dh2",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.backToEditor",
+      "namespace": "docs",
+      "translations": {
+        "id": "Kembali ke Editor",
+        "en": "Back to Editor",
+        "ja": "編集者に戻る"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_o10zcru",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.syntaxGuide",
+      "namespace": "docs",
+      "translations": {
+        "id": "Panduan Sintaks",
+        "en": "Syntax Guide",
+        "ja": "構文ガイド"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_m5r40h5",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.diagramTypes",
+      "namespace": "docs",
+      "translations": {
+        "id": "Tipe Diagram",
+        "en": "Diagram Types",
+        "ja": "図の種類"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ax3ow01",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.examples",
+      "namespace": "docs",
+      "translations": {
+        "id": "Contoh Kode",
+        "en": "Code Examples",
+        "ja": "コード例"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_w1vaotc",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.cheatSheet",
+      "namespace": "docs",
+      "translations": {
+        "id": "Lembar Pintasan",
+        "en": "Cheat Sheet",
+        "ja": "チートシート"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_urp4g01",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.searchPlaceholder",
+      "namespace": "docs",
+      "translations": {
+        "id": "Cari dokumentasi, sintaks, atau fitur...",
+        "en": "Search documentation, syntax, or features...",
+        "ja": "ドキュメント、構文、機能を検索します..."
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_7pvc6lu",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.copyCode",
+      "namespace": "docs",
+      "translations": {
+        "id": "Salin Kode",
+        "en": "Copy Code",
+        "ja": "コードをコピーする"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_w6kqxih",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.copiedCode",
+      "namespace": "docs",
+      "translations": {
+        "id": "Tersalin!",
+        "en": "Copied!",
+        "ja": "コピーしました！"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_8pyjiag",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.tryInEditor",
+      "namespace": "docs",
+      "translations": {
+        "id": "Coba di Editor",
+        "en": "Try in Editor",
+        "ja": "エディターで試してみる"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_yxzso8c",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.tipBadge",
+      "namespace": "docs",
+      "translations": {
+        "id": "TIPS PRAKTIS",
+        "en": "PRO TIP",
+        "ja": "プロのヒント"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ed4fma3",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.noteBadge",
+      "namespace": "docs",
+      "translations": {
+        "id": "CATATAN",
+        "en": "NOTE",
+        "ja": "注意"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_htdkalh",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.importantBadge",
+      "namespace": "docs",
+      "translations": {
+        "id": "PENTING",
+        "en": "IMPORTANT",
+        "ja": "重要"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_sxxm6va",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.syntaxTable",
+      "namespace": "docs",
+      "translations": {
+        "id": "Tabel Sintaks",
+        "en": "Syntax Reference",
+        "ja": "構文リファレンス"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_fdq15zg",
+      "projectId": "proj_2ffa5ab2",
+      "key": "docs.quickJump",
+      "namespace": "docs",
+      "translations": {
+        "id": "Lompat ke Topik",
+        "en": "Jump to Topic",
+        "ja": "トピックにジャンプ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_gbuo8v1",
+      "projectId": "proj_2ffa5ab2",
+      "key": "modals.templatesTitle",
+      "namespace": "modals",
+      "translations": {
+        "id": "Templat Diagram Siap Pakai",
+        "en": "Curated Diagram Templates",
+        "ja": "厳選された図テンプレート"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_etqo9sb",
+      "projectId": "proj_2ffa5ab2",
+      "key": "modals.libraryTitle",
+      "namespace": "modals",
+      "translations": {
+        "id": "Pustaka Diagram Anda",
+        "en": "Your Diagram Library",
+        "ja": "ダイアグラム ライブラリ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_tm3mpn5",
+      "projectId": "proj_2ffa5ab2",
+      "key": "modals.aiTitle",
+      "namespace": "modals",
+      "translations": {
+        "id": "Asisten AI Pembuat Diagram",
+        "en": "AI Diagram Assistant",
+        "ja": "AIダイアグラムアシスタント"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_mqct18l",
+      "projectId": "proj_2ffa5ab2",
+      "key": "modals.shortcutsTitle",
+      "namespace": "modals",
+      "translations": {
+        "id": "Daftar Pintasan Papan Ketik",
+        "en": "Keyboard Shortcuts",
+        "ja": "キーボードショートカット"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ww2d3py",
+      "projectId": "proj_2ffa5ab2",
+      "key": "modals.importTitle",
+      "namespace": "modals",
+      "translations": {
+        "id": "Impor Diagram",
+        "en": "Import Diagram",
+        "ja": "インポート図"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_d173gds",
+      "projectId": "proj_2ffa5ab2",
+      "key": "modals.academicTitle",
+      "namespace": "modals",
+      "translations": {
+        "id": "Keterangan & Format Akademik",
+        "en": "Academic Caption & Citation",
+        "ja": "学術的なキャプションと引用"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_vbskt8q",
+      "projectId": "proj_2ffa5ab2",
+      "key": "modals.codeGenTitle",
+      "namespace": "modals",
+      "translations": {
+        "id": "Generator Kode Program",
+        "en": "Code Generator",
+        "ja": "コードジェネレータ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_cjw1408",
+      "projectId": "proj_2ffa5ab2",
+      "key": "modals.diffTitle",
+      "namespace": "modals",
+      "translations": {
+        "id": "Bandingkan Versi Diagram",
+        "en": "Compare Diagram Versions",
+        "ja": "図のバージョンを比較する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_64tsq33",
+      "projectId": "proj_2ffa5ab2",
+      "key": "palette.title",
+      "namespace": "palette",
+      "translations": {
+        "id": "Palet Simbol",
+        "en": "Palette",
+        "ja": "パレット"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_mdifmir",
+      "projectId": "proj_2ffa5ab2",
+      "key": "palette.connections",
+      "namespace": "palette",
+      "translations": {
+        "id": "Relasi & Garis Hubung",
+        "en": "Connections",
+        "ja": "接続"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_g1thkif",
+      "projectId": "proj_2ffa5ab2",
+      "key": "palette.addNode",
+      "namespace": "palette",
+      "translations": {
+        "id": "Tambah Simbol",
+        "en": "Add",
+        "ja": "追加"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_6brivq6",
+      "projectId": "proj_2ffa5ab2",
+      "key": "palette.connectionTool",
+      "namespace": "palette",
+      "translations": {
+        "id": "Alat Koneksi",
+        "en": "connection tool",
+        "ja": "接続ツール"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_lmrihwk",
+      "projectId": "proj_2ffa5ab2",
+      "key": "palette.activeHint",
+      "namespace": "palette",
+      "translations": {
+        "id": "(aktif - klik untuk membatalkan)",
+        "en": "(active - click to deselect)",
+        "ja": "(アクティブ - クリックして選択を解除します)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_aroja36",
+      "projectId": "proj_2ffa5ab2",
+      "key": "align.selected",
+      "namespace": "align",
+      "translations": {
+        "id": "terpilih",
+        "en": "selected",
+        "ja": "選択された"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_g4vm7tu",
+      "projectId": "proj_2ffa5ab2",
+      "key": "align.alignLeft",
+      "namespace": "align",
+      "translations": {
+        "id": "Rata kiri",
+        "en": "Align left",
+        "ja": "左揃え"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ocjtsl2",
+      "projectId": "proj_2ffa5ab2",
+      "key": "align.alignCenterH",
+      "namespace": "align",
+      "translations": {
+        "id": "Rata tengah horizontal",
+        "en": "Align center H",
+        "ja": "中心を揃える H"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_3jycsfl",
+      "projectId": "proj_2ffa5ab2",
+      "key": "align.alignRight",
+      "namespace": "align",
+      "translations": {
+        "id": "Rata kanan",
+        "en": "Align right",
+        "ja": "右揃え"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_4spyzm9",
+      "projectId": "proj_2ffa5ab2",
+      "key": "align.alignTop",
+      "namespace": "align",
+      "translations": {
+        "id": "Rata atas",
+        "en": "Align top",
+        "ja": "上揃え"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_b8ba355",
+      "projectId": "proj_2ffa5ab2",
+      "key": "align.alignCenterV",
+      "namespace": "align",
+      "translations": {
+        "id": "Rata tengah vertikal",
+        "en": "Align center V",
+        "ja": "Vの中心を揃える"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_9j3zyyn",
+      "projectId": "proj_2ffa5ab2",
+      "key": "align.alignBottom",
+      "namespace": "align",
+      "translations": {
+        "id": "Rata bawah",
+        "en": "Align bottom",
+        "ja": "下揃え"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ko1ppwo",
+      "projectId": "proj_2ffa5ab2",
+      "key": "align.distributeH",
+      "namespace": "align",
+      "translations": {
+        "id": "Distribusikan horizontal",
+        "en": "Distribute horizontally",
+        "ja": "水平方向に分配する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_tae5fqy",
+      "projectId": "proj_2ffa5ab2",
+      "key": "align.distributeV",
+      "namespace": "align",
+      "translations": {
+        "id": "Distribusikan vertikal",
+        "en": "Distribute vertically",
+        "ja": "垂直方向に配置"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_vn78bvw",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.nodeStyle",
+      "namespace": "style",
+      "translations": {
+        "id": "Gaya Tampilan Node",
+        "en": "Node Style",
+        "ja": "ノードスタイル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_zwjii8b",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.edgeStyle",
+      "namespace": "style",
+      "translations": {
+        "id": "Gaya Garis Relasi",
+        "en": "Edge Style",
+        "ja": "エッジスタイル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_inxqidq",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.globalStyleTitle",
+      "namespace": "style",
+      "translations": {
+        "id": "Gaya Global (Semua Node)",
+        "en": "Global Style (All Nodes)",
+        "ja": "グローバル スタイル (すべてのノード)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_125kvar",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.curatedPalettes",
+      "namespace": "style",
+      "translations": {
+        "id": "🎨 Palet Warna 1-Klik",
+        "en": "🎨 1-Click Curated Palettes",
+        "ja": "🎨 1-クリックで厳選されたパレット"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_2ruanjs",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.applyThemeTitle",
+      "namespace": "style",
+      "translations": {
+        "id": "Terapkan tema",
+        "en": "Apply theme",
+        "ja": "テーマを適用する"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_9a0tpub",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.fontFamily",
+      "namespace": "style",
+      "translations": {
+        "id": "Jenis Font (Font Family)",
+        "en": "Font Family",
+        "ja": "フォントファミリー"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_2vj56uh",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.fontSize",
+      "namespace": "style",
+      "translations": {
+        "id": "Ukuran Font",
+        "en": "Font Size",
+        "ja": "フォントサイズ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ee97znd",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.fontStyle",
+      "namespace": "style",
+      "translations": {
+        "id": "Gaya Font",
+        "en": "Font Style",
+        "ja": "フォントスタイル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_bihdaee",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.fontColor",
+      "namespace": "style",
+      "translations": {
+        "id": "Warna Teks Font",
+        "en": "Font Color",
+        "ja": "フォントの色"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_yg68ck9",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.background",
+      "namespace": "style",
+      "translations": {
+        "id": "Warna Latar Belakang",
+        "en": "Background Color",
+        "ja": "背景色"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_7gbhist",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.borderColor",
+      "namespace": "style",
+      "translations": {
+        "id": "Warna Garis Tepi",
+        "en": "Border Color",
+        "ja": "枠線の色"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_bz52q6k",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.borderWidth",
+      "namespace": "style",
+      "translations": {
+        "id": "Ketebalan Garis Tepi",
+        "en": "Border Width",
+        "ja": "枠線の幅"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_mvw8nvz",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.borderStyle",
+      "namespace": "style",
+      "translations": {
+        "id": "Model Garis Tepi",
+        "en": "Border Style",
+        "ja": "ボーダースタイル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_eexi1re",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.cornerRadius",
+      "namespace": "style",
+      "translations": {
+        "id": "Sudut Lengkung (Radius)",
+        "en": "Corner Radius",
+        "ja": "コーナー半径"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_zodzves",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.opacity",
+      "namespace": "style",
+      "translations": {
+        "id": "Transparansi (Opacity)",
+        "en": "Opacity",
+        "ja": "不透明度"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_nuw5iae",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.strokeColor",
+      "namespace": "style",
+      "translations": {
+        "id": "Warna Garis Relasi",
+        "en": "Stroke Color",
+        "ja": "ストロークの色"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_x523vl0",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.strokeWidth",
+      "namespace": "style",
+      "translations": {
+        "id": "Ketebalan Garis Relasi",
+        "en": "Stroke Width",
+        "ja": "ストローク幅"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_zx5jsdg",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.labelFont",
+      "namespace": "style",
+      "translations": {
+        "id": "Font Label",
+        "en": "Label Font",
+        "ja": "ラベルのフォント"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_opr4q2q",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.labelSize",
+      "namespace": "style",
+      "translations": {
+        "id": "Ukuran Teks Label",
+        "en": "Label Size",
+        "ja": "ラベルサイズ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_6cv51bc",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.labelColor",
+      "namespace": "style",
+      "translations": {
+        "id": "Warna Teks Label",
+        "en": "Label Color",
+        "ja": "ラベルの色"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_7v6egxu",
+      "projectId": "proj_2ffa5ab2",
+      "key": "style.resetToDefault",
+      "namespace": "style",
+      "translations": {
+        "id": "Kembalikan ke Standar",
+        "en": "Reset to Default",
+        "ja": "デフォルトにリセット"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_jvn3siv",
+      "projectId": "proj_2ffa5ab2",
+      "key": "statusBar.saved",
+      "namespace": "statusBar",
+      "translations": {
+        "id": "Tersimpan",
+        "en": "Saved",
+        "ja": "保存されました"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_wqoedcy",
+      "projectId": "proj_2ffa5ab2",
+      "key": "statusBar.participants",
+      "namespace": "statusBar",
+      "translations": {
+        "id": "partisipan",
+        "en": "participants",
+        "ja": "参加者"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_33nf3ci",
+      "projectId": "proj_2ffa5ab2",
+      "key": "statusBar.messages",
+      "namespace": "statusBar",
+      "translations": {
+        "id": "pesan",
+        "en": "messages",
+        "ja": "メッセージ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_n6tbjj2",
+      "projectId": "proj_2ffa5ab2",
+      "key": "statusBar.nodes",
+      "namespace": "statusBar",
+      "translations": {
+        "id": "node",
+        "en": "nodes",
+        "ja": "ノード"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_s3800v0",
+      "projectId": "proj_2ffa5ab2",
+      "key": "statusBar.edges",
+      "namespace": "statusBar",
+      "translations": {
+        "id": "relasi",
+        "en": "edges",
+        "ja": "エッジ"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_xkvwrvc",
+      "projectId": "proj_2ffa5ab2",
+      "key": "presentation.exit",
+      "namespace": "presentation",
+      "translations": {
+        "id": "Keluar (Esc)",
+        "en": "Exit (Esc)",
+        "ja": "終了 (Esc)"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_ifc2cka",
+      "projectId": "proj_2ffa5ab2",
+      "key": "presentation.hint",
+      "namespace": "presentation",
+      "translations": {
+        "id": "Klik di mana saja atau tekan Esc untuk keluar",
+        "en": "Click anywhere or press Esc to exit",
+        "ja": "任意の場所をクリックするか、Esc キーを押して終了します"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_3wyrjnd",
+      "projectId": "proj_2ffa5ab2",
+      "key": "samples.menuTitle",
+      "namespace": "samples",
+      "translations": {
+        "id": "Contoh Diagram",
+        "en": "Samples",
+        "ja": "サンプル"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_28s6lmi",
+      "projectId": "proj_2ffa5ab2",
+      "key": "samples.menuHeading",
+      "namespace": "samples",
+      "translations": {
+        "id": "Pilih Contoh Diagram Siap Pakai",
+        "en": "Choose Sample Diagram",
+        "ja": "サンプル図を選択してください"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_uml_0sefbt1",
+      "projectId": "proj_2ffa5ab2",
+      "key": "samples.menuTooltip",
+      "namespace": "samples",
+      "translations": {
+        "id": "Muat contoh diagram siap pakai",
+        "en": "Load pre-built sample diagrams",
+        "ja": "事前に構築されたサンプル図をロードする"
+      },
+      "createdAt": "2026-10-27T06:59:20.660Z",
+      "updatedAt": "2026-10-27T06:59:20.660Z"
+    },
+    {
+      "id": "t_irma_i61utr9",
+      "projectId": "proj_c379c298",
+      "key": "nav.home",
+      "namespace": "nav",
+      "translations": {
+        "id": "Beranda",
+        "en": "Home",
+        "ja": "ホーム"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_ag4ykte",
+      "projectId": "proj_c379c298",
+      "key": "nav.about",
+      "namespace": "nav",
+      "translations": {
+        "id": "Tentang",
+        "en": "About",
+        "ja": "について"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_b30ukgu",
+      "projectId": "proj_c379c298",
+      "key": "nav.education",
+      "namespace": "nav",
+      "translations": {
+        "id": "Pendidikan",
+        "en": "Education",
+        "ja": "教育"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_m1laj8c",
+      "projectId": "proj_c379c298",
+      "key": "nav.experience",
+      "namespace": "nav",
+      "translations": {
+        "id": "Pengalaman",
+        "en": "Experience",
+        "ja": "経験"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_eqs5lsc",
+      "projectId": "proj_c379c298",
+      "key": "nav.skills",
+      "namespace": "nav",
+      "translations": {
+        "id": "Keahlian",
+        "en": "Skills",
+        "ja": "スキル"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_tti0la5",
+      "projectId": "proj_c379c298",
+      "key": "nav.certificates",
+      "namespace": "nav",
+      "translations": {
+        "id": "Sertifikat",
+        "en": "Certificates",
+        "ja": "証明書"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_rknloqo",
+      "projectId": "proj_c379c298",
+      "key": "nav.contact",
+      "namespace": "nav",
+      "translations": {
+        "id": "Kontak",
+        "en": "Contact",
+        "ja": "お問い合わせ"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_61o6mfg",
+      "projectId": "proj_c379c298",
+      "key": "hero.greeting",
+      "namespace": "hero",
+      "translations": {
+        "id": "Halo, saya",
+        "en": "Hello, I'm",
+        "ja": "こんにちは、私は"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_izzgvsx",
+      "projectId": "proj_c379c298",
+      "key": "hero.title",
+      "namespace": "hero",
+      "translations": {
+        "id": "S.Pd. Kimia | Administrasi & Analisis Data",
+        "en": "B.Ed. Chemistry | Administration & Data Analysis",
+        "ja": "B.Ed.化学 |管理とデータ分析"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_vwg4s4d",
+      "projectId": "proj_c379c298",
+      "key": "hero.description",
+      "namespace": "hero",
+      "translations": {
+        "id": "Lulusan Pendidikan Kimia Universitas Sriwijaya (IPK 3,90) dengan kemampuan analisis kuantitatif, pemecahan masalah sistematis, dan ketelitian tinggi.",
+        "en": "Chemistry Education graduate from Sriwijaya University (GPA 3.90) with quantitative analysis skills, systematic problem solving, and high attention to detail.",
+        "ja": "スリウィジャヤ大学で化学教育を卒業し (GPA 3.90)、定量分析スキル、体系的な問題解決能力、細部への高い注意力を備えています。"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_pammuxi",
+      "projectId": "proj_c379c298",
+      "key": "hero.cta_contact",
+      "namespace": "hero",
+      "translations": {
+        "id": "Hubungi Saya",
+        "en": "Contact Me",
+        "ja": "連絡してください"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_cnf9igy",
+      "projectId": "proj_c379c298",
+      "key": "hero.cta_cv",
+      "namespace": "hero",
+      "translations": {
+        "id": "Unduh CV",
+        "en": "Download CV",
+        "ja": "履歴書をダウンロード"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_ns4yw65",
+      "projectId": "proj_c379c298",
+      "key": "about.section_tag",
+      "namespace": "about",
+      "translations": {
+        "id": "Tentang Saya",
+        "en": "About Me",
+        "ja": "私について"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_twhe5k0",
+      "projectId": "proj_c379c298",
+      "key": "about.title",
+      "namespace": "about",
+      "translations": {
+        "id": "Profil Singkat",
+        "en": "Brief Profile",
+        "ja": "簡単なプロフィール"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_a563mc4",
+      "projectId": "proj_c379c298",
+      "key": "about.bio",
+      "namespace": "about",
+      "translations": {
+        "id": "Saya merupakan lulusan S1 Pendidikan Kimia Universitas Sriwijaya dengan IPK 3,90 yang memiliki kemampuan analisis, pemecahan masalah, serta berpikir sistematis yang terbentuk dari latar belakang sains dan pengalaman penelitian.",
+        "en": "I am a graduate of Chemistry Education at Sriwijaya University with a GPA of 3.90, possessing analytical skills, problem-solving ability, and systematic thinking developed through a science background and research experience.",
+        "ja": "私はスリウィジャヤ大学で化学教育を卒業し、GPA 3.90 を取得しており、科学の背景と研究経験を通じて培われた分析スキル、問題解決能力、体系的思考を備えています。"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_hynyts3",
+      "projectId": "proj_c379c298",
+      "key": "about.gpa",
+      "namespace": "about",
+      "translations": {
+        "id": "IPK",
+        "en": "GPA",
+        "ja": "GPA"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_17cft41",
+      "projectId": "proj_c379c298",
+      "key": "about.university",
+      "namespace": "about",
+      "translations": {
+        "id": "Universitas",
+        "en": "University",
+        "ja": "大学"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_i8n7ffk",
+      "projectId": "proj_c379c298",
+      "key": "about.major",
+      "namespace": "about",
+      "translations": {
+        "id": "Jurusan",
+        "en": "Major",
+        "ja": "メジャー"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_0vl936d",
+      "projectId": "proj_c379c298",
+      "key": "about.batch",
+      "namespace": "about",
+      "translations": {
+        "id": "Angkatan",
+        "en": "Batch",
+        "ja": "バッチ"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_dv4vkuz",
+      "projectId": "proj_c379c298",
+      "key": "experience.section_tag",
+      "namespace": "experience",
+      "translations": {
+        "id": "Pengalaman",
+        "en": "Experience",
+        "ja": "経験"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_7u09hdy",
+      "projectId": "proj_c379c298",
+      "key": "experience.title",
+      "namespace": "experience",
+      "translations": {
+        "id": "Pengalaman & Organisasi",
+        "en": "Experience & Organization",
+        "ja": "経験と組織"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_g2m0sxy",
+      "projectId": "proj_c379c298",
+      "key": "experience.photo_label",
+      "namespace": "experience",
+      "translations": {
+        "id": "Dokumentasi",
+        "en": "Documentation",
+        "ja": "ドキュメント"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_2pb9wvl",
+      "projectId": "proj_c379c298",
+      "key": "experience.committee_label",
+      "namespace": "experience",
+      "translations": {
+        "id": "Kepanitiaan",
+        "en": "Committee",
+        "ja": "委員会"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_rtyhbh4",
+      "projectId": "proj_c379c298",
+      "key": "experience.retry_label",
+      "namespace": "experience",
+      "translations": {
+        "id": "Coba lagi",
+        "en": "Retry",
+        "ja": "再試行"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_q6y47uu",
+      "projectId": "proj_c379c298",
+      "key": "experience.error_msg",
+      "namespace": "experience",
+      "translations": {
+        "id": "Gagal memuat data pengalaman",
+        "en": "Failed to load experience data",
+        "ja": "経験データのロードに失敗しました"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_jyf2isp",
+      "projectId": "proj_c379c298",
+      "key": "education.section_tag",
+      "namespace": "education",
+      "translations": {
+        "id": "Riwayat",
+        "en": "History",
+        "ja": "歴史"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_e01xge0",
+      "projectId": "proj_c379c298",
+      "key": "education.title",
+      "namespace": "education",
+      "translations": {
+        "id": "Pendidikan",
+        "en": "Education",
+        "ja": "教育"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_rfrtho9",
+      "projectId": "proj_c379c298",
+      "key": "skills.section_tag",
+      "namespace": "skills",
+      "translations": {
+        "id": "Kompetensi",
+        "en": "Competencies",
+        "ja": "コンピテンシー"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_tmresyw",
+      "projectId": "proj_c379c298",
+      "key": "skills.title",
+      "namespace": "skills",
+      "translations": {
+        "id": "Keahlian & Kemampuan",
+        "en": "Skills & Capabilities",
+        "ja": "スキルと能力"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_uy7vugt",
+      "projectId": "proj_c379c298",
+      "key": "certificates.section_tag",
+      "namespace": "certificates",
+      "translations": {
+        "id": "Pencapaian",
+        "en": "Achievements",
+        "ja": "業績"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_od14pjk",
+      "projectId": "proj_c379c298",
+      "key": "certificates.title",
+      "namespace": "certificates",
+      "translations": {
+        "id": "Sertifikat & Portofolio",
+        "en": "Certificates & Portfolio",
+        "ja": "証明書とポートフォリオ"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_h9vpfhe",
+      "projectId": "proj_c379c298",
+      "key": "certificates.tab_all",
+      "namespace": "certificates",
+      "translations": {
+        "id": "Semua",
+        "en": "All",
+        "ja": "すべて"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_8vo6967",
+      "projectId": "proj_c379c298",
+      "key": "certificates.tab_cert",
+      "namespace": "certificates",
+      "translations": {
+        "id": "Sertifikat",
+        "en": "Certificates",
+        "ja": "証明書"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_loafjod",
+      "projectId": "proj_c379c298",
+      "key": "certificates.tab_project",
+      "namespace": "certificates",
+      "translations": {
+        "id": "Proyek",
+        "en": "Projects",
+        "ja": "プロジェクト"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_p32d96p",
+      "projectId": "proj_c379c298",
+      "key": "certificates.tab_letter",
+      "namespace": "certificates",
+      "translations": {
+        "id": "Surat Rekomendasi",
+        "en": "Recommendation Letters",
+        "ja": "推薦状"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_31hti0c",
+      "projectId": "proj_c379c298",
+      "key": "contact.section_tag",
+      "namespace": "contact",
+      "translations": {
+        "id": "Kontak",
+        "en": "Contact",
+        "ja": "お問い合わせ"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_8k8oopb",
+      "projectId": "proj_c379c298",
+      "key": "contact.title",
+      "namespace": "contact",
+      "translations": {
+        "id": "Hubungi Saya",
+        "en": "Get In Touch",
+        "ja": "連絡する"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_tjglacc",
+      "projectId": "proj_c379c298",
+      "key": "contact.name_placeholder",
+      "namespace": "contact",
+      "translations": {
+        "id": "Nama Lengkap",
+        "en": "Full Name",
+        "ja": "フルネーム"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_f2rc9rs",
+      "projectId": "proj_c379c298",
+      "key": "contact.email_placeholder",
+      "namespace": "contact",
+      "translations": {
+        "id": "Alamat Email",
+        "en": "Email Address",
+        "ja": "メールアドレス"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_24e9eux",
+      "projectId": "proj_c379c298",
+      "key": "contact.message_placeholder",
+      "namespace": "contact",
+      "translations": {
+        "id": "Pesan Anda",
+        "en": "Your Message",
+        "ja": "あなたのメッセージ"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_2eityqh",
+      "projectId": "proj_c379c298",
+      "key": "contact.send_button",
+      "namespace": "contact",
+      "translations": {
+        "id": "Kirim Pesan",
+        "en": "Send Message",
+        "ja": "メッセージを送信する"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_hinxc58",
+      "projectId": "proj_c379c298",
+      "key": "contact.sending",
+      "namespace": "contact",
+      "translations": {
+        "id": "Mengirim...",
+        "en": "Sending...",
+        "ja": "送信中..."
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_3ds8won",
+      "projectId": "proj_c379c298",
+      "key": "contact.success",
+      "namespace": "contact",
+      "translations": {
+        "id": "Pesan berhasil terkirim!",
+        "en": "Message sent successfully!",
+        "ja": "メッセージは正常に送信されました。"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
+    },
+    {
+      "id": "t_irma_vxb8hkj",
+      "projectId": "proj_c379c298",
+      "key": "footer.crafted_with",
+      "namespace": "footer",
+      "translations": {
+        "id": "Dibuat dengan cinta oleh Irma Iryani © 2026",
+        "en": "Crafted with love by Irma Iryani © 2026",
+        "ja": "Irma Iryani が愛情を込めて作成 © 2026"
+      },
+      "createdAt": "2026-10-27T07:02:16.385Z",
+      "updatedAt": "2026-10-27T07:02:16.385Z"
     }
   ]
 }
